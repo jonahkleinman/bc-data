@@ -13312,7 +13312,7 @@
     "has_unpublished_menus": false,
     "menu_info": {
       "188755": {
-        "position": 3,
+        "position": 4,
         "section_options": {
           "display_name": null,
           "use_section_title": false,
@@ -13327,7 +13327,7 @@
           "section_title_can_expand_collapse": true
         }
       },
-      "188759": {
+      "188758": {
         "position": 2,
         "section_options": {
           "display_name": null,
@@ -13335,8 +13335,16 @@
           "section_title_can_expand_collapse": true
         }
       },
+      "188759": {
+        "position": 3,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
       "188761": {
-        "position": 4,
+        "position": 5,
         "section_options": {
           "display_name": null,
           "use_section_title": false,
@@ -13344,7 +13352,7 @@
         }
       },
       "188763": {
-        "position": 6,
+        "position": 7,
         "section_options": {
           "display_name": null,
           "use_section_title": false,
@@ -13352,7 +13360,7 @@
         }
       },
       "188767": {
-        "position": 7,
+        "position": 8,
         "section_options": {
           "display_name": null,
           "use_section_title": false,
@@ -13368,7 +13376,7 @@
         }
       },
       "188769": {
-        "position": 5,
+        "position": 6,
         "section_options": {
           "display_name": null,
           "use_section_title": false,
