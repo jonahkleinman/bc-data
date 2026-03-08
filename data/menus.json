@@ -15298,7 +15298,7 @@
         "blank_line": false,
         "food": {
           "id": 2060328,
-          "name": "Chipotle Barbecue Spiced Tofu",
+          "name": "Spiced Roasted Tofu",
           "description": "",
           "image_url": null,
           "image_alt_text": null,
@@ -15383,7 +15383,7 @@
           "synced_id": "63417.6",
           "sync_placeholder": null,
           "has_options_or_sides": false,
-          "digest": "pujR89ZNenwR+Q40IzXvkYcxy33kUF/wznleZ/hPsJSalY7U/3igHd1OJcYFmQ3BpL0JvgHTjsb7GN8HH8541g==",
+          "digest": "zgdq011Y15pWpn3f+7e5Qayk3YT8Yp8jfwze785iaPFtmcaa2d5iBeSx6SEjTygYrJ4RUb9f5e1oXz6ELr/45A==",
           "pos_item_id": "",
           "smart_recipe_id": null,
           "has_subfoods": false,
@@ -15396,7 +15396,7 @@
           "subtext": "",
           "subtext_unlocked": false,
           "nested_foods": [],
-          "nested_foods_unlocked": false,
+          "nested_foods_unlocked": true,
           "ordering_enabled": true,
           "ordering_enabled_unlocked": false
         },
@@ -16527,7 +16527,7 @@
         "blank_line": false,
         "food": {
           "id": 2060328,
-          "name": "Chipotle Barbecue Spiced Tofu",
+          "name": "Spiced Roasted Tofu",
           "description": "",
           "image_url": null,
           "image_alt_text": null,
@@ -16612,7 +16612,7 @@
           "synced_id": "63417.6",
           "sync_placeholder": null,
           "has_options_or_sides": false,
-          "digest": "pujR89ZNenwR+Q40IzXvkYcxy33kUF/wznleZ/hPsJSalY7U/3igHd1OJcYFmQ3BpL0JvgHTjsb7GN8HH8541g==",
+          "digest": "zgdq011Y15pWpn3f+7e5Qayk3YT8Yp8jfwze785iaPFtmcaa2d5iBeSx6SEjTygYrJ4RUb9f5e1oXz6ELr/45A==",
           "pos_item_id": "",
           "smart_recipe_id": null,
           "has_subfoods": false,
@@ -16625,7 +16625,7 @@
           "subtext": "",
           "subtext_unlocked": false,
           "nested_foods": [],
-          "nested_foods_unlocked": false,
+          "nested_foods_unlocked": true,
           "ordering_enabled": true,
           "ordering_enabled_unlocked": false
         },
