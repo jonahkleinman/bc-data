@@ -1,49 +1,4 @@
 {
-  "2026-04-01": {
-    "date": "2026-04-01",
-    "has_unpublished_menus": false,
-    "menu_info": {
-      "217911": {
-        "position": 0,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      }
-    },
-    "menu_items": []
-  },
-  "2026-04-02": {
-    "date": "2026-04-02",
-    "has_unpublished_menus": false,
-    "menu_info": {
-      "217911": {
-        "position": 0,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      }
-    },
-    "menu_items": []
-  },
-  "2026-04-03": {
-    "date": "2026-04-03",
-    "has_unpublished_menus": false,
-    "menu_info": {
-      "217911": {
-        "position": 0,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      }
-    },
-    "menu_items": []
-  },
   "2026-04-06": {
     "date": "2026-04-06",
     "has_unpublished_menus": false,
@@ -468,6 +423,31 @@
                 "sort_order": 5,
                 "_enabled": true,
                 "food_icon_group": 3593
+              },
+              {
+                "id": 21181,
+                "synced_name": "vegan",
+                "enabled": true,
+                "spotlight_enabled": false,
+                "sprite": null,
+                "custom_icon_url": "https://custom-icons.nutrislice.com/catertoyoufoodservice.nutrislice.com/special_diet/custom_icons/Vegan_New.png",
+                "custom_icon": 1402,
+                "custom_spotlight_icon_url": null,
+                "custom_spotlight_icon": null,
+                "type": 1,
+                "behavior": 2,
+                "is_filter": false,
+                "is_highlight": true,
+                "is_digital_signage_only": false,
+                "slug": "vegan",
+                "icon_slug": null,
+                "spotlight_icon_slug": null,
+                "name": "Vegan",
+                "_synced_name": "vegan",
+                "help_text": "This item is vegan!",
+                "sort_order": 1,
+                "_enabled": true,
+                "food_icon_group": 3594
               }
             ],
             "myplate_icons": []
@@ -1541,7 +1521,33 @@
           },
           "has_nutrition_info": true,
           "icons": {
-            "food_icons": [],
+            "food_icons": [
+              {
+                "id": 21181,
+                "synced_name": "vegan",
+                "enabled": true,
+                "spotlight_enabled": false,
+                "sprite": null,
+                "custom_icon_url": "https://custom-icons.nutrislice.com/catertoyoufoodservice.nutrislice.com/special_diet/custom_icons/Vegan_New.png",
+                "custom_icon": 1402,
+                "custom_spotlight_icon_url": null,
+                "custom_spotlight_icon": null,
+                "type": 1,
+                "behavior": 2,
+                "is_filter": false,
+                "is_highlight": true,
+                "is_digital_signage_only": false,
+                "slug": "vegan",
+                "icon_slug": null,
+                "spotlight_icon_slug": null,
+                "name": "Vegan",
+                "_synced_name": "vegan",
+                "help_text": "This item is vegan!",
+                "sort_order": 1,
+                "_enabled": true,
+                "food_icon_group": 3594
+              }
+            ],
             "myplate_icons": []
           },
           "icons_approved": true,
@@ -1840,7 +1846,7 @@
         "blank_line": false,
         "food": {
           "id": 473687,
-          "name": "Balsamic Roasted Chicken (Passover)",
+          "name": "Balsamic Roasted Chicken",
           "description": "",
           "subtext": "",
           "image_url": null,
@@ -1897,7 +1903,7 @@
           "synced_id": "cmVjaXBlOjczMjY4Mg==",
           "sync_placeholder": null,
           "has_options_or_sides": false,
-          "digest": "xvDSJFmXKv0I5081/UAe60mLAXF63U3oaxL6Lk0TC1buZ4D2EdMC+Fy8kO5Vi4Rbpm0yEHMDKanr4SPwD2SvLA==",
+          "digest": "CCDX5t0RtQ4oGXh0lB9P8PKyQhSHZp+HNm4tjJ/7aJxyY52ESYAi22kQvCtkWxSpcEBvrMmrxzah7Y8b4hb/7g==",
           "pos_item_id": "",
           "smart_recipe_id": null,
           "has_subfoods": false,
@@ -2016,7 +2022,33 @@
           },
           "has_nutrition_info": true,
           "icons": {
-            "food_icons": [],
+            "food_icons": [
+              {
+                "id": 21180,
+                "synced_name": "vegetarian",
+                "enabled": true,
+                "spotlight_enabled": false,
+                "sprite": null,
+                "custom_icon_url": "https://custom-icons.nutrislice.com/catertoyoufoodservice.nutrislice.com/special_diet/custom_icons/Vegetarian_1.png",
+                "custom_icon": 1395,
+                "custom_spotlight_icon_url": null,
+                "custom_spotlight_icon": null,
+                "type": 1,
+                "behavior": 2,
+                "is_filter": false,
+                "is_highlight": true,
+                "is_digital_signage_only": false,
+                "slug": "vegetarian",
+                "icon_slug": null,
+                "spotlight_icon_slug": null,
+                "name": "Vegetarian",
+                "_synced_name": "vegetarian",
+                "help_text": "This item is vegetarian!",
+                "sort_order": 0,
+                "_enabled": true,
+                "food_icon_group": 3594
+              }
+            ],
             "myplate_icons": []
           },
           "icons_approved": true,
@@ -2152,7 +2184,33 @@
           },
           "has_nutrition_info": true,
           "icons": {
-            "food_icons": [],
+            "food_icons": [
+              {
+                "id": 21180,
+                "synced_name": "vegetarian",
+                "enabled": true,
+                "spotlight_enabled": false,
+                "sprite": null,
+                "custom_icon_url": "https://custom-icons.nutrislice.com/catertoyoufoodservice.nutrislice.com/special_diet/custom_icons/Vegetarian_1.png",
+                "custom_icon": 1395,
+                "custom_spotlight_icon_url": null,
+                "custom_spotlight_icon": null,
+                "type": 1,
+                "behavior": 2,
+                "is_filter": false,
+                "is_highlight": true,
+                "is_digital_signage_only": false,
+                "slug": "vegetarian",
+                "icon_slug": null,
+                "spotlight_icon_slug": null,
+                "name": "Vegetarian",
+                "_synced_name": "vegetarian",
+                "help_text": "This item is vegetarian!",
+                "sort_order": 0,
+                "_enabled": true,
+                "food_icon_group": 3594
+              }
+            ],
             "myplate_icons": []
           },
           "icons_approved": true,
@@ -2840,6 +2898,31 @@
                 "sort_order": 2,
                 "_enabled": true,
                 "food_icon_group": 3593
+              },
+              {
+                "id": 21180,
+                "synced_name": "vegetarian",
+                "enabled": true,
+                "spotlight_enabled": false,
+                "sprite": null,
+                "custom_icon_url": "https://custom-icons.nutrislice.com/catertoyoufoodservice.nutrislice.com/special_diet/custom_icons/Vegetarian_1.png",
+                "custom_icon": 1395,
+                "custom_spotlight_icon_url": null,
+                "custom_spotlight_icon": null,
+                "type": 1,
+                "behavior": 2,
+                "is_filter": false,
+                "is_highlight": true,
+                "is_digital_signage_only": false,
+                "slug": "vegetarian",
+                "icon_slug": null,
+                "spotlight_icon_slug": null,
+                "name": "Vegetarian",
+                "_synced_name": "vegetarian",
+                "help_text": "This item is vegetarian!",
+                "sort_order": 0,
+                "_enabled": true,
+                "food_icon_group": 3594
               }
             ],
             "myplate_icons": []
@@ -2977,7 +3060,33 @@
           },
           "has_nutrition_info": true,
           "icons": {
-            "food_icons": [],
+            "food_icons": [
+              {
+                "id": 21181,
+                "synced_name": "vegan",
+                "enabled": true,
+                "spotlight_enabled": false,
+                "sprite": null,
+                "custom_icon_url": "https://custom-icons.nutrislice.com/catertoyoufoodservice.nutrislice.com/special_diet/custom_icons/Vegan_New.png",
+                "custom_icon": 1402,
+                "custom_spotlight_icon_url": null,
+                "custom_spotlight_icon": null,
+                "type": 1,
+                "behavior": 2,
+                "is_filter": false,
+                "is_highlight": true,
+                "is_digital_signage_only": false,
+                "slug": "vegan",
+                "icon_slug": null,
+                "spotlight_icon_slug": null,
+                "name": "Vegan",
+                "_synced_name": "vegan",
+                "help_text": "This item is vegan!",
+                "sort_order": 1,
+                "_enabled": true,
+                "food_icon_group": 3594
+              }
+            ],
             "myplate_icons": []
           },
           "icons_approved": true,
@@ -4231,7 +4340,33 @@
           },
           "has_nutrition_info": true,
           "icons": {
-            "food_icons": [],
+            "food_icons": [
+              {
+                "id": 21181,
+                "synced_name": "vegan",
+                "enabled": true,
+                "spotlight_enabled": false,
+                "sprite": null,
+                "custom_icon_url": "https://custom-icons.nutrislice.com/catertoyoufoodservice.nutrislice.com/special_diet/custom_icons/Vegan_New.png",
+                "custom_icon": 1402,
+                "custom_spotlight_icon_url": null,
+                "custom_spotlight_icon": null,
+                "type": 1,
+                "behavior": 2,
+                "is_filter": false,
+                "is_highlight": true,
+                "is_digital_signage_only": false,
+                "slug": "vegan",
+                "icon_slug": null,
+                "spotlight_icon_slug": null,
+                "name": "Vegan",
+                "_synced_name": "vegan",
+                "help_text": "This item is vegan!",
+                "sort_order": 1,
+                "_enabled": true,
+                "food_icon_group": 3594
+              }
+            ],
             "myplate_icons": []
           },
           "icons_approved": true,
@@ -4383,7 +4518,33 @@
           },
           "has_nutrition_info": true,
           "icons": {
-            "food_icons": [],
+            "food_icons": [
+              {
+                "id": 21181,
+                "synced_name": "vegan",
+                "enabled": true,
+                "spotlight_enabled": false,
+                "sprite": null,
+                "custom_icon_url": "https://custom-icons.nutrislice.com/catertoyoufoodservice.nutrislice.com/special_diet/custom_icons/Vegan_New.png",
+                "custom_icon": 1402,
+                "custom_spotlight_icon_url": null,
+                "custom_spotlight_icon": null,
+                "type": 1,
+                "behavior": 2,
+                "is_filter": false,
+                "is_highlight": true,
+                "is_digital_signage_only": false,
+                "slug": "vegan",
+                "icon_slug": null,
+                "spotlight_icon_slug": null,
+                "name": "Vegan",
+                "_synced_name": "vegan",
+                "help_text": "This item is vegan!",
+                "sort_order": 1,
+                "_enabled": true,
+                "food_icon_group": 3594
+              }
+            ],
             "myplate_icons": []
           },
           "icons_approved": true,
@@ -6608,6 +6769,31 @@
                 "sort_order": 0,
                 "_enabled": true,
                 "food_icon_group": 3593
+              },
+              {
+                "id": 21181,
+                "synced_name": "vegan",
+                "enabled": true,
+                "spotlight_enabled": false,
+                "sprite": null,
+                "custom_icon_url": "https://custom-icons.nutrislice.com/catertoyoufoodservice.nutrislice.com/special_diet/custom_icons/Vegan_New.png",
+                "custom_icon": 1402,
+                "custom_spotlight_icon_url": null,
+                "custom_spotlight_icon": null,
+                "type": 1,
+                "behavior": 2,
+                "is_filter": false,
+                "is_highlight": true,
+                "is_digital_signage_only": false,
+                "slug": "vegan",
+                "icon_slug": null,
+                "spotlight_icon_slug": null,
+                "name": "Vegan",
+                "_synced_name": "vegan",
+                "help_text": "This item is vegan!",
+                "sort_order": 1,
+                "_enabled": true,
+                "food_icon_group": 3594
               }
             ],
             "myplate_icons": []
@@ -8729,7 +8915,33 @@
           },
           "has_nutrition_info": true,
           "icons": {
-            "food_icons": [],
+            "food_icons": [
+              {
+                "id": 21181,
+                "synced_name": "vegan",
+                "enabled": true,
+                "spotlight_enabled": false,
+                "sprite": null,
+                "custom_icon_url": "https://custom-icons.nutrislice.com/catertoyoufoodservice.nutrislice.com/special_diet/custom_icons/Vegan_New.png",
+                "custom_icon": 1402,
+                "custom_spotlight_icon_url": null,
+                "custom_spotlight_icon": null,
+                "type": 1,
+                "behavior": 2,
+                "is_filter": false,
+                "is_highlight": true,
+                "is_digital_signage_only": false,
+                "slug": "vegan",
+                "icon_slug": null,
+                "spotlight_icon_slug": null,
+                "name": "Vegan",
+                "_synced_name": "vegan",
+                "help_text": "This item is vegan!",
+                "sort_order": 1,
+                "_enabled": true,
+                "food_icon_group": 3594
+              }
+            ],
             "myplate_icons": []
           },
           "icons_approved": true,
@@ -9442,6 +9654,31 @@
                 "sort_order": 0,
                 "_enabled": true,
                 "food_icon_group": 3593
+              },
+              {
+                "id": 21181,
+                "synced_name": "vegan",
+                "enabled": true,
+                "spotlight_enabled": false,
+                "sprite": null,
+                "custom_icon_url": "https://custom-icons.nutrislice.com/catertoyoufoodservice.nutrislice.com/special_diet/custom_icons/Vegan_New.png",
+                "custom_icon": 1402,
+                "custom_spotlight_icon_url": null,
+                "custom_spotlight_icon": null,
+                "type": 1,
+                "behavior": 2,
+                "is_filter": false,
+                "is_highlight": true,
+                "is_digital_signage_only": false,
+                "slug": "vegan",
+                "icon_slug": null,
+                "spotlight_icon_slug": null,
+                "name": "Vegan",
+                "_synced_name": "vegan",
+                "help_text": "This item is vegan!",
+                "sort_order": 1,
+                "_enabled": true,
+                "food_icon_group": 3594
               }
             ],
             "myplate_icons": []
@@ -9579,7 +9816,33 @@
           },
           "has_nutrition_info": true,
           "icons": {
-            "food_icons": [],
+            "food_icons": [
+              {
+                "id": 21181,
+                "synced_name": "vegan",
+                "enabled": true,
+                "spotlight_enabled": false,
+                "sprite": null,
+                "custom_icon_url": "https://custom-icons.nutrislice.com/catertoyoufoodservice.nutrislice.com/special_diet/custom_icons/Vegan_New.png",
+                "custom_icon": 1402,
+                "custom_spotlight_icon_url": null,
+                "custom_spotlight_icon": null,
+                "type": 1,
+                "behavior": 2,
+                "is_filter": false,
+                "is_highlight": true,
+                "is_digital_signage_only": false,
+                "slug": "vegan",
+                "icon_slug": null,
+                "spotlight_icon_slug": null,
+                "name": "Vegan",
+                "_synced_name": "vegan",
+                "help_text": "This item is vegan!",
+                "sort_order": 1,
+                "_enabled": true,
+                "food_icon_group": 3594
+              }
+            ],
             "myplate_icons": []
           },
           "icons_approved": true,
@@ -10342,6 +10605,31 @@
                 "sort_order": 2,
                 "_enabled": true,
                 "food_icon_group": 3593
+              },
+              {
+                "id": 21180,
+                "synced_name": "vegetarian",
+                "enabled": true,
+                "spotlight_enabled": false,
+                "sprite": null,
+                "custom_icon_url": "https://custom-icons.nutrislice.com/catertoyoufoodservice.nutrislice.com/special_diet/custom_icons/Vegetarian_1.png",
+                "custom_icon": 1395,
+                "custom_spotlight_icon_url": null,
+                "custom_spotlight_icon": null,
+                "type": 1,
+                "behavior": 2,
+                "is_filter": false,
+                "is_highlight": true,
+                "is_digital_signage_only": false,
+                "slug": "vegetarian",
+                "icon_slug": null,
+                "spotlight_icon_slug": null,
+                "name": "Vegetarian",
+                "_synced_name": "vegetarian",
+                "help_text": "This item is vegetarian!",
+                "sort_order": 0,
+                "_enabled": true,
+                "food_icon_group": 3594
               }
             ],
             "myplate_icons": []
@@ -10479,7 +10767,33 @@
           },
           "has_nutrition_info": true,
           "icons": {
-            "food_icons": [],
+            "food_icons": [
+              {
+                "id": 21181,
+                "synced_name": "vegan",
+                "enabled": true,
+                "spotlight_enabled": false,
+                "sprite": null,
+                "custom_icon_url": "https://custom-icons.nutrislice.com/catertoyoufoodservice.nutrislice.com/special_diet/custom_icons/Vegan_New.png",
+                "custom_icon": 1402,
+                "custom_spotlight_icon_url": null,
+                "custom_spotlight_icon": null,
+                "type": 1,
+                "behavior": 2,
+                "is_filter": false,
+                "is_highlight": true,
+                "is_digital_signage_only": false,
+                "slug": "vegan",
+                "icon_slug": null,
+                "spotlight_icon_slug": null,
+                "name": "Vegan",
+                "_synced_name": "vegan",
+                "help_text": "This item is vegan!",
+                "sort_order": 1,
+                "_enabled": true,
+                "food_icon_group": 3594
+              }
+            ],
             "myplate_icons": []
           },
           "icons_approved": true,
@@ -10793,7 +11107,33 @@
           },
           "has_nutrition_info": true,
           "icons": {
-            "food_icons": [],
+            "food_icons": [
+              {
+                "id": 21181,
+                "synced_name": "vegan",
+                "enabled": true,
+                "spotlight_enabled": false,
+                "sprite": null,
+                "custom_icon_url": "https://custom-icons.nutrislice.com/catertoyoufoodservice.nutrislice.com/special_diet/custom_icons/Vegan_New.png",
+                "custom_icon": 1402,
+                "custom_spotlight_icon_url": null,
+                "custom_spotlight_icon": null,
+                "type": 1,
+                "behavior": 2,
+                "is_filter": false,
+                "is_highlight": true,
+                "is_digital_signage_only": false,
+                "slug": "vegan",
+                "icon_slug": null,
+                "spotlight_icon_slug": null,
+                "name": "Vegan",
+                "_synced_name": "vegan",
+                "help_text": "This item is vegan!",
+                "sort_order": 1,
+                "_enabled": true,
+                "food_icon_group": 3594
+              }
+            ],
             "myplate_icons": []
           },
           "icons_approved": true,
@@ -11065,7 +11405,33 @@
           },
           "has_nutrition_info": true,
           "icons": {
-            "food_icons": [],
+            "food_icons": [
+              {
+                "id": 21181,
+                "synced_name": "vegan",
+                "enabled": true,
+                "spotlight_enabled": false,
+                "sprite": null,
+                "custom_icon_url": "https://custom-icons.nutrislice.com/catertoyoufoodservice.nutrislice.com/special_diet/custom_icons/Vegan_New.png",
+                "custom_icon": 1402,
+                "custom_spotlight_icon_url": null,
+                "custom_spotlight_icon": null,
+                "type": 1,
+                "behavior": 2,
+                "is_filter": false,
+                "is_highlight": true,
+                "is_digital_signage_only": false,
+                "slug": "vegan",
+                "icon_slug": null,
+                "spotlight_icon_slug": null,
+                "name": "Vegan",
+                "_synced_name": "vegan",
+                "help_text": "This item is vegan!",
+                "sort_order": 1,
+                "_enabled": true,
+                "food_icon_group": 3594
+              }
+            ],
             "myplate_icons": []
           },
           "icons_approved": true,
@@ -11541,7 +11907,33 @@
           },
           "has_nutrition_info": true,
           "icons": {
-            "food_icons": [],
+            "food_icons": [
+              {
+                "id": 21181,
+                "synced_name": "vegan",
+                "enabled": true,
+                "spotlight_enabled": false,
+                "sprite": null,
+                "custom_icon_url": "https://custom-icons.nutrislice.com/catertoyoufoodservice.nutrislice.com/special_diet/custom_icons/Vegan_New.png",
+                "custom_icon": 1402,
+                "custom_spotlight_icon_url": null,
+                "custom_spotlight_icon": null,
+                "type": 1,
+                "behavior": 2,
+                "is_filter": false,
+                "is_highlight": true,
+                "is_digital_signage_only": false,
+                "slug": "vegan",
+                "icon_slug": null,
+                "spotlight_icon_slug": null,
+                "name": "Vegan",
+                "_synced_name": "vegan",
+                "help_text": "This item is vegan!",
+                "sort_order": 1,
+                "_enabled": true,
+                "food_icon_group": 3594
+              }
+            ],
             "myplate_icons": []
           },
           "icons_approved": true,
@@ -12127,7 +12519,33 @@
           },
           "has_nutrition_info": true,
           "icons": {
-            "food_icons": [],
+            "food_icons": [
+              {
+                "id": 21180,
+                "synced_name": "vegetarian",
+                "enabled": true,
+                "spotlight_enabled": false,
+                "sprite": null,
+                "custom_icon_url": "https://custom-icons.nutrislice.com/catertoyoufoodservice.nutrislice.com/special_diet/custom_icons/Vegetarian_1.png",
+                "custom_icon": 1395,
+                "custom_spotlight_icon_url": null,
+                "custom_spotlight_icon": null,
+                "type": 1,
+                "behavior": 2,
+                "is_filter": false,
+                "is_highlight": true,
+                "is_digital_signage_only": false,
+                "slug": "vegetarian",
+                "icon_slug": null,
+                "spotlight_icon_slug": null,
+                "name": "Vegetarian",
+                "_synced_name": "vegetarian",
+                "help_text": "This item is vegetarian!",
+                "sort_order": 0,
+                "_enabled": true,
+                "food_icon_group": 3594
+              }
+            ],
             "myplate_icons": []
           },
           "icons_approved": true,
@@ -14495,6 +14913,31 @@
                 "sort_order": 2,
                 "_enabled": true,
                 "food_icon_group": 3593
+              },
+              {
+                "id": 21180,
+                "synced_name": "vegetarian",
+                "enabled": true,
+                "spotlight_enabled": false,
+                "sprite": null,
+                "custom_icon_url": "https://custom-icons.nutrislice.com/catertoyoufoodservice.nutrislice.com/special_diet/custom_icons/Vegetarian_1.png",
+                "custom_icon": 1395,
+                "custom_spotlight_icon_url": null,
+                "custom_spotlight_icon": null,
+                "type": 1,
+                "behavior": 2,
+                "is_filter": false,
+                "is_highlight": true,
+                "is_digital_signage_only": false,
+                "slug": "vegetarian",
+                "icon_slug": null,
+                "spotlight_icon_slug": null,
+                "name": "Vegetarian",
+                "_synced_name": "vegetarian",
+                "help_text": "This item is vegetarian!",
+                "sort_order": 0,
+                "_enabled": true,
+                "food_icon_group": 3594
               }
             ],
             "myplate_icons": []
@@ -15457,7 +15900,33 @@
           },
           "has_nutrition_info": true,
           "icons": {
-            "food_icons": [],
+            "food_icons": [
+              {
+                "id": 21181,
+                "synced_name": "vegan",
+                "enabled": true,
+                "spotlight_enabled": false,
+                "sprite": null,
+                "custom_icon_url": "https://custom-icons.nutrislice.com/catertoyoufoodservice.nutrislice.com/special_diet/custom_icons/Vegan_New.png",
+                "custom_icon": 1402,
+                "custom_spotlight_icon_url": null,
+                "custom_spotlight_icon": null,
+                "type": 1,
+                "behavior": 2,
+                "is_filter": false,
+                "is_highlight": true,
+                "is_digital_signage_only": false,
+                "slug": "vegan",
+                "icon_slug": null,
+                "spotlight_icon_slug": null,
+                "name": "Vegan",
+                "_synced_name": "vegan",
+                "help_text": "This item is vegan!",
+                "sort_order": 1,
+                "_enabled": true,
+                "food_icon_group": 3594
+              }
+            ],
             "myplate_icons": []
           },
           "icons_approved": true,
@@ -16170,6 +16639,31 @@
                 "sort_order": 5,
                 "_enabled": true,
                 "food_icon_group": 3593
+              },
+              {
+                "id": 21181,
+                "synced_name": "vegan",
+                "enabled": true,
+                "spotlight_enabled": false,
+                "sprite": null,
+                "custom_icon_url": "https://custom-icons.nutrislice.com/catertoyoufoodservice.nutrislice.com/special_diet/custom_icons/Vegan_New.png",
+                "custom_icon": 1402,
+                "custom_spotlight_icon_url": null,
+                "custom_spotlight_icon": null,
+                "type": 1,
+                "behavior": 2,
+                "is_filter": false,
+                "is_highlight": true,
+                "is_digital_signage_only": false,
+                "slug": "vegan",
+                "icon_slug": null,
+                "spotlight_icon_slug": null,
+                "name": "Vegan",
+                "_synced_name": "vegan",
+                "help_text": "This item is vegan!",
+                "sort_order": 1,
+                "_enabled": true,
+                "food_icon_group": 3594
               }
             ],
             "myplate_icons": []
@@ -16494,6 +16988,31 @@
                 "sort_order": 5,
                 "_enabled": true,
                 "food_icon_group": 3593
+              },
+              {
+                "id": 21180,
+                "synced_name": "vegetarian",
+                "enabled": true,
+                "spotlight_enabled": false,
+                "sprite": null,
+                "custom_icon_url": "https://custom-icons.nutrislice.com/catertoyoufoodservice.nutrislice.com/special_diet/custom_icons/Vegetarian_1.png",
+                "custom_icon": 1395,
+                "custom_spotlight_icon_url": null,
+                "custom_spotlight_icon": null,
+                "type": 1,
+                "behavior": 2,
+                "is_filter": false,
+                "is_highlight": true,
+                "is_digital_signage_only": false,
+                "slug": "vegetarian",
+                "icon_slug": null,
+                "spotlight_icon_slug": null,
+                "name": "Vegetarian",
+                "_synced_name": "vegetarian",
+                "help_text": "This item is vegetarian!",
+                "sort_order": 0,
+                "_enabled": true,
+                "food_icon_group": 3594
               }
             ],
             "myplate_icons": []
