@@ -486,6 +486,36 @@
                 "sort_order": 3,
                 "_enabled": true,
                 "food_icon_group": 6783
+              },
+              {
+                "id": 32923,
+                "synced_name": "Fish",
+                "enabled": true,
+                "spotlight_enabled": false,
+                "sprite": {
+                  "slug": "default.fish",
+                  "name": "Fish",
+                  "help_text": "This contains fish",
+                  "class_name": "fish-icon"
+                },
+                "custom_icon_url": null,
+                "custom_icon": null,
+                "custom_spotlight_icon_url": null,
+                "custom_spotlight_icon": null,
+                "type": 1,
+                "behavior": 1,
+                "is_filter": true,
+                "is_highlight": false,
+                "is_digital_signage_only": false,
+                "slug": "fish",
+                "icon_slug": "default.fish",
+                "spotlight_icon_slug": null,
+                "name": "Fish",
+                "_synced_name": "",
+                "help_text": "This contains fish",
+                "sort_order": 6,
+                "_enabled": true,
+                "food_icon_group": 6783
               }
             ],
             "myplate_icons": []
@@ -2685,6 +2715,36 @@
                 "_synced_name": "",
                 "help_text": "This contains peanuts",
                 "sort_order": 4,
+                "_enabled": true,
+                "food_icon_group": 6783
+              },
+              {
+                "id": 32922,
+                "synced_name": "Tree Nuts",
+                "enabled": true,
+                "spotlight_enabled": false,
+                "sprite": {
+                  "slug": "default.tree-nuts",
+                  "name": "Tree Nuts",
+                  "help_text": "This contains tree nuts",
+                  "class_name": "tree-nuts-icon"
+                },
+                "custom_icon_url": null,
+                "custom_icon": null,
+                "custom_spotlight_icon_url": null,
+                "custom_spotlight_icon": null,
+                "type": 1,
+                "behavior": 1,
+                "is_filter": true,
+                "is_highlight": false,
+                "is_digital_signage_only": false,
+                "slug": "tree-nuts",
+                "icon_slug": "default.tree-nuts",
+                "spotlight_icon_slug": null,
+                "name": "Tree Nuts",
+                "_synced_name": "",
+                "help_text": "This contains tree nuts",
+                "sort_order": 5,
                 "_enabled": true,
                 "food_icon_group": 6783
               }
@@ -6364,6 +6424,36 @@
                 "sort_order": 4,
                 "_enabled": true,
                 "food_icon_group": 6783
+              },
+              {
+                "id": 32922,
+                "synced_name": "Tree Nuts",
+                "enabled": true,
+                "spotlight_enabled": false,
+                "sprite": {
+                  "slug": "default.tree-nuts",
+                  "name": "Tree Nuts",
+                  "help_text": "This contains tree nuts",
+                  "class_name": "tree-nuts-icon"
+                },
+                "custom_icon_url": null,
+                "custom_icon": null,
+                "custom_spotlight_icon_url": null,
+                "custom_spotlight_icon": null,
+                "type": 1,
+                "behavior": 1,
+                "is_filter": true,
+                "is_highlight": false,
+                "is_digital_signage_only": false,
+                "slug": "tree-nuts",
+                "icon_slug": "default.tree-nuts",
+                "spotlight_icon_slug": null,
+                "name": "Tree Nuts",
+                "_synced_name": "",
+                "help_text": "This contains tree nuts",
+                "sort_order": 5,
+                "_enabled": true,
+                "food_icon_group": 6783
               }
             ],
             "myplate_icons": []
@@ -7448,6 +7538,36 @@
                 "_synced_name": "",
                 "help_text": "This contains soy",
                 "sort_order": 3,
+                "_enabled": true,
+                "food_icon_group": 6783
+              },
+              {
+                "id": 32923,
+                "synced_name": "Fish",
+                "enabled": true,
+                "spotlight_enabled": false,
+                "sprite": {
+                  "slug": "default.fish",
+                  "name": "Fish",
+                  "help_text": "This contains fish",
+                  "class_name": "fish-icon"
+                },
+                "custom_icon_url": null,
+                "custom_icon": null,
+                "custom_spotlight_icon_url": null,
+                "custom_spotlight_icon": null,
+                "type": 1,
+                "behavior": 1,
+                "is_filter": true,
+                "is_highlight": false,
+                "is_digital_signage_only": false,
+                "slug": "fish",
+                "icon_slug": "default.fish",
+                "spotlight_icon_slug": null,
+                "name": "Fish",
+                "_synced_name": "",
+                "help_text": "This contains fish",
+                "sort_order": 6,
                 "_enabled": true,
                 "food_icon_group": 6783
               }
@@ -9066,6 +9186,36 @@
                 "sort_order": 4,
                 "_enabled": true,
                 "food_icon_group": 6783
+              },
+              {
+                "id": 32922,
+                "synced_name": "Tree Nuts",
+                "enabled": true,
+                "spotlight_enabled": false,
+                "sprite": {
+                  "slug": "default.tree-nuts",
+                  "name": "Tree Nuts",
+                  "help_text": "This contains tree nuts",
+                  "class_name": "tree-nuts-icon"
+                },
+                "custom_icon_url": null,
+                "custom_icon": null,
+                "custom_spotlight_icon_url": null,
+                "custom_spotlight_icon": null,
+                "type": 1,
+                "behavior": 1,
+                "is_filter": true,
+                "is_highlight": false,
+                "is_digital_signage_only": false,
+                "slug": "tree-nuts",
+                "icon_slug": "default.tree-nuts",
+                "spotlight_icon_slug": null,
+                "name": "Tree Nuts",
+                "_synced_name": "",
+                "help_text": "This contains tree nuts",
+                "sort_order": 5,
+                "_enabled": true,
+                "food_icon_group": 6783
               }
             ],
             "myplate_icons": []
@@ -10296,6 +10446,36 @@
                 "_synced_name": "",
                 "help_text": "This contains soy",
                 "sort_order": 3,
+                "_enabled": true,
+                "food_icon_group": 6783
+              },
+              {
+                "id": 32923,
+                "synced_name": "Fish",
+                "enabled": true,
+                "spotlight_enabled": false,
+                "sprite": {
+                  "slug": "default.fish",
+                  "name": "Fish",
+                  "help_text": "This contains fish",
+                  "class_name": "fish-icon"
+                },
+                "custom_icon_url": null,
+                "custom_icon": null,
+                "custom_spotlight_icon_url": null,
+                "custom_spotlight_icon": null,
+                "type": 1,
+                "behavior": 1,
+                "is_filter": true,
+                "is_highlight": false,
+                "is_digital_signage_only": false,
+                "slug": "fish",
+                "icon_slug": "default.fish",
+                "spotlight_icon_slug": null,
+                "name": "Fish",
+                "_synced_name": "",
+                "help_text": "This contains fish",
+                "sort_order": 6,
                 "_enabled": true,
                 "food_icon_group": 6783
               }
@@ -15186,6 +15366,36 @@
                 "sort_order": 4,
                 "_enabled": true,
                 "food_icon_group": 6783
+              },
+              {
+                "id": 32922,
+                "synced_name": "Tree Nuts",
+                "enabled": true,
+                "spotlight_enabled": false,
+                "sprite": {
+                  "slug": "default.tree-nuts",
+                  "name": "Tree Nuts",
+                  "help_text": "This contains tree nuts",
+                  "class_name": "tree-nuts-icon"
+                },
+                "custom_icon_url": null,
+                "custom_icon": null,
+                "custom_spotlight_icon_url": null,
+                "custom_spotlight_icon": null,
+                "type": 1,
+                "behavior": 1,
+                "is_filter": true,
+                "is_highlight": false,
+                "is_digital_signage_only": false,
+                "slug": "tree-nuts",
+                "icon_slug": "default.tree-nuts",
+                "spotlight_icon_slug": null,
+                "name": "Tree Nuts",
+                "_synced_name": "",
+                "help_text": "This contains tree nuts",
+                "sort_order": 5,
+                "_enabled": true,
+                "food_icon_group": 6783
               }
             ],
             "myplate_icons": []
@@ -16278,6 +16488,36 @@
                 "_synced_name": "",
                 "help_text": "This contains soy",
                 "sort_order": 3,
+                "_enabled": true,
+                "food_icon_group": 6783
+              },
+              {
+                "id": 32923,
+                "synced_name": "Fish",
+                "enabled": true,
+                "spotlight_enabled": false,
+                "sprite": {
+                  "slug": "default.fish",
+                  "name": "Fish",
+                  "help_text": "This contains fish",
+                  "class_name": "fish-icon"
+                },
+                "custom_icon_url": null,
+                "custom_icon": null,
+                "custom_spotlight_icon_url": null,
+                "custom_spotlight_icon": null,
+                "type": 1,
+                "behavior": 1,
+                "is_filter": true,
+                "is_highlight": false,
+                "is_digital_signage_only": false,
+                "slug": "fish",
+                "icon_slug": "default.fish",
+                "spotlight_icon_slug": null,
+                "name": "Fish",
+                "_synced_name": "",
+                "help_text": "This contains fish",
+                "sort_order": 6,
                 "_enabled": true,
                 "food_icon_group": 6783
               }
@@ -18050,6 +18290,36 @@
                 "_synced_name": "",
                 "help_text": "This contains peanuts",
                 "sort_order": 4,
+                "_enabled": true,
+                "food_icon_group": 6783
+              },
+              {
+                "id": 32922,
+                "synced_name": "Tree Nuts",
+                "enabled": true,
+                "spotlight_enabled": false,
+                "sprite": {
+                  "slug": "default.tree-nuts",
+                  "name": "Tree Nuts",
+                  "help_text": "This contains tree nuts",
+                  "class_name": "tree-nuts-icon"
+                },
+                "custom_icon_url": null,
+                "custom_icon": null,
+                "custom_spotlight_icon_url": null,
+                "custom_spotlight_icon": null,
+                "type": 1,
+                "behavior": 1,
+                "is_filter": true,
+                "is_highlight": false,
+                "is_digital_signage_only": false,
+                "slug": "tree-nuts",
+                "icon_slug": "default.tree-nuts",
+                "spotlight_icon_slug": null,
+                "name": "Tree Nuts",
+                "_synced_name": "",
+                "help_text": "This contains tree nuts",
+                "sort_order": 5,
                 "_enabled": true,
                 "food_icon_group": 6783
               }

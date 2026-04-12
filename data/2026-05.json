@@ -4,38 +4,6 @@
     "has_unpublished_menus": false,
     "menu_info": {
       "208161": {
-        "position": 1,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208165": {
-        "position": 0,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208170": {
-        "position": 5,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208172": {
-        "position": 7,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208173": {
         "position": 2,
         "section_options": {
           "display_name": null,
@@ -43,7 +11,23 @@
           "section_title_can_expand_collapse": true
         }
       },
-      "208174": {
+      "208165": {
+        "position": 1,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208167": {
+        "position": 0,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208169": {
         "position": 3,
         "section_options": {
           "display_name": null,
@@ -51,8 +35,40 @@
           "section_title_can_expand_collapse": true
         }
       },
+      "208170": {
+        "position": 7,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208172": {
+        "position": 9,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208173": {
+        "position": 4,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208174": {
+        "position": 5,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
       "208175": {
-        "position": 6,
+        "position": 8,
         "section_options": {
           "display_name": null,
           "use_section_title": false,
@@ -60,7 +76,7 @@
         }
       },
       "208176": {
-        "position": 4,
+        "position": 6,
         "section_options": {
           "display_name": null,
           "use_section_title": false,
@@ -273,6 +289,36 @@
                 "_synced_name": "",
                 "help_text": "This contains soy",
                 "sort_order": 3,
+                "_enabled": true,
+                "food_icon_group": 6783
+              },
+              {
+                "id": 32923,
+                "synced_name": "Fish",
+                "enabled": true,
+                "spotlight_enabled": false,
+                "sprite": {
+                  "slug": "default.fish",
+                  "name": "Fish",
+                  "help_text": "This contains fish",
+                  "class_name": "fish-icon"
+                },
+                "custom_icon_url": null,
+                "custom_icon": null,
+                "custom_spotlight_icon_url": null,
+                "custom_spotlight_icon": null,
+                "type": 1,
+                "behavior": 1,
+                "is_filter": true,
+                "is_highlight": false,
+                "is_digital_signage_only": false,
+                "slug": "fish",
+                "icon_slug": "default.fish",
+                "spotlight_icon_slug": null,
+                "name": "Fish",
+                "_synced_name": "",
+                "help_text": "This contains fish",
+                "sort_order": 6,
                 "_enabled": true,
                 "food_icon_group": 6783
               }
@@ -2094,6 +2140,36 @@
                 "sort_order": 4,
                 "_enabled": true,
                 "food_icon_group": 6783
+              },
+              {
+                "id": 32922,
+                "synced_name": "Tree Nuts",
+                "enabled": true,
+                "spotlight_enabled": false,
+                "sprite": {
+                  "slug": "default.tree-nuts",
+                  "name": "Tree Nuts",
+                  "help_text": "This contains tree nuts",
+                  "class_name": "tree-nuts-icon"
+                },
+                "custom_icon_url": null,
+                "custom_icon": null,
+                "custom_spotlight_icon_url": null,
+                "custom_spotlight_icon": null,
+                "type": 1,
+                "behavior": 1,
+                "is_filter": true,
+                "is_highlight": false,
+                "is_digital_signage_only": false,
+                "slug": "tree-nuts",
+                "icon_slug": "default.tree-nuts",
+                "spotlight_icon_slug": null,
+                "name": "Tree Nuts",
+                "_synced_name": "",
+                "help_text": "This contains tree nuts",
+                "sort_order": 5,
+                "_enabled": true,
+                "food_icon_group": 6783
               }
             ],
             "myplate_icons": []
@@ -2614,6 +2690,14 @@
     "date": "2026-05-04",
     "has_unpublished_menus": false,
     "menu_info": {
+      "208161": {
+        "position": 2,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
       "208165": {
         "position": 1,
         "section_options": {
@@ -2631,30 +2715,6 @@
         }
       },
       "208169": {
-        "position": 2,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208170": {
-        "position": 6,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208172": {
-        "position": 8,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208173": {
         "position": 3,
         "section_options": {
           "display_name": null,
@@ -2662,15 +2722,7 @@
           "section_title_can_expand_collapse": true
         }
       },
-      "208174": {
-        "position": 4,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208175": {
+      "208170": {
         "position": 7,
         "section_options": {
           "display_name": null,
@@ -2678,8 +2730,40 @@
           "section_title_can_expand_collapse": true
         }
       },
-      "208176": {
+      "208172": {
+        "position": 9,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208173": {
+        "position": 4,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208174": {
         "position": 5,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208175": {
+        "position": 8,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208176": {
+        "position": 6,
         "section_options": {
           "display_name": null,
           "use_section_title": false,
@@ -3095,6 +3179,36 @@
                 "_synced_name": "",
                 "help_text": "This contains soy",
                 "sort_order": 3,
+                "_enabled": true,
+                "food_icon_group": 6783
+              },
+              {
+                "id": 32923,
+                "synced_name": "Fish",
+                "enabled": true,
+                "spotlight_enabled": false,
+                "sprite": {
+                  "slug": "default.fish",
+                  "name": "Fish",
+                  "help_text": "This contains fish",
+                  "class_name": "fish-icon"
+                },
+                "custom_icon_url": null,
+                "custom_icon": null,
+                "custom_spotlight_icon_url": null,
+                "custom_spotlight_icon": null,
+                "type": 1,
+                "behavior": 1,
+                "is_filter": true,
+                "is_highlight": false,
+                "is_digital_signage_only": false,
+                "slug": "fish",
+                "icon_slug": "default.fish",
+                "spotlight_icon_slug": null,
+                "name": "Fish",
+                "_synced_name": "",
+                "help_text": "This contains fish",
+                "sort_order": 6,
                 "_enabled": true,
                 "food_icon_group": 6783
               }
@@ -4901,6 +5015,36 @@
                 "sort_order": 4,
                 "_enabled": true,
                 "food_icon_group": 6783
+              },
+              {
+                "id": 32922,
+                "synced_name": "Tree Nuts",
+                "enabled": true,
+                "spotlight_enabled": false,
+                "sprite": {
+                  "slug": "default.tree-nuts",
+                  "name": "Tree Nuts",
+                  "help_text": "This contains tree nuts",
+                  "class_name": "tree-nuts-icon"
+                },
+                "custom_icon_url": null,
+                "custom_icon": null,
+                "custom_spotlight_icon_url": null,
+                "custom_spotlight_icon": null,
+                "type": 1,
+                "behavior": 1,
+                "is_filter": true,
+                "is_highlight": false,
+                "is_digital_signage_only": false,
+                "slug": "tree-nuts",
+                "icon_slug": "default.tree-nuts",
+                "spotlight_icon_slug": null,
+                "name": "Tree Nuts",
+                "_synced_name": "",
+                "help_text": "This contains tree nuts",
+                "sort_order": 5,
+                "_enabled": true,
+                "food_icon_group": 6783
               }
             ],
             "myplate_icons": []
@@ -5414,23 +5558,7 @@
           "section_title_can_expand_collapse": true
         }
       },
-      "208170": {
-        "position": 6,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208172": {
-        "position": 8,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208173": {
+      "208169": {
         "position": 3,
         "section_options": {
           "display_name": null,
@@ -5438,15 +5566,7 @@
           "section_title_can_expand_collapse": true
         }
       },
-      "208174": {
-        "position": 4,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208175": {
+      "208170": {
         "position": 7,
         "section_options": {
           "display_name": null,
@@ -5454,8 +5574,40 @@
           "section_title_can_expand_collapse": true
         }
       },
-      "208176": {
+      "208172": {
+        "position": 9,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208173": {
+        "position": 4,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208174": {
         "position": 5,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208175": {
+        "position": 8,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208176": {
+        "position": 6,
         "section_options": {
           "display_name": null,
           "use_section_title": false,
@@ -6964,147 +7116,9 @@
         "food_variation_id": 1608200
       },
       {
-        "id": 412588643,
-        "date": null,
-        "position": 4,
-        "is_section_title": false,
-        "bold": false,
-        "featured": false,
-        "text": "",
-        "no_line_break": false,
-        "blank_line": false,
-        "food": {
-          "id": 1923757,
-          "name": "Fajita Vegetables",
-          "description": "",
-          "image_url": null,
-          "image_alt_text": null,
-          "hoverpic_url": null,
-          "price": null,
-          "ingredients": "Zucchini, Chili Peppers, Mushrooms, Red Bell Peppers, Red Onions, Lime Juice, Extra Virgin Olive Oil, Garlic, Black Pepper",
-          "food_category": "",
-          "food_highlight_message": null,
-          "file_url": "",
-          "download_label": "View Manufacturer's Label",
-          "rounded_nutrition_info": {
-            "calories": 40,
-            "g_fat": 2.5,
-            "g_saturated_fat": 0,
-            "g_trans_fat": null,
-            "mg_cholesterol": 0,
-            "g_carbs": 4,
-            "g_added_sugar": null,
-            "g_sugar": 2,
-            "mg_potassium": 180,
-            "mg_sodium": 0,
-            "g_fiber": 1,
-            "g_protein": 1,
-            "mg_iron": 0.4,
-            "mg_calcium": 10,
-            "mg_vitamin_c": 53,
-            "iu_vitamin_a": null,
-            "re_vitamin_a": null,
-            "mcg_vitamin_a": null,
-            "mg_vitamin_d": 1.3,
-            "mcg_vitamin_d": null
-          },
-          "serving_size_info": {
-            "serving_size_amount": "0.5",
-            "serving_size_unit": "cups"
-          },
-          "has_nutrition_info": true,
-          "icons": {
-            "food_icons": [],
-            "myplate_icons": [
-              {
-                "id": 32930,
-                "synced_name": "Vegetable",
-                "enabled": true,
-                "spotlight_enabled": false,
-                "sprite": {
-                  "slug": "myplate.vegetable",
-                  "name": "Vegetable",
-                  "help_text": "This contains vegetables",
-                  "class_name": "vegetable-group"
-                },
-                "custom_icon_url": null,
-                "custom_icon": null,
-                "custom_spotlight_icon_url": null,
-                "custom_spotlight_icon": null,
-                "type": 4,
-                "behavior": 1,
-                "is_filter": true,
-                "is_highlight": false,
-                "is_digital_signage_only": false,
-                "slug": "vegetable",
-                "icon_slug": "myplate.vegetable",
-                "spotlight_icon_slug": null,
-                "name": "Vegetable",
-                "_synced_name": "",
-                "help_text": "This contains vegetables",
-                "sort_order": 4,
-                "_enabled": true,
-                "food_icon_group": 6784
-              }
-            ]
-          },
-          "icons_approved": true,
-          "aggregated_data": {
-            "price_adjustment": 0,
-            "icons_approved": true,
-            "food_icons": [],
-            "calories": 0
-          },
-          "food_sizes": [],
-          "ds_calories_override": "",
-          "synced_id": "36164.1",
-          "sync_placeholder": null,
-          "has_options_or_sides": false,
-          "digest": "w0vDkEkbNHo82K37xNZw0QkZqZFgK41PW8AQtHRsBaiYTT8kpwdEMOc8uAqTzn12/kU00ywyQ3Q+0pllGQHpJg==",
-          "pos_item_id": "",
-          "smart_recipe_id": null,
-          "has_subfoods": false,
-          "meal_plan_price": null,
-          "use_custom_sizes": true,
-          "tags": [],
-          "synced_subtext": "",
-          "synced_nested_foods": [],
-          "synced_ordering_enabled": true,
-          "subtext": "",
-          "subtext_unlocked": false,
-          "nested_foods": [],
-          "nested_foods_unlocked": true,
-          "ordering_enabled": true,
-          "ordering_enabled_unlocked": false
-        },
-        "is_holiday": false,
-        "food_list": null,
-        "station_id": 46810,
-        "is_station_header": false,
-        "station_is_collapsible": false,
-        "station_image_display_mode": "standard",
-        "station_logo": null,
-        "station_logo_alt": null,
-        "station_mobile_image": null,
-        "station_mobile_image_alt": null,
-        "image": "",
-        "image_description": null,
-        "image_alt": null,
-        "image_thumbnail": "",
-        "category": "",
-        "price": null,
-        "serving_size": null,
-        "serving_size_amount": 0.5,
-        "serving_size_unit": "cups",
-        "smart_recipe_id": null,
-        "station_food_tags": [],
-        "menu_id": 208173,
-        "food_variation_id": 53922
-      },
-      {
         "id": 412588642,
         "date": null,
-        "position": 5,
+        "position": 4,
         "is_section_title": false,
         "bold": false,
         "featured": false,
@@ -7240,9 +7254,9 @@
         "food_variation_id": 599054
       },
       {
-        "id": 412588645,
+        "id": 412588643,
         "date": null,
-        "position": 6,
+        "position": 5,
         "is_section_title": false,
         "bold": false,
         "featured": false,
@@ -7250,38 +7264,38 @@
         "no_line_break": false,
         "blank_line": false,
         "food": {
-          "id": 2060304,
-          "name": "Mexican Rice",
+          "id": 1923757,
+          "name": "Fajita Vegetables",
           "description": "",
           "image_url": null,
           "image_alt_text": null,
           "hoverpic_url": null,
           "price": null,
-          "ingredients": "Water, Long Grain White Rice^, Celery, Tomatoes, Tomato Paste^, Carrots, Yellow Onions, Canola Oil, Garlic, Cilantro, Kosher Salt^, Black Pepper",
+          "ingredients": "Zucchini, Chili Peppers, Mushrooms, Red Bell Peppers, Red Onions, Lime Juice, Extra Virgin Olive Oil, Garlic, Black Pepper",
           "food_category": "",
           "food_highlight_message": null,
           "file_url": "",
           "download_label": "View Manufacturer's Label",
           "rounded_nutrition_info": {
-            "calories": 110,
-            "g_fat": 2,
+            "calories": 40,
+            "g_fat": 2.5,
             "g_saturated_fat": 0,
             "g_trans_fat": null,
             "mg_cholesterol": 0,
-            "g_carbs": 20,
+            "g_carbs": 4,
             "g_added_sugar": null,
-            "g_sugar": 1,
-            "mg_potassium": 110,
-            "mg_sodium": 150,
+            "g_sugar": 2,
+            "mg_potassium": 180,
+            "mg_sodium": 0,
             "g_fiber": 1,
-            "g_protein": 2,
-            "mg_iron": 0.9,
-            "mg_calcium": 20,
-            "mg_vitamin_c": null,
+            "g_protein": 1,
+            "mg_iron": 0.4,
+            "mg_calcium": 10,
+            "mg_vitamin_c": 53,
             "iu_vitamin_a": null,
             "re_vitamin_a": null,
             "mcg_vitamin_a": null,
-            "mg_vitamin_d": 0,
+            "mg_vitamin_d": 1.3,
             "mcg_vitamin_d": null
           },
           "serving_size_info": {
@@ -7291,7 +7305,38 @@
           "has_nutrition_info": true,
           "icons": {
             "food_icons": [],
-            "myplate_icons": []
+            "myplate_icons": [
+              {
+                "id": 32930,
+                "synced_name": "Vegetable",
+                "enabled": true,
+                "spotlight_enabled": false,
+                "sprite": {
+                  "slug": "myplate.vegetable",
+                  "name": "Vegetable",
+                  "help_text": "This contains vegetables",
+                  "class_name": "vegetable-group"
+                },
+                "custom_icon_url": null,
+                "custom_icon": null,
+                "custom_spotlight_icon_url": null,
+                "custom_spotlight_icon": null,
+                "type": 4,
+                "behavior": 1,
+                "is_filter": true,
+                "is_highlight": false,
+                "is_digital_signage_only": false,
+                "slug": "vegetable",
+                "icon_slug": "myplate.vegetable",
+                "spotlight_icon_slug": null,
+                "name": "Vegetable",
+                "_synced_name": "",
+                "help_text": "This contains vegetables",
+                "sort_order": 4,
+                "_enabled": true,
+                "food_icon_group": 6784
+              }
+            ]
           },
           "icons_approved": true,
           "aggregated_data": {
@@ -7302,10 +7347,10 @@
           },
           "food_sizes": [],
           "ds_calories_override": "",
-          "synced_id": "75566",
+          "synced_id": "36164.1",
           "sync_placeholder": null,
           "has_options_or_sides": false,
-          "digest": "oKj6Juy/pVc7+g71Ve+qlY2ozxzblnvw6kujpNUSTkPmnJ0zgCFodP8llUp3gUvXFkkK2RCvpAp3xLMzRzLjUQ==",
+          "digest": "w0vDkEkbNHo82K37xNZw0QkZqZFgK41PW8AQtHRsBaiYTT8kpwdEMOc8uAqTzn12/kU00ywyQ3Q+0pllGQHpJg==",
           "pos_item_id": "",
           "smart_recipe_id": null,
           "has_subfoods": false,
@@ -7318,7 +7363,7 @@
           "subtext": "",
           "subtext_unlocked": false,
           "nested_foods": [],
-          "nested_foods_unlocked": false,
+          "nested_foods_unlocked": true,
           "ordering_enabled": true,
           "ordering_enabled_unlocked": false
         },
@@ -7344,12 +7389,12 @@
         "smart_recipe_id": null,
         "station_food_tags": [],
         "menu_id": 208173,
-        "food_variation_id": 344408
+        "food_variation_id": 53922
       },
       {
         "id": 412588644,
         "date": null,
-        "position": 7,
+        "position": 6,
         "is_section_title": false,
         "bold": false,
         "featured": false,
@@ -7452,6 +7497,113 @@
         "station_food_tags": [],
         "menu_id": 208173,
         "food_variation_id": 1608197
+      },
+      {
+        "id": 412588645,
+        "date": null,
+        "position": 7,
+        "is_section_title": false,
+        "bold": false,
+        "featured": false,
+        "text": "",
+        "no_line_break": false,
+        "blank_line": false,
+        "food": {
+          "id": 2060304,
+          "name": "Mexican Rice",
+          "description": "",
+          "image_url": null,
+          "image_alt_text": null,
+          "hoverpic_url": null,
+          "price": null,
+          "ingredients": "Water, Long Grain White Rice^, Celery, Tomatoes, Tomato Paste^, Carrots, Yellow Onions, Canola Oil, Garlic, Cilantro, Kosher Salt^, Black Pepper",
+          "food_category": "",
+          "food_highlight_message": null,
+          "file_url": "",
+          "download_label": "View Manufacturer's Label",
+          "rounded_nutrition_info": {
+            "calories": 110,
+            "g_fat": 2,
+            "g_saturated_fat": 0,
+            "g_trans_fat": null,
+            "mg_cholesterol": 0,
+            "g_carbs": 20,
+            "g_added_sugar": null,
+            "g_sugar": 1,
+            "mg_potassium": 110,
+            "mg_sodium": 150,
+            "g_fiber": 1,
+            "g_protein": 2,
+            "mg_iron": 0.9,
+            "mg_calcium": 20,
+            "mg_vitamin_c": null,
+            "iu_vitamin_a": null,
+            "re_vitamin_a": null,
+            "mcg_vitamin_a": null,
+            "mg_vitamin_d": 0,
+            "mcg_vitamin_d": null
+          },
+          "serving_size_info": {
+            "serving_size_amount": "0.5",
+            "serving_size_unit": "cups"
+          },
+          "has_nutrition_info": true,
+          "icons": {
+            "food_icons": [],
+            "myplate_icons": []
+          },
+          "icons_approved": true,
+          "aggregated_data": {
+            "price_adjustment": 0,
+            "icons_approved": true,
+            "food_icons": [],
+            "calories": 0
+          },
+          "food_sizes": [],
+          "ds_calories_override": "",
+          "synced_id": "75566",
+          "sync_placeholder": null,
+          "has_options_or_sides": false,
+          "digest": "oKj6Juy/pVc7+g71Ve+qlY2ozxzblnvw6kujpNUSTkPmnJ0zgCFodP8llUp3gUvXFkkK2RCvpAp3xLMzRzLjUQ==",
+          "pos_item_id": "",
+          "smart_recipe_id": null,
+          "has_subfoods": false,
+          "meal_plan_price": null,
+          "use_custom_sizes": true,
+          "tags": [],
+          "synced_subtext": "",
+          "synced_nested_foods": [],
+          "synced_ordering_enabled": true,
+          "subtext": "",
+          "subtext_unlocked": false,
+          "nested_foods": [],
+          "nested_foods_unlocked": false,
+          "ordering_enabled": true,
+          "ordering_enabled_unlocked": false
+        },
+        "is_holiday": false,
+        "food_list": null,
+        "station_id": 46810,
+        "is_station_header": false,
+        "station_is_collapsible": false,
+        "station_image_display_mode": "standard",
+        "station_logo": null,
+        "station_logo_alt": null,
+        "station_mobile_image": null,
+        "station_mobile_image_alt": null,
+        "image": "",
+        "image_description": null,
+        "image_alt": null,
+        "image_thumbnail": "",
+        "category": "",
+        "price": null,
+        "serving_size": null,
+        "serving_size_amount": 0.5,
+        "serving_size_unit": "cups",
+        "smart_recipe_id": null,
+        "station_food_tags": [],
+        "menu_id": 208173,
+        "food_variation_id": 344408
       },
       {
         "id": 412588767,
@@ -8244,6 +8396,36 @@
                 "sort_order": 4,
                 "_enabled": true,
                 "food_icon_group": 6783
+              },
+              {
+                "id": 32922,
+                "synced_name": "Tree Nuts",
+                "enabled": true,
+                "spotlight_enabled": false,
+                "sprite": {
+                  "slug": "default.tree-nuts",
+                  "name": "Tree Nuts",
+                  "help_text": "This contains tree nuts",
+                  "class_name": "tree-nuts-icon"
+                },
+                "custom_icon_url": null,
+                "custom_icon": null,
+                "custom_spotlight_icon_url": null,
+                "custom_spotlight_icon": null,
+                "type": 1,
+                "behavior": 1,
+                "is_filter": true,
+                "is_highlight": false,
+                "is_digital_signage_only": false,
+                "slug": "tree-nuts",
+                "icon_slug": "default.tree-nuts",
+                "spotlight_icon_slug": null,
+                "name": "Tree Nuts",
+                "_synced_name": "",
+                "help_text": "This contains tree nuts",
+                "sort_order": 5,
+                "_enabled": true,
+                "food_icon_group": 6783
               }
             ],
             "myplate_icons": []
@@ -8795,6 +8977,14 @@
     "date": "2026-05-06",
     "has_unpublished_menus": false,
     "menu_info": {
+      "208161": {
+        "position": 2,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
       "208165": {
         "position": 1,
         "section_options": {
@@ -8811,31 +9001,7 @@
           "section_title_can_expand_collapse": true
         }
       },
-      "208170": {
-        "position": 5,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208172": {
-        "position": 7,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208173": {
-        "position": 2,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208174": {
+      "208169": {
         "position": 3,
         "section_options": {
           "display_name": null,
@@ -8843,8 +9009,40 @@
           "section_title_can_expand_collapse": true
         }
       },
+      "208170": {
+        "position": 7,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208172": {
+        "position": 9,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208173": {
+        "position": 4,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208174": {
+        "position": 5,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
       "208175": {
-        "position": 6,
+        "position": 8,
         "section_options": {
           "display_name": null,
           "use_section_title": false,
@@ -8852,7 +9050,7 @@
         }
       },
       "208176": {
-        "position": 4,
+        "position": 6,
         "section_options": {
           "display_name": null,
           "use_section_title": false,
@@ -9268,6 +9466,36 @@
                 "_synced_name": "",
                 "help_text": "This contains soy",
                 "sort_order": 3,
+                "_enabled": true,
+                "food_icon_group": 6783
+              },
+              {
+                "id": 32923,
+                "synced_name": "Fish",
+                "enabled": true,
+                "spotlight_enabled": false,
+                "sprite": {
+                  "slug": "default.fish",
+                  "name": "Fish",
+                  "help_text": "This contains fish",
+                  "class_name": "fish-icon"
+                },
+                "custom_icon_url": null,
+                "custom_icon": null,
+                "custom_spotlight_icon_url": null,
+                "custom_spotlight_icon": null,
+                "type": 1,
+                "behavior": 1,
+                "is_filter": true,
+                "is_highlight": false,
+                "is_digital_signage_only": false,
+                "slug": "fish",
+                "icon_slug": "default.fish",
+                "spotlight_icon_slug": null,
+                "name": "Fish",
+                "_synced_name": "",
+                "help_text": "This contains fish",
+                "sort_order": 6,
                 "_enabled": true,
                 "food_icon_group": 6783
               }
@@ -10868,6 +11096,36 @@
                 "sort_order": 4,
                 "_enabled": true,
                 "food_icon_group": 6783
+              },
+              {
+                "id": 32922,
+                "synced_name": "Tree Nuts",
+                "enabled": true,
+                "spotlight_enabled": false,
+                "sprite": {
+                  "slug": "default.tree-nuts",
+                  "name": "Tree Nuts",
+                  "help_text": "This contains tree nuts",
+                  "class_name": "tree-nuts-icon"
+                },
+                "custom_icon_url": null,
+                "custom_icon": null,
+                "custom_spotlight_icon_url": null,
+                "custom_spotlight_icon": null,
+                "type": 1,
+                "behavior": 1,
+                "is_filter": true,
+                "is_highlight": false,
+                "is_digital_signage_only": false,
+                "slug": "tree-nuts",
+                "icon_slug": "default.tree-nuts",
+                "spotlight_icon_slug": null,
+                "name": "Tree Nuts",
+                "_synced_name": "",
+                "help_text": "This contains tree nuts",
+                "sort_order": 5,
+                "_enabled": true,
+                "food_icon_group": 6783
               }
             ],
             "myplate_icons": []
@@ -11503,23 +11761,7 @@
           "section_title_can_expand_collapse": true
         }
       },
-      "208170": {
-        "position": 6,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208172": {
-        "position": 8,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208173": {
+      "208169": {
         "position": 3,
         "section_options": {
           "display_name": null,
@@ -11527,15 +11769,7 @@
           "section_title_can_expand_collapse": true
         }
       },
-      "208174": {
-        "position": 4,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208175": {
+      "208170": {
         "position": 7,
         "section_options": {
           "display_name": null,
@@ -11543,8 +11777,40 @@
           "section_title_can_expand_collapse": true
         }
       },
-      "208176": {
+      "208172": {
+        "position": 9,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208173": {
+        "position": 4,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208174": {
         "position": 5,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208175": {
+        "position": 8,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208176": {
+        "position": 6,
         "section_options": {
           "display_name": null,
           "use_section_title": false,
@@ -11960,6 +12226,36 @@
                 "_synced_name": "",
                 "help_text": "This contains soy",
                 "sort_order": 3,
+                "_enabled": true,
+                "food_icon_group": 6783
+              },
+              {
+                "id": 32923,
+                "synced_name": "Fish",
+                "enabled": true,
+                "spotlight_enabled": false,
+                "sprite": {
+                  "slug": "default.fish",
+                  "name": "Fish",
+                  "help_text": "This contains fish",
+                  "class_name": "fish-icon"
+                },
+                "custom_icon_url": null,
+                "custom_icon": null,
+                "custom_spotlight_icon_url": null,
+                "custom_spotlight_icon": null,
+                "type": 1,
+                "behavior": 1,
+                "is_filter": true,
+                "is_highlight": false,
+                "is_digital_signage_only": false,
+                "slug": "fish",
+                "icon_slug": "default.fish",
+                "spotlight_icon_slug": null,
+                "name": "Fish",
+                "_synced_name": "",
+                "help_text": "This contains fish",
+                "sort_order": 6,
                 "_enabled": true,
                 "food_icon_group": 6783
               }
@@ -13703,6 +13999,36 @@
                 "sort_order": 4,
                 "_enabled": true,
                 "food_icon_group": 6783
+              },
+              {
+                "id": 32922,
+                "synced_name": "Tree Nuts",
+                "enabled": true,
+                "spotlight_enabled": false,
+                "sprite": {
+                  "slug": "default.tree-nuts",
+                  "name": "Tree Nuts",
+                  "help_text": "This contains tree nuts",
+                  "class_name": "tree-nuts-icon"
+                },
+                "custom_icon_url": null,
+                "custom_icon": null,
+                "custom_spotlight_icon_url": null,
+                "custom_spotlight_icon": null,
+                "type": 1,
+                "behavior": 1,
+                "is_filter": true,
+                "is_highlight": false,
+                "is_digital_signage_only": false,
+                "slug": "tree-nuts",
+                "icon_slug": "default.tree-nuts",
+                "spotlight_icon_slug": null,
+                "name": "Tree Nuts",
+                "_synced_name": "",
+                "help_text": "This contains tree nuts",
+                "sort_order": 5,
+                "_enabled": true,
+                "food_icon_group": 6783
               }
             ],
             "myplate_icons": []
@@ -14314,7 +14640,23 @@
     "date": "2026-05-08",
     "has_unpublished_menus": false,
     "menu_info": {
+      "208161": {
+        "position": 2,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
       "208165": {
+        "position": 1,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208167": {
         "position": 0,
         "section_options": {
           "display_name": null,
@@ -14323,38 +14665,6 @@
         }
       },
       "208169": {
-        "position": 1,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208170": {
-        "position": 5,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208172": {
-        "position": 7,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208173": {
-        "position": 2,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208174": {
         "position": 3,
         "section_options": {
           "display_name": null,
@@ -14362,8 +14672,40 @@
           "section_title_can_expand_collapse": true
         }
       },
+      "208170": {
+        "position": 7,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208172": {
+        "position": 9,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208173": {
+        "position": 4,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208174": {
+        "position": 5,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
       "208175": {
-        "position": 6,
+        "position": 8,
         "section_options": {
           "display_name": null,
           "use_section_title": false,
@@ -14371,7 +14713,7 @@
         }
       },
       "208176": {
-        "position": 4,
+        "position": 6,
         "section_options": {
           "display_name": null,
           "use_section_title": false,
@@ -14584,6 +14926,36 @@
                 "_synced_name": "",
                 "help_text": "This contains soy",
                 "sort_order": 3,
+                "_enabled": true,
+                "food_icon_group": 6783
+              },
+              {
+                "id": 32923,
+                "synced_name": "Fish",
+                "enabled": true,
+                "spotlight_enabled": false,
+                "sprite": {
+                  "slug": "default.fish",
+                  "name": "Fish",
+                  "help_text": "This contains fish",
+                  "class_name": "fish-icon"
+                },
+                "custom_icon_url": null,
+                "custom_icon": null,
+                "custom_spotlight_icon_url": null,
+                "custom_spotlight_icon": null,
+                "type": 1,
+                "behavior": 1,
+                "is_filter": true,
+                "is_highlight": false,
+                "is_digital_signage_only": false,
+                "slug": "fish",
+                "icon_slug": "default.fish",
+                "spotlight_icon_slug": null,
+                "name": "Fish",
+                "_synced_name": "",
+                "help_text": "This contains fish",
+                "sort_order": 6,
                 "_enabled": true,
                 "food_icon_group": 6783
               }
@@ -17109,6 +17481,14 @@
     "date": "2026-05-11",
     "has_unpublished_menus": false,
     "menu_info": {
+      "208161": {
+        "position": 2,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
       "208165": {
         "position": 1,
         "section_options": {
@@ -17126,30 +17506,6 @@
         }
       },
       "208169": {
-        "position": 2,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208170": {
-        "position": 6,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208172": {
-        "position": 8,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208173": {
         "position": 3,
         "section_options": {
           "display_name": null,
@@ -17157,15 +17513,7 @@
           "section_title_can_expand_collapse": true
         }
       },
-      "208174": {
-        "position": 4,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208175": {
+      "208170": {
         "position": 7,
         "section_options": {
           "display_name": null,
@@ -17173,8 +17521,40 @@
           "section_title_can_expand_collapse": true
         }
       },
-      "208176": {
+      "208172": {
+        "position": 9,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208173": {
+        "position": 4,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208174": {
         "position": 5,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208175": {
+        "position": 8,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208176": {
+        "position": 6,
         "section_options": {
           "display_name": null,
           "use_section_title": false,
@@ -17590,6 +17970,36 @@
                 "_synced_name": "",
                 "help_text": "This contains soy",
                 "sort_order": 3,
+                "_enabled": true,
+                "food_icon_group": 6783
+              },
+              {
+                "id": 32923,
+                "synced_name": "Fish",
+                "enabled": true,
+                "spotlight_enabled": false,
+                "sprite": {
+                  "slug": "default.fish",
+                  "name": "Fish",
+                  "help_text": "This contains fish",
+                  "class_name": "fish-icon"
+                },
+                "custom_icon_url": null,
+                "custom_icon": null,
+                "custom_spotlight_icon_url": null,
+                "custom_spotlight_icon": null,
+                "type": 1,
+                "behavior": 1,
+                "is_filter": true,
+                "is_highlight": false,
+                "is_digital_signage_only": false,
+                "slug": "fish",
+                "icon_slug": "default.fish",
+                "spotlight_icon_slug": null,
+                "name": "Fish",
+                "_synced_name": "",
+                "help_text": "This contains fish",
+                "sort_order": 6,
                 "_enabled": true,
                 "food_icon_group": 6783
               }
@@ -19272,6 +19682,36 @@
                 "sort_order": 4,
                 "_enabled": true,
                 "food_icon_group": 6783
+              },
+              {
+                "id": 32922,
+                "synced_name": "Tree Nuts",
+                "enabled": true,
+                "spotlight_enabled": false,
+                "sprite": {
+                  "slug": "default.tree-nuts",
+                  "name": "Tree Nuts",
+                  "help_text": "This contains tree nuts",
+                  "class_name": "tree-nuts-icon"
+                },
+                "custom_icon_url": null,
+                "custom_icon": null,
+                "custom_spotlight_icon_url": null,
+                "custom_spotlight_icon": null,
+                "type": 1,
+                "behavior": 1,
+                "is_filter": true,
+                "is_highlight": false,
+                "is_digital_signage_only": false,
+                "slug": "tree-nuts",
+                "icon_slug": "default.tree-nuts",
+                "spotlight_icon_slug": null,
+                "name": "Tree Nuts",
+                "_synced_name": "",
+                "help_text": "This contains tree nuts",
+                "sort_order": 5,
+                "_enabled": true,
+                "food_icon_group": 6783
               }
             ],
             "myplate_icons": []
@@ -19907,23 +20347,7 @@
           "section_title_can_expand_collapse": true
         }
       },
-      "208170": {
-        "position": 6,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208172": {
-        "position": 8,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208173": {
+      "208169": {
         "position": 3,
         "section_options": {
           "display_name": null,
@@ -19931,15 +20355,7 @@
           "section_title_can_expand_collapse": true
         }
       },
-      "208174": {
-        "position": 4,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208175": {
+      "208170": {
         "position": 7,
         "section_options": {
           "display_name": null,
@@ -19947,8 +20363,40 @@
           "section_title_can_expand_collapse": true
         }
       },
-      "208176": {
+      "208172": {
+        "position": 9,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208173": {
+        "position": 4,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208174": {
         "position": 5,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208175": {
+        "position": 8,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208176": {
+        "position": 6,
         "section_options": {
           "display_name": null,
           "use_section_title": false,
@@ -20364,6 +20812,36 @@
                 "_synced_name": "",
                 "help_text": "This contains soy",
                 "sort_order": 3,
+                "_enabled": true,
+                "food_icon_group": 6783
+              },
+              {
+                "id": 32923,
+                "synced_name": "Fish",
+                "enabled": true,
+                "spotlight_enabled": false,
+                "sprite": {
+                  "slug": "default.fish",
+                  "name": "Fish",
+                  "help_text": "This contains fish",
+                  "class_name": "fish-icon"
+                },
+                "custom_icon_url": null,
+                "custom_icon": null,
+                "custom_spotlight_icon_url": null,
+                "custom_spotlight_icon": null,
+                "type": 1,
+                "behavior": 1,
+                "is_filter": true,
+                "is_highlight": false,
+                "is_digital_signage_only": false,
+                "slug": "fish",
+                "icon_slug": "default.fish",
+                "spotlight_icon_slug": null,
+                "name": "Fish",
+                "_synced_name": "",
+                "help_text": "This contains fish",
+                "sort_order": 6,
                 "_enabled": true,
                 "food_icon_group": 6783
               }
@@ -21435,7 +21913,38 @@
           },
           "has_nutrition_info": true,
           "icons": {
-            "food_icons": [],
+            "food_icons": [
+              {
+                "id": 32923,
+                "synced_name": "Fish",
+                "enabled": true,
+                "spotlight_enabled": false,
+                "sprite": {
+                  "slug": "default.fish",
+                  "name": "Fish",
+                  "help_text": "This contains fish",
+                  "class_name": "fish-icon"
+                },
+                "custom_icon_url": null,
+                "custom_icon": null,
+                "custom_spotlight_icon_url": null,
+                "custom_spotlight_icon": null,
+                "type": 1,
+                "behavior": 1,
+                "is_filter": true,
+                "is_highlight": false,
+                "is_digital_signage_only": false,
+                "slug": "fish",
+                "icon_slug": "default.fish",
+                "spotlight_icon_slug": null,
+                "name": "Fish",
+                "_synced_name": "",
+                "help_text": "This contains fish",
+                "sort_order": 6,
+                "_enabled": true,
+                "food_icon_group": 6783
+              }
+            ],
             "myplate_icons": []
           },
           "icons_approved": true,
@@ -21893,6 +22402,36 @@
                 "_synced_name": "",
                 "help_text": "This contains peanuts",
                 "sort_order": 4,
+                "_enabled": true,
+                "food_icon_group": 6783
+              },
+              {
+                "id": 32922,
+                "synced_name": "Tree Nuts",
+                "enabled": true,
+                "spotlight_enabled": false,
+                "sprite": {
+                  "slug": "default.tree-nuts",
+                  "name": "Tree Nuts",
+                  "help_text": "This contains tree nuts",
+                  "class_name": "tree-nuts-icon"
+                },
+                "custom_icon_url": null,
+                "custom_icon": null,
+                "custom_spotlight_icon_url": null,
+                "custom_spotlight_icon": null,
+                "type": 1,
+                "behavior": 1,
+                "is_filter": true,
+                "is_highlight": false,
+                "is_digital_signage_only": false,
+                "slug": "tree-nuts",
+                "icon_slug": "default.tree-nuts",
+                "spotlight_icon_slug": null,
+                "name": "Tree Nuts",
+                "_synced_name": "",
+                "help_text": "This contains tree nuts",
+                "sort_order": 5,
                 "_enabled": true,
                 "food_icon_group": 6783
               }
@@ -22446,6 +22985,14 @@
     "date": "2026-05-13",
     "has_unpublished_menus": false,
     "menu_info": {
+      "208161": {
+        "position": 2,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
       "208165": {
         "position": 1,
         "section_options": {
@@ -22462,31 +23009,7 @@
           "section_title_can_expand_collapse": true
         }
       },
-      "208170": {
-        "position": 5,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208172": {
-        "position": 7,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208173": {
-        "position": 2,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208174": {
+      "208169": {
         "position": 3,
         "section_options": {
           "display_name": null,
@@ -22494,8 +23017,40 @@
           "section_title_can_expand_collapse": true
         }
       },
+      "208170": {
+        "position": 7,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208172": {
+        "position": 9,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208173": {
+        "position": 4,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208174": {
+        "position": 5,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
       "208175": {
-        "position": 6,
+        "position": 8,
         "section_options": {
           "display_name": null,
           "use_section_title": false,
@@ -22503,7 +23058,7 @@
         }
       },
       "208176": {
-        "position": 4,
+        "position": 6,
         "section_options": {
           "display_name": null,
           "use_section_title": false,
@@ -22919,6 +23474,36 @@
                 "_synced_name": "",
                 "help_text": "This contains soy",
                 "sort_order": 3,
+                "_enabled": true,
+                "food_icon_group": 6783
+              },
+              {
+                "id": 32923,
+                "synced_name": "Fish",
+                "enabled": true,
+                "spotlight_enabled": false,
+                "sprite": {
+                  "slug": "default.fish",
+                  "name": "Fish",
+                  "help_text": "This contains fish",
+                  "class_name": "fish-icon"
+                },
+                "custom_icon_url": null,
+                "custom_icon": null,
+                "custom_spotlight_icon_url": null,
+                "custom_spotlight_icon": null,
+                "type": 1,
+                "behavior": 1,
+                "is_filter": true,
+                "is_highlight": false,
+                "is_digital_signage_only": false,
+                "slug": "fish",
+                "icon_slug": "default.fish",
+                "spotlight_icon_slug": null,
+                "name": "Fish",
+                "_synced_name": "",
+                "help_text": "This contains fish",
+                "sort_order": 6,
                 "_enabled": true,
                 "food_icon_group": 6783
               }
@@ -24518,6 +25103,36 @@
                 "sort_order": 4,
                 "_enabled": true,
                 "food_icon_group": 6783
+              },
+              {
+                "id": 32922,
+                "synced_name": "Tree Nuts",
+                "enabled": true,
+                "spotlight_enabled": false,
+                "sprite": {
+                  "slug": "default.tree-nuts",
+                  "name": "Tree Nuts",
+                  "help_text": "This contains tree nuts",
+                  "class_name": "tree-nuts-icon"
+                },
+                "custom_icon_url": null,
+                "custom_icon": null,
+                "custom_spotlight_icon_url": null,
+                "custom_spotlight_icon": null,
+                "type": 1,
+                "behavior": 1,
+                "is_filter": true,
+                "is_highlight": false,
+                "is_digital_signage_only": false,
+                "slug": "tree-nuts",
+                "icon_slug": "default.tree-nuts",
+                "spotlight_icon_slug": null,
+                "name": "Tree Nuts",
+                "_synced_name": "",
+                "help_text": "This contains tree nuts",
+                "sort_order": 5,
+                "_enabled": true,
+                "food_icon_group": 6783
               }
             ],
             "myplate_icons": []
@@ -25122,23 +25737,7 @@
           "section_title_can_expand_collapse": true
         }
       },
-      "208170": {
-        "position": 6,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208172": {
-        "position": 8,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208173": {
+      "208169": {
         "position": 3,
         "section_options": {
           "display_name": null,
@@ -25146,15 +25745,7 @@
           "section_title_can_expand_collapse": true
         }
       },
-      "208174": {
-        "position": 4,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208175": {
+      "208170": {
         "position": 7,
         "section_options": {
           "display_name": null,
@@ -25162,8 +25753,40 @@
           "section_title_can_expand_collapse": true
         }
       },
-      "208176": {
+      "208172": {
+        "position": 9,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208173": {
+        "position": 4,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208174": {
         "position": 5,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208175": {
+        "position": 8,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208176": {
+        "position": 6,
         "section_options": {
           "display_name": null,
           "use_section_title": false,
@@ -25579,6 +26202,36 @@
                 "_synced_name": "",
                 "help_text": "This contains soy",
                 "sort_order": 3,
+                "_enabled": true,
+                "food_icon_group": 6783
+              },
+              {
+                "id": 32923,
+                "synced_name": "Fish",
+                "enabled": true,
+                "spotlight_enabled": false,
+                "sprite": {
+                  "slug": "default.fish",
+                  "name": "Fish",
+                  "help_text": "This contains fish",
+                  "class_name": "fish-icon"
+                },
+                "custom_icon_url": null,
+                "custom_icon": null,
+                "custom_spotlight_icon_url": null,
+                "custom_spotlight_icon": null,
+                "type": 1,
+                "behavior": 1,
+                "is_filter": true,
+                "is_highlight": false,
+                "is_digital_signage_only": false,
+                "slug": "fish",
+                "icon_slug": "default.fish",
+                "spotlight_icon_slug": null,
+                "name": "Fish",
+                "_synced_name": "",
+                "help_text": "This contains fish",
+                "sort_order": 6,
                 "_enabled": true,
                 "food_icon_group": 6783
               }
@@ -27857,6 +28510,36 @@
                 "sort_order": 4,
                 "_enabled": true,
                 "food_icon_group": 6783
+              },
+              {
+                "id": 32922,
+                "synced_name": "Tree Nuts",
+                "enabled": true,
+                "spotlight_enabled": false,
+                "sprite": {
+                  "slug": "default.tree-nuts",
+                  "name": "Tree Nuts",
+                  "help_text": "This contains tree nuts",
+                  "class_name": "tree-nuts-icon"
+                },
+                "custom_icon_url": null,
+                "custom_icon": null,
+                "custom_spotlight_icon_url": null,
+                "custom_spotlight_icon": null,
+                "type": 1,
+                "behavior": 1,
+                "is_filter": true,
+                "is_highlight": false,
+                "is_digital_signage_only": false,
+                "slug": "tree-nuts",
+                "icon_slug": "default.tree-nuts",
+                "spotlight_icon_slug": null,
+                "name": "Tree Nuts",
+                "_synced_name": "",
+                "help_text": "This contains tree nuts",
+                "sort_order": 5,
+                "_enabled": true,
+                "food_icon_group": 6783
               }
             ],
             "myplate_icons": []
@@ -28468,7 +29151,23 @@
     "date": "2026-05-15",
     "has_unpublished_menus": false,
     "menu_info": {
+      "208161": {
+        "position": 2,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
       "208165": {
+        "position": 1,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208167": {
         "position": 0,
         "section_options": {
           "display_name": null,
@@ -28477,38 +29176,6 @@
         }
       },
       "208169": {
-        "position": 1,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208170": {
-        "position": 5,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208172": {
-        "position": 7,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208173": {
-        "position": 2,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208174": {
         "position": 3,
         "section_options": {
           "display_name": null,
@@ -28516,8 +29183,40 @@
           "section_title_can_expand_collapse": true
         }
       },
+      "208170": {
+        "position": 7,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208172": {
+        "position": 9,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208173": {
+        "position": 4,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208174": {
+        "position": 5,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
       "208175": {
-        "position": 6,
+        "position": 8,
         "section_options": {
           "display_name": null,
           "use_section_title": false,
@@ -28525,7 +29224,7 @@
         }
       },
       "208176": {
-        "position": 4,
+        "position": 6,
         "section_options": {
           "display_name": null,
           "use_section_title": false,
@@ -28738,6 +29437,36 @@
                 "_synced_name": "",
                 "help_text": "This contains soy",
                 "sort_order": 3,
+                "_enabled": true,
+                "food_icon_group": 6783
+              },
+              {
+                "id": 32923,
+                "synced_name": "Fish",
+                "enabled": true,
+                "spotlight_enabled": false,
+                "sprite": {
+                  "slug": "default.fish",
+                  "name": "Fish",
+                  "help_text": "This contains fish",
+                  "class_name": "fish-icon"
+                },
+                "custom_icon_url": null,
+                "custom_icon": null,
+                "custom_spotlight_icon_url": null,
+                "custom_spotlight_icon": null,
+                "type": 1,
+                "behavior": 1,
+                "is_filter": true,
+                "is_highlight": false,
+                "is_digital_signage_only": false,
+                "slug": "fish",
+                "icon_slug": "default.fish",
+                "spotlight_icon_slug": null,
+                "name": "Fish",
+                "_synced_name": "",
+                "help_text": "This contains fish",
+                "sort_order": 6,
                 "_enabled": true,
                 "food_icon_group": 6783
               }
@@ -30983,6 +31712,36 @@
                 "sort_order": 4,
                 "_enabled": true,
                 "food_icon_group": 6783
+              },
+              {
+                "id": 32922,
+                "synced_name": "Tree Nuts",
+                "enabled": true,
+                "spotlight_enabled": false,
+                "sprite": {
+                  "slug": "default.tree-nuts",
+                  "name": "Tree Nuts",
+                  "help_text": "This contains tree nuts",
+                  "class_name": "tree-nuts-icon"
+                },
+                "custom_icon_url": null,
+                "custom_icon": null,
+                "custom_spotlight_icon_url": null,
+                "custom_spotlight_icon": null,
+                "type": 1,
+                "behavior": 1,
+                "is_filter": true,
+                "is_highlight": false,
+                "is_digital_signage_only": false,
+                "slug": "tree-nuts",
+                "icon_slug": "default.tree-nuts",
+                "spotlight_icon_slug": null,
+                "name": "Tree Nuts",
+                "_synced_name": "",
+                "help_text": "This contains tree nuts",
+                "sort_order": 5,
+                "_enabled": true,
+                "food_icon_group": 6783
               }
             ],
             "myplate_icons": []
@@ -31822,6 +32581,14 @@
     "date": "2026-05-18",
     "has_unpublished_menus": false,
     "menu_info": {
+      "208161": {
+        "position": 2,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
       "208165": {
         "position": 1,
         "section_options": {
@@ -31839,30 +32606,6 @@
         }
       },
       "208169": {
-        "position": 2,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208170": {
-        "position": 6,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208172": {
-        "position": 8,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208173": {
         "position": 3,
         "section_options": {
           "display_name": null,
@@ -31870,15 +32613,7 @@
           "section_title_can_expand_collapse": true
         }
       },
-      "208174": {
-        "position": 4,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208175": {
+      "208170": {
         "position": 7,
         "section_options": {
           "display_name": null,
@@ -31886,8 +32621,40 @@
           "section_title_can_expand_collapse": true
         }
       },
-      "208176": {
+      "208172": {
+        "position": 9,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208173": {
+        "position": 4,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208174": {
         "position": 5,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208175": {
+        "position": 8,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208176": {
+        "position": 6,
         "section_options": {
           "display_name": null,
           "use_section_title": false,
@@ -32303,6 +33070,36 @@
                 "_synced_name": "",
                 "help_text": "This contains soy",
                 "sort_order": 3,
+                "_enabled": true,
+                "food_icon_group": 6783
+              },
+              {
+                "id": 32923,
+                "synced_name": "Fish",
+                "enabled": true,
+                "spotlight_enabled": false,
+                "sprite": {
+                  "slug": "default.fish",
+                  "name": "Fish",
+                  "help_text": "This contains fish",
+                  "class_name": "fish-icon"
+                },
+                "custom_icon_url": null,
+                "custom_icon": null,
+                "custom_spotlight_icon_url": null,
+                "custom_spotlight_icon": null,
+                "type": 1,
+                "behavior": 1,
+                "is_filter": true,
+                "is_highlight": false,
+                "is_digital_signage_only": false,
+                "slug": "fish",
+                "icon_slug": "default.fish",
+                "spotlight_icon_slug": null,
+                "name": "Fish",
+                "_synced_name": "",
+                "help_text": "This contains fish",
+                "sort_order": 6,
                 "_enabled": true,
                 "food_icon_group": 6783
               }
@@ -33957,6 +34754,36 @@
                 "sort_order": 4,
                 "_enabled": true,
                 "food_icon_group": 6783
+              },
+              {
+                "id": 32922,
+                "synced_name": "Tree Nuts",
+                "enabled": true,
+                "spotlight_enabled": false,
+                "sprite": {
+                  "slug": "default.tree-nuts",
+                  "name": "Tree Nuts",
+                  "help_text": "This contains tree nuts",
+                  "class_name": "tree-nuts-icon"
+                },
+                "custom_icon_url": null,
+                "custom_icon": null,
+                "custom_spotlight_icon_url": null,
+                "custom_spotlight_icon": null,
+                "type": 1,
+                "behavior": 1,
+                "is_filter": true,
+                "is_highlight": false,
+                "is_digital_signage_only": false,
+                "slug": "tree-nuts",
+                "icon_slug": "default.tree-nuts",
+                "spotlight_icon_slug": null,
+                "name": "Tree Nuts",
+                "_synced_name": "",
+                "help_text": "This contains tree nuts",
+                "sort_order": 5,
+                "_enabled": true,
+                "food_icon_group": 6783
               }
             ],
             "myplate_icons": []
@@ -34563,23 +35390,7 @@
           "section_title_can_expand_collapse": true
         }
       },
-      "208170": {
-        "position": 6,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208172": {
-        "position": 8,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208173": {
+      "208169": {
         "position": 3,
         "section_options": {
           "display_name": null,
@@ -34587,15 +35398,7 @@
           "section_title_can_expand_collapse": true
         }
       },
-      "208174": {
-        "position": 4,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208175": {
+      "208170": {
         "position": 7,
         "section_options": {
           "display_name": null,
@@ -34603,8 +35406,40 @@
           "section_title_can_expand_collapse": true
         }
       },
-      "208176": {
+      "208172": {
+        "position": 9,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208173": {
+        "position": 4,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208174": {
         "position": 5,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208175": {
+        "position": 8,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208176": {
+        "position": 6,
         "section_options": {
           "display_name": null,
           "use_section_title": false,
@@ -35020,6 +35855,36 @@
                 "_synced_name": "",
                 "help_text": "This contains soy",
                 "sort_order": 3,
+                "_enabled": true,
+                "food_icon_group": 6783
+              },
+              {
+                "id": 32923,
+                "synced_name": "Fish",
+                "enabled": true,
+                "spotlight_enabled": false,
+                "sprite": {
+                  "slug": "default.fish",
+                  "name": "Fish",
+                  "help_text": "This contains fish",
+                  "class_name": "fish-icon"
+                },
+                "custom_icon_url": null,
+                "custom_icon": null,
+                "custom_spotlight_icon_url": null,
+                "custom_spotlight_icon": null,
+                "type": 1,
+                "behavior": 1,
+                "is_filter": true,
+                "is_highlight": false,
+                "is_digital_signage_only": false,
+                "slug": "fish",
+                "icon_slug": "default.fish",
+                "spotlight_icon_slug": null,
+                "name": "Fish",
+                "_synced_name": "",
+                "help_text": "This contains fish",
+                "sort_order": 6,
                 "_enabled": true,
                 "food_icon_group": 6783
               }
@@ -36902,6 +37767,36 @@
                 "sort_order": 4,
                 "_enabled": true,
                 "food_icon_group": 6783
+              },
+              {
+                "id": 32922,
+                "synced_name": "Tree Nuts",
+                "enabled": true,
+                "spotlight_enabled": false,
+                "sprite": {
+                  "slug": "default.tree-nuts",
+                  "name": "Tree Nuts",
+                  "help_text": "This contains tree nuts",
+                  "class_name": "tree-nuts-icon"
+                },
+                "custom_icon_url": null,
+                "custom_icon": null,
+                "custom_spotlight_icon_url": null,
+                "custom_spotlight_icon": null,
+                "type": 1,
+                "behavior": 1,
+                "is_filter": true,
+                "is_highlight": false,
+                "is_digital_signage_only": false,
+                "slug": "tree-nuts",
+                "icon_slug": "default.tree-nuts",
+                "spotlight_icon_slug": null,
+                "name": "Tree Nuts",
+                "_synced_name": "",
+                "help_text": "This contains tree nuts",
+                "sort_order": 5,
+                "_enabled": true,
+                "food_icon_group": 6783
               }
             ],
             "myplate_icons": []
@@ -37421,7 +38316,80 @@
   "2026-05-20": {
     "date": "2026-05-20",
     "has_unpublished_menus": false,
-    "menu_info": {},
+    "menu_info": {
+      "208165": {
+        "position": 1,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208167": {
+        "position": 0,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208169": {
+        "position": 2,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208170": {
+        "position": 6,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208172": {
+        "position": 8,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208173": {
+        "position": 3,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208174": {
+        "position": 4,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208175": {
+        "position": 7,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208176": {
+        "position": 5,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      }
+    },
     "menu_items": []
   },
   "2026-05-21": {
@@ -37454,6 +38422,14 @@
       },
       "208170": {
         "position": 6,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208172": {
+        "position": 8,
         "section_options": {
           "display_name": null,
           "use_section_title": false,
@@ -37901,6 +38877,36 @@
                 "_synced_name": "",
                 "help_text": "This contains soy",
                 "sort_order": 3,
+                "_enabled": true,
+                "food_icon_group": 6783
+              },
+              {
+                "id": 32923,
+                "synced_name": "Fish",
+                "enabled": true,
+                "spotlight_enabled": false,
+                "sprite": {
+                  "slug": "default.fish",
+                  "name": "Fish",
+                  "help_text": "This contains fish",
+                  "class_name": "fish-icon"
+                },
+                "custom_icon_url": null,
+                "custom_icon": null,
+                "custom_spotlight_icon_url": null,
+                "custom_spotlight_icon": null,
+                "type": 1,
+                "behavior": 1,
+                "is_filter": true,
+                "is_highlight": false,
+                "is_digital_signage_only": false,
+                "slug": "fish",
+                "icon_slug": "default.fish",
+                "spotlight_icon_slug": null,
+                "name": "Fish",
+                "_synced_name": "",
+                "help_text": "This contains fish",
+                "sort_order": 6,
                 "_enabled": true,
                 "food_icon_group": 6783
               }
@@ -40100,6 +41106,36 @@
                 "sort_order": 4,
                 "_enabled": true,
                 "food_icon_group": 6783
+              },
+              {
+                "id": 32922,
+                "synced_name": "Tree Nuts",
+                "enabled": true,
+                "spotlight_enabled": false,
+                "sprite": {
+                  "slug": "default.tree-nuts",
+                  "name": "Tree Nuts",
+                  "help_text": "This contains tree nuts",
+                  "class_name": "tree-nuts-icon"
+                },
+                "custom_icon_url": null,
+                "custom_icon": null,
+                "custom_spotlight_icon_url": null,
+                "custom_spotlight_icon": null,
+                "type": 1,
+                "behavior": 1,
+                "is_filter": true,
+                "is_highlight": false,
+                "is_digital_signage_only": false,
+                "slug": "tree-nuts",
+                "icon_slug": "default.tree-nuts",
+                "spotlight_icon_slug": null,
+                "name": "Tree Nuts",
+                "_synced_name": "",
+                "help_text": "This contains tree nuts",
+                "sort_order": 5,
+                "_enabled": true,
+                "food_icon_group": 6783
               }
             ],
             "myplate_icons": []
@@ -40271,6 +41307,66 @@
                 "_synced_name": "",
                 "help_text": "This contains soy",
                 "sort_order": 3,
+                "_enabled": true,
+                "food_icon_group": 6783
+              },
+              {
+                "id": 32923,
+                "synced_name": "Fish",
+                "enabled": true,
+                "spotlight_enabled": false,
+                "sprite": {
+                  "slug": "default.fish",
+                  "name": "Fish",
+                  "help_text": "This contains fish",
+                  "class_name": "fish-icon"
+                },
+                "custom_icon_url": null,
+                "custom_icon": null,
+                "custom_spotlight_icon_url": null,
+                "custom_spotlight_icon": null,
+                "type": 1,
+                "behavior": 1,
+                "is_filter": true,
+                "is_highlight": false,
+                "is_digital_signage_only": false,
+                "slug": "fish",
+                "icon_slug": "default.fish",
+                "spotlight_icon_slug": null,
+                "name": "Fish",
+                "_synced_name": "",
+                "help_text": "This contains fish",
+                "sort_order": 6,
+                "_enabled": true,
+                "food_icon_group": 6783
+              },
+              {
+                "id": 32924,
+                "synced_name": "Shellfish",
+                "enabled": true,
+                "spotlight_enabled": false,
+                "sprite": {
+                  "slug": "default.shellfish",
+                  "name": "Shellfish",
+                  "help_text": "This contains shellfish",
+                  "class_name": "shellfish-icon"
+                },
+                "custom_icon_url": null,
+                "custom_icon": null,
+                "custom_spotlight_icon_url": null,
+                "custom_spotlight_icon": null,
+                "type": 1,
+                "behavior": 1,
+                "is_filter": true,
+                "is_highlight": false,
+                "is_digital_signage_only": false,
+                "slug": "shellfish",
+                "icon_slug": "default.shellfish",
+                "spotlight_icon_slug": null,
+                "name": "Shellfish",
+                "_synced_name": "",
+                "help_text": "This contains shellfish",
+                "sort_order": 7,
                 "_enabled": true,
                 "food_icon_group": 6783
               },
@@ -40839,6 +41935,36 @@
                 "_synced_name": "",
                 "help_text": "This contains soy",
                 "sort_order": 3,
+                "_enabled": true,
+                "food_icon_group": 6783
+              },
+              {
+                "id": 32923,
+                "synced_name": "Fish",
+                "enabled": true,
+                "spotlight_enabled": false,
+                "sprite": {
+                  "slug": "default.fish",
+                  "name": "Fish",
+                  "help_text": "This contains fish",
+                  "class_name": "fish-icon"
+                },
+                "custom_icon_url": null,
+                "custom_icon": null,
+                "custom_spotlight_icon_url": null,
+                "custom_spotlight_icon": null,
+                "type": 1,
+                "behavior": 1,
+                "is_filter": true,
+                "is_highlight": false,
+                "is_digital_signage_only": false,
+                "slug": "fish",
+                "icon_slug": "default.fish",
+                "spotlight_icon_slug": null,
+                "name": "Fish",
+                "_synced_name": "",
+                "help_text": "This contains fish",
+                "sort_order": 6,
                 "_enabled": true,
                 "food_icon_group": 6783
               }
@@ -42915,6 +44041,36 @@
                 "_synced_name": "",
                 "help_text": "This contains peanuts",
                 "sort_order": 4,
+                "_enabled": true,
+                "food_icon_group": 6783
+              },
+              {
+                "id": 32922,
+                "synced_name": "Tree Nuts",
+                "enabled": true,
+                "spotlight_enabled": false,
+                "sprite": {
+                  "slug": "default.tree-nuts",
+                  "name": "Tree Nuts",
+                  "help_text": "This contains tree nuts",
+                  "class_name": "tree-nuts-icon"
+                },
+                "custom_icon_url": null,
+                "custom_icon": null,
+                "custom_spotlight_icon_url": null,
+                "custom_spotlight_icon": null,
+                "type": 1,
+                "behavior": 1,
+                "is_filter": true,
+                "is_highlight": false,
+                "is_digital_signage_only": false,
+                "slug": "tree-nuts",
+                "icon_slug": "default.tree-nuts",
+                "spotlight_icon_slug": null,
+                "name": "Tree Nuts",
+                "_synced_name": "",
+                "help_text": "This contains tree nuts",
+                "sort_order": 5,
                 "_enabled": true,
                 "food_icon_group": 6783
               }
@@ -46296,6 +47452,36 @@
                 "sort_order": 4,
                 "_enabled": true,
                 "food_icon_group": 6783
+              },
+              {
+                "id": 32922,
+                "synced_name": "Tree Nuts",
+                "enabled": true,
+                "spotlight_enabled": false,
+                "sprite": {
+                  "slug": "default.tree-nuts",
+                  "name": "Tree Nuts",
+                  "help_text": "This contains tree nuts",
+                  "class_name": "tree-nuts-icon"
+                },
+                "custom_icon_url": null,
+                "custom_icon": null,
+                "custom_spotlight_icon_url": null,
+                "custom_spotlight_icon": null,
+                "type": 1,
+                "behavior": 1,
+                "is_filter": true,
+                "is_highlight": false,
+                "is_digital_signage_only": false,
+                "slug": "tree-nuts",
+                "icon_slug": "default.tree-nuts",
+                "spotlight_icon_slug": null,
+                "name": "Tree Nuts",
+                "_synced_name": "",
+                "help_text": "This contains tree nuts",
+                "sort_order": 5,
+                "_enabled": true,
+                "food_icon_group": 6783
               }
             ],
             "myplate_icons": []
@@ -47319,6 +48505,36 @@
                 "_synced_name": "",
                 "help_text": "This contains soy",
                 "sort_order": 3,
+                "_enabled": true,
+                "food_icon_group": 6783
+              },
+              {
+                "id": 32923,
+                "synced_name": "Fish",
+                "enabled": true,
+                "spotlight_enabled": false,
+                "sprite": {
+                  "slug": "default.fish",
+                  "name": "Fish",
+                  "help_text": "This contains fish",
+                  "class_name": "fish-icon"
+                },
+                "custom_icon_url": null,
+                "custom_icon": null,
+                "custom_spotlight_icon_url": null,
+                "custom_spotlight_icon": null,
+                "type": 1,
+                "behavior": 1,
+                "is_filter": true,
+                "is_highlight": false,
+                "is_digital_signage_only": false,
+                "slug": "fish",
+                "icon_slug": "default.fish",
+                "spotlight_icon_slug": null,
+                "name": "Fish",
+                "_synced_name": "",
+                "help_text": "This contains fish",
+                "sort_order": 6,
                 "_enabled": true,
                 "food_icon_group": 6783
               }
@@ -48799,6 +50015,36 @@
                 "sort_order": 4,
                 "_enabled": true,
                 "food_icon_group": 6783
+              },
+              {
+                "id": 32922,
+                "synced_name": "Tree Nuts",
+                "enabled": true,
+                "spotlight_enabled": false,
+                "sprite": {
+                  "slug": "default.tree-nuts",
+                  "name": "Tree Nuts",
+                  "help_text": "This contains tree nuts",
+                  "class_name": "tree-nuts-icon"
+                },
+                "custom_icon_url": null,
+                "custom_icon": null,
+                "custom_spotlight_icon_url": null,
+                "custom_spotlight_icon": null,
+                "type": 1,
+                "behavior": 1,
+                "is_filter": true,
+                "is_highlight": false,
+                "is_digital_signage_only": false,
+                "slug": "tree-nuts",
+                "icon_slug": "default.tree-nuts",
+                "spotlight_icon_slug": null,
+                "name": "Tree Nuts",
+                "_synced_name": "",
+                "help_text": "This contains tree nuts",
+                "sort_order": 5,
+                "_enabled": true,
+                "food_icon_group": 6783
               }
             ],
             "myplate_icons": []
@@ -49891,6 +51137,36 @@
                 "_synced_name": "",
                 "help_text": "This contains soy",
                 "sort_order": 3,
+                "_enabled": true,
+                "food_icon_group": 6783
+              },
+              {
+                "id": 32923,
+                "synced_name": "Fish",
+                "enabled": true,
+                "spotlight_enabled": false,
+                "sprite": {
+                  "slug": "default.fish",
+                  "name": "Fish",
+                  "help_text": "This contains fish",
+                  "class_name": "fish-icon"
+                },
+                "custom_icon_url": null,
+                "custom_icon": null,
+                "custom_spotlight_icon_url": null,
+                "custom_spotlight_icon": null,
+                "type": 1,
+                "behavior": 1,
+                "is_filter": true,
+                "is_highlight": false,
+                "is_digital_signage_only": false,
+                "slug": "fish",
+                "icon_slug": "default.fish",
+                "spotlight_icon_slug": null,
+                "name": "Fish",
+                "_synced_name": "",
+                "help_text": "This contains fish",
+                "sort_order": 6,
                 "_enabled": true,
                 "food_icon_group": 6783
               }
@@ -51909,6 +53185,36 @@
                 "sort_order": 4,
                 "_enabled": true,
                 "food_icon_group": 6783
+              },
+              {
+                "id": 32922,
+                "synced_name": "Tree Nuts",
+                "enabled": true,
+                "spotlight_enabled": false,
+                "sprite": {
+                  "slug": "default.tree-nuts",
+                  "name": "Tree Nuts",
+                  "help_text": "This contains tree nuts",
+                  "class_name": "tree-nuts-icon"
+                },
+                "custom_icon_url": null,
+                "custom_icon": null,
+                "custom_spotlight_icon_url": null,
+                "custom_spotlight_icon": null,
+                "type": 1,
+                "behavior": 1,
+                "is_filter": true,
+                "is_highlight": false,
+                "is_digital_signage_only": false,
+                "slug": "tree-nuts",
+                "icon_slug": "default.tree-nuts",
+                "spotlight_icon_slug": null,
+                "name": "Tree Nuts",
+                "_synced_name": "",
+                "help_text": "This contains tree nuts",
+                "sort_order": 5,
+                "_enabled": true,
+                "food_icon_group": 6783
               }
             ],
             "myplate_icons": []
@@ -52699,6 +54005,36 @@
                 "_synced_name": "",
                 "help_text": "This contains soy",
                 "sort_order": 3,
+                "_enabled": true,
+                "food_icon_group": 6783
+              },
+              {
+                "id": 32923,
+                "synced_name": "Fish",
+                "enabled": true,
+                "spotlight_enabled": false,
+                "sprite": {
+                  "slug": "default.fish",
+                  "name": "Fish",
+                  "help_text": "This contains fish",
+                  "class_name": "fish-icon"
+                },
+                "custom_icon_url": null,
+                "custom_icon": null,
+                "custom_spotlight_icon_url": null,
+                "custom_spotlight_icon": null,
+                "type": 1,
+                "behavior": 1,
+                "is_filter": true,
+                "is_highlight": false,
+                "is_digital_signage_only": false,
+                "slug": "fish",
+                "icon_slug": "default.fish",
+                "spotlight_icon_slug": null,
+                "name": "Fish",
+                "_synced_name": "",
+                "help_text": "This contains fish",
+                "sort_order": 6,
                 "_enabled": true,
                 "food_icon_group": 6783
               }
@@ -54471,6 +55807,36 @@
                 "_synced_name": "",
                 "help_text": "This contains peanuts",
                 "sort_order": 4,
+                "_enabled": true,
+                "food_icon_group": 6783
+              },
+              {
+                "id": 32922,
+                "synced_name": "Tree Nuts",
+                "enabled": true,
+                "spotlight_enabled": false,
+                "sprite": {
+                  "slug": "default.tree-nuts",
+                  "name": "Tree Nuts",
+                  "help_text": "This contains tree nuts",
+                  "class_name": "tree-nuts-icon"
+                },
+                "custom_icon_url": null,
+                "custom_icon": null,
+                "custom_spotlight_icon_url": null,
+                "custom_spotlight_icon": null,
+                "type": 1,
+                "behavior": 1,
+                "is_filter": true,
+                "is_highlight": false,
+                "is_digital_signage_only": false,
+                "slug": "tree-nuts",
+                "icon_slug": "default.tree-nuts",
+                "spotlight_icon_slug": null,
+                "name": "Tree Nuts",
+                "_synced_name": "",
+                "help_text": "This contains tree nuts",
+                "sort_order": 5,
                 "_enabled": true,
                 "food_icon_group": 6783
               }
