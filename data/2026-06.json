@@ -3,14 +3,6 @@
     "date": "2026-06-01",
     "has_unpublished_menus": false,
     "menu_info": {
-      "208161": {
-        "position": 2,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
       "208165": {
         "position": 1,
         "section_options": {
@@ -28,7 +20,7 @@
         }
       },
       "208169": {
-        "position": 3,
+        "position": 2,
         "section_options": {
           "display_name": null,
           "use_section_title": false,
@@ -36,7 +28,7 @@
         }
       },
       "208170": {
-        "position": 7,
+        "position": 6,
         "section_options": {
           "display_name": null,
           "use_section_title": false,
@@ -44,30 +36,6 @@
         }
       },
       "208172": {
-        "position": 9,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208173": {
-        "position": 4,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208174": {
-        "position": 5,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208175": {
         "position": 8,
         "section_options": {
           "display_name": null,
@@ -75,8 +43,32 @@
           "section_title_can_expand_collapse": true
         }
       },
+      "208173": {
+        "position": 3,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208174": {
+        "position": 4,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208175": {
+        "position": 7,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
       "208176": {
-        "position": 6,
+        "position": 5,
         "section_options": {
           "display_name": null,
           "use_section_title": false,
@@ -5664,7 +5656,7 @@
           "image_alt_text": null,
           "hoverpic_url": null,
           "price": null,
-          "ingredients": "Whole Milk^, Cheddar Cheese^, All Purpose Flour^, Swiss Cheese^, Unsalted Butter, Yellow Onions, Kosher Salt^, Nutmeg, White Pepper, Bay Leaf",
+          "ingredients": "Whole Milk, Cheddar Cheese^, All Purpose Flour^, Swiss Cheese^, Unsalted Butter, Yellow Onions, Kosher Salt^, Nutmeg, White Pepper, Bay Leaf",
           "food_category": "",
           "food_highlight_message": null,
           "file_url": "",
@@ -6714,7 +6706,7 @@
           "image_alt_text": null,
           "hoverpic_url": null,
           "price": null,
-          "ingredients": "Spanish Onions, Corn Tortilla^, Tomatoes, Whole Milk^, Avocado, Water, Lime, Pan Coating^, Corn, Ground Tomatoes^, Navy Beans, Canola Oil, Cheddar Cheese^, Kidney Beans, Green Bell Peppers, Red Bell Peppers, Cilantro, Yellow Onions, Zucchini, Tomatoes, Eggplant, All Purpose Flour^, Swiss Cheese^, Unsalted Butter, Mushrooms, Low Sodium Vegetable Base^, Garlic, Chipotle Peppers^, Kosher Salt^, Chili Powder^, Black Pepper, Cumin, Nutmeg, White Pepper, Bay Leaf",
+          "ingredients": "Spanish Onions, Corn Tortilla^, Tomatoes, Whole Milk, Avocado, Water, Lime, Pan Coating^, Corn, Ground Tomatoes^, Navy Beans, Canola Oil, Cheddar Cheese^, Kidney Beans, Green Bell Peppers, Red Bell Peppers, Cilantro, Yellow Onions, Zucchini, Tomatoes, Eggplant, All Purpose Flour^, Swiss Cheese^, Unsalted Butter, Mushrooms, Low Sodium Vegetable Base^, Garlic, Chipotle Peppers^, Kosher Salt^, Chili Powder^, Black Pepper, Cumin, Nutmeg, White Pepper, Bay Leaf",
           "food_category": "",
           "food_highlight_message": null,
           "file_url": "",
@@ -7073,14 +7065,6 @@
     "date": "2026-06-03",
     "has_unpublished_menus": false,
     "menu_info": {
-      "208161": {
-        "position": 2,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
       "208165": {
         "position": 1,
         "section_options": {
@@ -7097,39 +7081,7 @@
           "section_title_can_expand_collapse": true
         }
       },
-      "208169": {
-        "position": 3,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
       "208170": {
-        "position": 7,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208172": {
-        "position": 9,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208173": {
-        "position": 4,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208174": {
         "position": 5,
         "section_options": {
           "display_name": null,
@@ -7137,8 +7089,32 @@
           "section_title_can_expand_collapse": true
         }
       },
+      "208172": {
+        "position": 7,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208173": {
+        "position": 2,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208174": {
+        "position": 3,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
       "208175": {
-        "position": 8,
+        "position": 6,
         "section_options": {
           "display_name": null,
           "use_section_title": false,
@@ -7146,7 +7122,7 @@
         }
       },
       "208176": {
-        "position": 6,
+        "position": 4,
         "section_options": {
           "display_name": null,
           "use_section_title": false,
@@ -10013,16 +9989,8 @@
           "section_title_can_expand_collapse": true
         }
       },
-      "208169": {
-        "position": 3,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
       "208170": {
-        "position": 7,
+        "position": 6,
         "section_options": {
           "display_name": null,
           "use_section_title": false,
@@ -10030,30 +9998,6 @@
         }
       },
       "208172": {
-        "position": 9,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208173": {
-        "position": 4,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208174": {
-        "position": 5,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208175": {
         "position": 8,
         "section_options": {
           "display_name": null,
@@ -10061,8 +10005,32 @@
           "section_title_can_expand_collapse": true
         }
       },
+      "208173": {
+        "position": 3,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208174": {
+        "position": 4,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208175": {
+        "position": 7,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
       "208176": {
-        "position": 6,
+        "position": 5,
         "section_options": {
           "display_name": null,
           "use_section_title": false,
@@ -10620,7 +10588,7 @@
           "image_alt_text": null,
           "hoverpic_url": null,
           "price": null,
-          "ingredients": "Whipping Cream, Banana, Sweetened Condensed Milk^, Vanilla Wafer Cookies^, Whole Milk^, Cream Cheese^, Vanilla Pudding Mix^, Powdered Sugar, Vanilla Wafer Cookies^",
+          "ingredients": "Whipping Cream, Banana, Sweetened Condensed Milk^, Vanilla Wafer Cookies^, Whole Milk, Cream Cheese^, Vanilla Pudding Mix^, Powdered Sugar, Vanilla Wafer Cookies^",
           "food_category": "",
           "food_highlight_message": null,
           "file_url": "",
@@ -13107,7 +13075,23 @@
     "date": "2026-06-05",
     "has_unpublished_menus": false,
     "menu_info": {
+      "208161": {
+        "position": 2,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
       "208165": {
+        "position": 1,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208167": {
         "position": 0,
         "section_options": {
           "display_name": null,
@@ -13116,38 +13100,6 @@
         }
       },
       "208169": {
-        "position": 1,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208170": {
-        "position": 5,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208172": {
-        "position": 7,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208173": {
-        "position": 2,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208174": {
         "position": 3,
         "section_options": {
           "display_name": null,
@@ -13155,8 +13107,40 @@
           "section_title_can_expand_collapse": true
         }
       },
+      "208170": {
+        "position": 7,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208172": {
+        "position": 9,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208173": {
+        "position": 4,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208174": {
+        "position": 5,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
       "208175": {
-        "position": 6,
+        "position": 8,
         "section_options": {
           "display_name": null,
           "use_section_title": false,
@@ -13164,7 +13148,7 @@
         }
       },
       "208176": {
-        "position": 4,
+        "position": 6,
         "section_options": {
           "display_name": null,
           "use_section_title": false,
@@ -16039,6 +16023,14 @@
     "date": "2026-06-08",
     "has_unpublished_menus": false,
     "menu_info": {
+      "208161": {
+        "position": 2,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
       "208165": {
         "position": 1,
         "section_options": {
@@ -16056,30 +16048,6 @@
         }
       },
       "208169": {
-        "position": 2,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208170": {
-        "position": 6,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208172": {
-        "position": 8,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208173": {
         "position": 3,
         "section_options": {
           "display_name": null,
@@ -16087,15 +16055,7 @@
           "section_title_can_expand_collapse": true
         }
       },
-      "208174": {
-        "position": 4,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208175": {
+      "208170": {
         "position": 7,
         "section_options": {
           "display_name": null,
@@ -16103,8 +16063,40 @@
           "section_title_can_expand_collapse": true
         }
       },
-      "208176": {
+      "208172": {
+        "position": 9,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208173": {
+        "position": 4,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208174": {
         "position": 5,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208175": {
+        "position": 8,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208176": {
+        "position": 6,
         "section_options": {
           "display_name": null,
           "use_section_title": false,
