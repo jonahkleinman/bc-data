@@ -3752,24 +3752,24 @@
           "image_alt_text": null,
           "hoverpic_url": null,
           "price": null,
-          "ingredients": "Chicken Thigh, Barbecue Sauce^, Pan Coating^, Canola Oil, Ground Paprika^, Light Brown Sugar^, Granulated Sugar, Chili Powder^, Kosher Salt^, Black Pepper, Cumin, Cayenne Pepper",
+          "ingredients": "Chicken Thigh, Barbecue Sauce^, Cooking Spray^, Canola Oil, Ground Paprika^, Light Brown Sugar^, Granulated Sugar, Chili Powder^, Kosher Salt^, Black Pepper, Cumin, Cayenne Pepper",
           "food_category": "",
           "food_highlight_message": null,
           "file_url": "",
           "download_label": "View Manufacturer's Label",
           "rounded_nutrition_info": {
             "calories": 230,
-            "g_fat": 11,
+            "g_fat": 10,
             "g_saturated_fat": 2.5,
             "g_trans_fat": 0,
-            "mg_cholesterol": 132,
-            "g_carbs": 7,
+            "mg_cholesterol": 136,
+            "g_carbs": 8,
             "g_added_sugar": null,
             "g_sugar": 5,
-            "mg_potassium": 340,
-            "mg_sodium": 350,
+            "mg_potassium": 350,
+            "mg_sodium": 370,
             "g_fiber": 1,
-            "g_protein": 25,
+            "g_protein": 26,
             "mg_iron": 1.6,
             "mg_calcium": 20,
             "mg_vitamin_c": null,
@@ -3785,38 +3785,7 @@
           },
           "has_nutrition_info": true,
           "icons": {
-            "food_icons": [
-              {
-                "id": 32920,
-                "synced_name": "Soy",
-                "enabled": true,
-                "spotlight_enabled": false,
-                "sprite": {
-                  "slug": "default.soy",
-                  "name": "Soy",
-                  "help_text": "This contains soy",
-                  "class_name": "soy-icon"
-                },
-                "custom_icon_url": null,
-                "custom_icon": null,
-                "custom_spotlight_icon_url": null,
-                "custom_spotlight_icon": null,
-                "type": 1,
-                "behavior": 1,
-                "is_filter": true,
-                "is_highlight": false,
-                "is_digital_signage_only": false,
-                "slug": "soy",
-                "icon_slug": "default.soy",
-                "spotlight_icon_slug": null,
-                "name": "Soy",
-                "_synced_name": "",
-                "help_text": "This contains soy",
-                "sort_order": 3,
-                "_enabled": true,
-                "food_icon_group": 6783
-              }
-            ],
+            "food_icons": [],
             "myplate_icons": []
           },
           "icons_approved": true,
@@ -3980,7 +3949,7 @@
         "food_variation_id": 501018
       },
       {
-        "id": 417010218,
+        "id": 417558129,
         "date": null,
         "position": 4,
         "is_section_title": false,
@@ -3990,38 +3959,38 @@
         "no_line_break": false,
         "blank_line": false,
         "food": {
-          "id": 1923743,
-          "name": "BBQ Grilled Cauliflower Steak",
+          "id": 1923770,
+          "name": "BBQ Tofu",
           "description": "",
           "image_url": null,
           "image_alt_text": null,
           "hoverpic_url": null,
           "price": null,
-          "ingredients": "Cauliflower, Canola Oil, Ketchup^, Yellow Onions, Chili Powder^, Apple Cider, Dark Molasses^, Tomato Paste^, Lemon Juice^, Garlic, Kosher Salt^, Dark Brown Sugar^, Honey, Garlic, Lemon Juice, Black Pepper, Ground Allspice, Cayenne Pepper, Red Pepper, Smoked Paprika^, Mustard, White Pepper",
+          "ingredients": "Tofu^, Barbecue Sauce^, Ground Paprika^, Light Brown Sugar^, Granulated Sugar, Chili Powder^, Kosher Salt^, Pan Coating^, Black Pepper, Cumin, Cayenne Pepper",
           "food_category": "",
           "food_highlight_message": null,
           "file_url": "",
           "download_label": "View Manufacturer's Label",
           "rounded_nutrition_info": {
-            "calories": 80,
-            "g_fat": 4.5,
-            "g_saturated_fat": 0,
+            "calories": 140,
+            "g_fat": 6,
+            "g_saturated_fat": 0.5,
             "g_trans_fat": 0,
             "mg_cholesterol": 0,
             "g_carbs": 10,
             "g_added_sugar": null,
-            "g_sugar": 5,
-            "mg_potassium": 390,
-            "mg_sodium": 380,
+            "g_sugar": 6,
+            "mg_potassium": 220,
+            "mg_sodium": 290,
             "g_fiber": 3,
-            "g_protein": 2,
-            "mg_iron": 0.9,
-            "mg_calcium": 40,
-            "mg_vitamin_c": 49,
+            "g_protein": 11,
+            "mg_iron": 2.7,
+            "mg_calcium": 190,
+            "mg_vitamin_c": null,
             "iu_vitamin_a": null,
             "re_vitamin_a": null,
             "mcg_vitamin_a": null,
-            "mg_vitamin_d": 0,
+            "mg_vitamin_d": null,
             "mcg_vitamin_d": null
           },
           "serving_size_info": {
@@ -4030,7 +3999,38 @@
           },
           "has_nutrition_info": true,
           "icons": {
-            "food_icons": [],
+            "food_icons": [
+              {
+                "id": 32920,
+                "synced_name": "Soy",
+                "enabled": true,
+                "spotlight_enabled": false,
+                "sprite": {
+                  "slug": "default.soy",
+                  "name": "Soy",
+                  "help_text": "This contains soy",
+                  "class_name": "soy-icon"
+                },
+                "custom_icon_url": null,
+                "custom_icon": null,
+                "custom_spotlight_icon_url": null,
+                "custom_spotlight_icon": null,
+                "type": 1,
+                "behavior": 1,
+                "is_filter": true,
+                "is_highlight": false,
+                "is_digital_signage_only": false,
+                "slug": "soy",
+                "icon_slug": "default.soy",
+                "spotlight_icon_slug": null,
+                "name": "Soy",
+                "_synced_name": "",
+                "help_text": "This contains soy",
+                "sort_order": 3,
+                "_enabled": true,
+                "food_icon_group": 6783
+              }
+            ],
             "myplate_icons": []
           },
           "icons_approved": true,
@@ -4042,10 +4042,10 @@
           },
           "food_sizes": [],
           "ds_calories_override": "",
-          "synced_id": "85430.1",
+          "synced_id": "87738",
           "sync_placeholder": null,
           "has_options_or_sides": false,
-          "digest": "Q19FA2uMf7YPunC1UkxhihKXPia52pmU4mTwWGrexLL9aJHI7W9bXnt/xzTPDb/wAnZC9mHrGaASnJm61tAABA==",
+          "digest": "mAk6kXfxuBzVQYRHHlyjLIv4Ar4sz3pShYcKyRsA8bNuc4RgIxKg9ZhiP7EwlX6FLF6k34HGS3sMK7h36bSV/A==",
           "pos_item_id": "",
           "smart_recipe_id": null,
           "has_subfoods": false,
@@ -4084,119 +4084,12 @@
         "smart_recipe_id": null,
         "station_food_tags": [],
         "menu_id": 208173,
-        "food_variation_id": 53947
-      },
-      {
-        "id": 412588630,
-        "date": null,
-        "position": 5,
-        "is_section_title": false,
-        "bold": false,
-        "featured": false,
-        "text": "",
-        "no_line_break": false,
-        "blank_line": false,
-        "food": {
-          "id": 2363635,
-          "name": "Roasted Rainbow Carrots",
-          "description": "",
-          "image_url": null,
-          "image_alt_text": null,
-          "hoverpic_url": null,
-          "price": null,
-          "ingredients": "Carrots, Canola Oil, Kosher Salt^, Black Pepper",
-          "food_category": "",
-          "food_highlight_message": null,
-          "file_url": "",
-          "download_label": "View Manufacturer's Label",
-          "rounded_nutrition_info": {
-            "calories": 50,
-            "g_fat": 2.5,
-            "g_saturated_fat": 0,
-            "g_trans_fat": 0,
-            "mg_cholesterol": 0,
-            "g_carbs": 7,
-            "g_added_sugar": null,
-            "g_sugar": 3,
-            "mg_potassium": 240,
-            "mg_sodium": 125,
-            "g_fiber": 2,
-            "g_protein": 1,
-            "mg_iron": 0.2,
-            "mg_calcium": 30,
-            "mg_vitamin_c": 4,
-            "iu_vitamin_a": null,
-            "re_vitamin_a": null,
-            "mcg_vitamin_a": null,
-            "mg_vitamin_d": 0,
-            "mcg_vitamin_d": null
-          },
-          "serving_size_info": {
-            "serving_size_amount": "0.5",
-            "serving_size_unit": "cups"
-          },
-          "has_nutrition_info": true,
-          "icons": {
-            "food_icons": [],
-            "myplate_icons": []
-          },
-          "icons_approved": true,
-          "aggregated_data": {
-            "price_adjustment": 0,
-            "icons_approved": true,
-            "food_icons": [],
-            "calories": 0
-          },
-          "food_sizes": [],
-          "ds_calories_override": "",
-          "synced_id": "31142.8",
-          "sync_placeholder": null,
-          "has_options_or_sides": false,
-          "digest": "r3TqkvcCKypY6cEqfxbDpbgR2v+99r3uyz49pSUqFMxcb4zM6jpj4jwQ3FxxXjFWpy8f8zlYX3U9+Rk28Vd72g==",
-          "pos_item_id": "",
-          "smart_recipe_id": null,
-          "has_subfoods": false,
-          "meal_plan_price": null,
-          "use_custom_sizes": true,
-          "tags": [],
-          "synced_subtext": "",
-          "synced_nested_foods": [],
-          "synced_ordering_enabled": true,
-          "subtext": "",
-          "subtext_unlocked": false,
-          "nested_foods": [],
-          "nested_foods_unlocked": false,
-          "ordering_enabled": true,
-          "ordering_enabled_unlocked": false
-        },
-        "is_holiday": false,
-        "food_list": null,
-        "station_id": 46810,
-        "is_station_header": false,
-        "station_is_collapsible": false,
-        "station_image_display_mode": "standard",
-        "station_logo": null,
-        "station_logo_alt": null,
-        "station_mobile_image": null,
-        "station_mobile_image_alt": null,
-        "image": "",
-        "image_description": null,
-        "image_alt": null,
-        "image_thumbnail": "",
-        "category": "",
-        "price": null,
-        "serving_size": null,
-        "serving_size_amount": 0.5,
-        "serving_size_unit": "cups",
-        "smart_recipe_id": null,
-        "station_food_tags": [],
-        "menu_id": 208173,
-        "food_variation_id": 752642
+        "food_variation_id": 53984
       },
       {
         "id": 412588631,
         "date": null,
-        "position": 6,
+        "position": 5,
         "is_section_title": false,
         "bold": false,
         "featured": false,
@@ -4301,6 +4194,144 @@
         "food_variation_id": 738938
       },
       {
+        "id": 417558130,
+        "date": null,
+        "position": 6,
+        "is_section_title": false,
+        "bold": false,
+        "featured": false,
+        "text": "",
+        "no_line_break": false,
+        "blank_line": false,
+        "food": {
+          "id": 2383606,
+          "name": "Roasted Broccoli, Cauliflower",
+          "description": "",
+          "image_url": null,
+          "image_alt_text": null,
+          "hoverpic_url": null,
+          "price": null,
+          "ingredients": "Broccoli, Cauliflower, Canola Oil, Kosher Salt^, Black Pepper",
+          "food_category": "",
+          "food_highlight_message": null,
+          "file_url": "",
+          "download_label": "View Manufacturer's Label",
+          "rounded_nutrition_info": {
+            "calories": 25,
+            "g_fat": 1.5,
+            "g_saturated_fat": 0,
+            "g_trans_fat": 0,
+            "mg_cholesterol": 0,
+            "g_carbs": 3,
+            "g_added_sugar": null,
+            "g_sugar": 1,
+            "mg_potassium": 135,
+            "mg_sodium": 60,
+            "g_fiber": 1,
+            "g_protein": 1,
+            "mg_iron": 0.3,
+            "mg_calcium": 20,
+            "mg_vitamin_c": 32,
+            "iu_vitamin_a": null,
+            "re_vitamin_a": null,
+            "mcg_vitamin_a": null,
+            "mg_vitamin_d": 0,
+            "mcg_vitamin_d": null
+          },
+          "serving_size_info": {
+            "serving_size_amount": "0.5",
+            "serving_size_unit": "cups"
+          },
+          "has_nutrition_info": true,
+          "icons": {
+            "food_icons": [],
+            "myplate_icons": [
+              {
+                "id": 32930,
+                "synced_name": "Vegetable",
+                "enabled": true,
+                "spotlight_enabled": false,
+                "sprite": {
+                  "slug": "myplate.vegetable",
+                  "name": "Vegetable",
+                  "help_text": "This contains vegetables",
+                  "class_name": "vegetable-group"
+                },
+                "custom_icon_url": null,
+                "custom_icon": null,
+                "custom_spotlight_icon_url": null,
+                "custom_spotlight_icon": null,
+                "type": 4,
+                "behavior": 1,
+                "is_filter": true,
+                "is_highlight": false,
+                "is_digital_signage_only": false,
+                "slug": "vegetable",
+                "icon_slug": "myplate.vegetable",
+                "spotlight_icon_slug": null,
+                "name": "Vegetable",
+                "_synced_name": "",
+                "help_text": "This contains vegetables",
+                "sort_order": 4,
+                "_enabled": true,
+                "food_icon_group": 6784
+              }
+            ]
+          },
+          "icons_approved": true,
+          "aggregated_data": {
+            "price_adjustment": 0,
+            "icons_approved": true,
+            "food_icons": [],
+            "calories": 0
+          },
+          "food_sizes": [],
+          "ds_calories_override": "",
+          "synced_id": "31546.22",
+          "sync_placeholder": null,
+          "has_options_or_sides": false,
+          "digest": "nMEcQX7PvkdgxAUDeo97u1dqiDuEm5FrNXY5N/FD63JLSlN+nmdgDFxJTcRAw9xAgeEAidMMmeudjXG8ar2BzQ==",
+          "pos_item_id": "",
+          "smart_recipe_id": null,
+          "has_subfoods": false,
+          "meal_plan_price": null,
+          "use_custom_sizes": true,
+          "tags": [],
+          "synced_subtext": "",
+          "synced_nested_foods": [],
+          "synced_ordering_enabled": true,
+          "subtext": "",
+          "subtext_unlocked": false,
+          "nested_foods": [],
+          "nested_foods_unlocked": false,
+          "ordering_enabled": true,
+          "ordering_enabled_unlocked": false
+        },
+        "is_holiday": false,
+        "food_list": null,
+        "station_id": 46810,
+        "is_station_header": false,
+        "station_is_collapsible": false,
+        "station_image_display_mode": "standard",
+        "station_logo": null,
+        "station_logo_alt": null,
+        "station_mobile_image": null,
+        "station_mobile_image_alt": null,
+        "image": "",
+        "image_description": null,
+        "image_alt": null,
+        "image_thumbnail": "",
+        "category": "",
+        "price": null,
+        "serving_size": null,
+        "serving_size_amount": 0.5,
+        "serving_size_unit": "cups",
+        "smart_recipe_id": null,
+        "station_food_tags": [],
+        "menu_id": 208173,
+        "food_variation_id": 863218
+      },
+      {
         "id": 412588774,
         "date": null,
         "position": 0,
@@ -4353,24 +4384,24 @@
           "image_alt_text": null,
           "hoverpic_url": null,
           "price": null,
-          "ingredients": "Chicken Thigh, Barbecue Sauce^, Pan Coating^, Canola Oil, Ground Paprika^, Light Brown Sugar^, Granulated Sugar, Chili Powder^, Kosher Salt^, Black Pepper, Cumin, Cayenne Pepper",
+          "ingredients": "Chicken Thigh, Barbecue Sauce^, Cooking Spray^, Canola Oil, Ground Paprika^, Light Brown Sugar^, Granulated Sugar, Chili Powder^, Kosher Salt^, Black Pepper, Cumin, Cayenne Pepper",
           "food_category": "",
           "food_highlight_message": null,
           "file_url": "",
           "download_label": "View Manufacturer's Label",
           "rounded_nutrition_info": {
             "calories": 230,
-            "g_fat": 11,
+            "g_fat": 10,
             "g_saturated_fat": 2.5,
             "g_trans_fat": 0,
-            "mg_cholesterol": 132,
-            "g_carbs": 7,
+            "mg_cholesterol": 136,
+            "g_carbs": 8,
             "g_added_sugar": null,
             "g_sugar": 5,
-            "mg_potassium": 340,
-            "mg_sodium": 350,
+            "mg_potassium": 350,
+            "mg_sodium": 370,
             "g_fiber": 1,
-            "g_protein": 25,
+            "g_protein": 26,
             "mg_iron": 1.6,
             "mg_calcium": 20,
             "mg_vitamin_c": null,
@@ -4386,38 +4417,7 @@
           },
           "has_nutrition_info": true,
           "icons": {
-            "food_icons": [
-              {
-                "id": 32920,
-                "synced_name": "Soy",
-                "enabled": true,
-                "spotlight_enabled": false,
-                "sprite": {
-                  "slug": "default.soy",
-                  "name": "Soy",
-                  "help_text": "This contains soy",
-                  "class_name": "soy-icon"
-                },
-                "custom_icon_url": null,
-                "custom_icon": null,
-                "custom_spotlight_icon_url": null,
-                "custom_spotlight_icon": null,
-                "type": 1,
-                "behavior": 1,
-                "is_filter": true,
-                "is_highlight": false,
-                "is_digital_signage_only": false,
-                "slug": "soy",
-                "icon_slug": "default.soy",
-                "spotlight_icon_slug": null,
-                "name": "Soy",
-                "_synced_name": "",
-                "help_text": "This contains soy",
-                "sort_order": 3,
-                "_enabled": true,
-                "food_icon_group": 6783
-              }
-            ],
+            "food_icons": [],
             "myplate_icons": []
           },
           "icons_approved": true,
@@ -5249,7 +5249,7 @@
         "food_variation_id": null
       },
       {
-        "id": 412588848,
+        "id": 417558131,
         "date": null,
         "position": 1,
         "is_section_title": false,
@@ -5259,38 +5259,38 @@
         "no_line_break": false,
         "blank_line": false,
         "food": {
-          "id": 1923743,
-          "name": "BBQ Grilled Cauliflower Steak",
+          "id": 1923770,
+          "name": "BBQ Tofu",
           "description": "",
           "image_url": null,
           "image_alt_text": null,
           "hoverpic_url": null,
           "price": null,
-          "ingredients": "Cauliflower, Canola Oil, Ketchup^, Yellow Onions, Chili Powder^, Apple Cider, Dark Molasses^, Tomato Paste^, Lemon Juice^, Garlic, Kosher Salt^, Dark Brown Sugar^, Honey, Garlic, Lemon Juice, Black Pepper, Ground Allspice, Cayenne Pepper, Red Pepper, Smoked Paprika^, Mustard, White Pepper",
+          "ingredients": "Tofu^, Barbecue Sauce^, Ground Paprika^, Light Brown Sugar^, Granulated Sugar, Chili Powder^, Kosher Salt^, Pan Coating^, Black Pepper, Cumin, Cayenne Pepper",
           "food_category": "",
           "food_highlight_message": null,
           "file_url": "",
           "download_label": "View Manufacturer's Label",
           "rounded_nutrition_info": {
-            "calories": 80,
-            "g_fat": 4.5,
-            "g_saturated_fat": 0,
+            "calories": 140,
+            "g_fat": 6,
+            "g_saturated_fat": 0.5,
             "g_trans_fat": 0,
             "mg_cholesterol": 0,
             "g_carbs": 10,
             "g_added_sugar": null,
-            "g_sugar": 5,
-            "mg_potassium": 390,
-            "mg_sodium": 380,
+            "g_sugar": 6,
+            "mg_potassium": 220,
+            "mg_sodium": 290,
             "g_fiber": 3,
-            "g_protein": 2,
-            "mg_iron": 0.9,
-            "mg_calcium": 40,
-            "mg_vitamin_c": 49,
+            "g_protein": 11,
+            "mg_iron": 2.7,
+            "mg_calcium": 190,
+            "mg_vitamin_c": null,
             "iu_vitamin_a": null,
             "re_vitamin_a": null,
             "mcg_vitamin_a": null,
-            "mg_vitamin_d": 0,
+            "mg_vitamin_d": null,
             "mcg_vitamin_d": null
           },
           "serving_size_info": {
@@ -5299,7 +5299,38 @@
           },
           "has_nutrition_info": true,
           "icons": {
-            "food_icons": [],
+            "food_icons": [
+              {
+                "id": 32920,
+                "synced_name": "Soy",
+                "enabled": true,
+                "spotlight_enabled": false,
+                "sprite": {
+                  "slug": "default.soy",
+                  "name": "Soy",
+                  "help_text": "This contains soy",
+                  "class_name": "soy-icon"
+                },
+                "custom_icon_url": null,
+                "custom_icon": null,
+                "custom_spotlight_icon_url": null,
+                "custom_spotlight_icon": null,
+                "type": 1,
+                "behavior": 1,
+                "is_filter": true,
+                "is_highlight": false,
+                "is_digital_signage_only": false,
+                "slug": "soy",
+                "icon_slug": "default.soy",
+                "spotlight_icon_slug": null,
+                "name": "Soy",
+                "_synced_name": "",
+                "help_text": "This contains soy",
+                "sort_order": 3,
+                "_enabled": true,
+                "food_icon_group": 6783
+              }
+            ],
             "myplate_icons": []
           },
           "icons_approved": true,
@@ -5311,10 +5342,10 @@
           },
           "food_sizes": [],
           "ds_calories_override": "",
-          "synced_id": "85430.1",
+          "synced_id": "87738",
           "sync_placeholder": null,
           "has_options_or_sides": false,
-          "digest": "Q19FA2uMf7YPunC1UkxhihKXPia52pmU4mTwWGrexLL9aJHI7W9bXnt/xzTPDb/wAnZC9mHrGaASnJm61tAABA==",
+          "digest": "mAk6kXfxuBzVQYRHHlyjLIv4Ar4sz3pShYcKyRsA8bNuc4RgIxKg9ZhiP7EwlX6FLF6k34HGS3sMK7h36bSV/A==",
           "pos_item_id": "",
           "smart_recipe_id": null,
           "has_subfoods": false,
@@ -5353,7 +5384,7 @@
         "smart_recipe_id": null,
         "station_food_tags": [],
         "menu_id": 208175,
-        "food_variation_id": 53947
+        "food_variation_id": 53984
       },
       {
         "id": 412588972,
@@ -5391,7 +5422,7 @@
         "food_variation_id": null
       },
       {
-        "id": 412588973,
+        "id": 417558133,
         "date": null,
         "position": 1,
         "is_section_title": false,
@@ -5401,34 +5432,34 @@
         "no_line_break": false,
         "blank_line": false,
         "food": {
-          "id": 2363635,
-          "name": "Roasted Rainbow Carrots",
+          "id": 2383606,
+          "name": "Roasted Broccoli, Cauliflower",
           "description": "",
           "image_url": null,
           "image_alt_text": null,
           "hoverpic_url": null,
           "price": null,
-          "ingredients": "Carrots, Canola Oil, Kosher Salt^, Black Pepper",
+          "ingredients": "Broccoli, Cauliflower, Canola Oil, Kosher Salt^, Black Pepper",
           "food_category": "",
           "food_highlight_message": null,
           "file_url": "",
           "download_label": "View Manufacturer's Label",
           "rounded_nutrition_info": {
-            "calories": 50,
-            "g_fat": 2.5,
+            "calories": 25,
+            "g_fat": 1.5,
             "g_saturated_fat": 0,
             "g_trans_fat": 0,
             "mg_cholesterol": 0,
-            "g_carbs": 7,
+            "g_carbs": 3,
             "g_added_sugar": null,
-            "g_sugar": 3,
-            "mg_potassium": 240,
-            "mg_sodium": 125,
-            "g_fiber": 2,
+            "g_sugar": 1,
+            "mg_potassium": 135,
+            "mg_sodium": 60,
+            "g_fiber": 1,
             "g_protein": 1,
-            "mg_iron": 0.2,
-            "mg_calcium": 30,
-            "mg_vitamin_c": 4,
+            "mg_iron": 0.3,
+            "mg_calcium": 20,
+            "mg_vitamin_c": 32,
             "iu_vitamin_a": null,
             "re_vitamin_a": null,
             "mcg_vitamin_a": null,
@@ -5442,7 +5473,38 @@
           "has_nutrition_info": true,
           "icons": {
             "food_icons": [],
-            "myplate_icons": []
+            "myplate_icons": [
+              {
+                "id": 32930,
+                "synced_name": "Vegetable",
+                "enabled": true,
+                "spotlight_enabled": false,
+                "sprite": {
+                  "slug": "myplate.vegetable",
+                  "name": "Vegetable",
+                  "help_text": "This contains vegetables",
+                  "class_name": "vegetable-group"
+                },
+                "custom_icon_url": null,
+                "custom_icon": null,
+                "custom_spotlight_icon_url": null,
+                "custom_spotlight_icon": null,
+                "type": 4,
+                "behavior": 1,
+                "is_filter": true,
+                "is_highlight": false,
+                "is_digital_signage_only": false,
+                "slug": "vegetable",
+                "icon_slug": "myplate.vegetable",
+                "spotlight_icon_slug": null,
+                "name": "Vegetable",
+                "_synced_name": "",
+                "help_text": "This contains vegetables",
+                "sort_order": 4,
+                "_enabled": true,
+                "food_icon_group": 6784
+              }
+            ]
           },
           "icons_approved": true,
           "aggregated_data": {
@@ -5453,10 +5515,10 @@
           },
           "food_sizes": [],
           "ds_calories_override": "",
-          "synced_id": "31142.8",
+          "synced_id": "31546.22",
           "sync_placeholder": null,
           "has_options_or_sides": false,
-          "digest": "r3TqkvcCKypY6cEqfxbDpbgR2v+99r3uyz49pSUqFMxcb4zM6jpj4jwQ3FxxXjFWpy8f8zlYX3U9+Rk28Vd72g==",
+          "digest": "nMEcQX7PvkdgxAUDeo97u1dqiDuEm5FrNXY5N/FD63JLSlN+nmdgDFxJTcRAw9xAgeEAidMMmeudjXG8ar2BzQ==",
           "pos_item_id": "",
           "smart_recipe_id": null,
           "has_subfoods": false,
@@ -5495,7 +5557,7 @@
         "smart_recipe_id": null,
         "station_food_tags": [],
         "menu_id": 208172,
-        "food_variation_id": 752642
+        "food_variation_id": 863218
       }
     ]
   },
@@ -6199,25 +6261,25 @@
           "file_url": "",
           "download_label": "View Manufacturer's Label",
           "rounded_nutrition_info": {
-            "calories": 30,
-            "g_fat": 2.5,
-            "g_saturated_fat": 1.5,
+            "calories": 90,
+            "g_fat": 7,
+            "g_saturated_fat": 4,
             "g_trans_fat": null,
-            "mg_cholesterol": 7,
-            "g_carbs": 0,
+            "mg_cholesterol": 22,
+            "g_carbs": 1,
             "g_added_sugar": null,
             "g_sugar": 0,
-            "mg_potassium": 5,
-            "mg_sodium": 50,
+            "mg_potassium": 15,
+            "mg_sodium": 150,
             "g_fiber": 0,
-            "g_protein": 2,
+            "g_protein": 5,
             "mg_iron": 0,
-            "mg_calcium": 50,
+            "mg_calcium": 160,
             "mg_vitamin_c": 0,
             "iu_vitamin_a": null,
             "re_vitamin_a": null,
             "mcg_vitamin_a": null,
-            "mg_vitamin_d": 1.8,
+            "mg_vitamin_d": 5.4,
             "mcg_vitamin_d": null
           },
           "serving_size_info": {
@@ -6489,36 +6551,6 @@
                 "sort_order": 2,
                 "_enabled": true,
                 "food_icon_group": 6783
-              },
-              {
-                "id": 32920,
-                "synced_name": "Soy",
-                "enabled": true,
-                "spotlight_enabled": false,
-                "sprite": {
-                  "slug": "default.soy",
-                  "name": "Soy",
-                  "help_text": "This contains soy",
-                  "class_name": "soy-icon"
-                },
-                "custom_icon_url": null,
-                "custom_icon": null,
-                "custom_spotlight_icon_url": null,
-                "custom_spotlight_icon": null,
-                "type": 1,
-                "behavior": 1,
-                "is_filter": true,
-                "is_highlight": false,
-                "is_digital_signage_only": false,
-                "slug": "soy",
-                "icon_slug": "default.soy",
-                "spotlight_icon_slug": null,
-                "name": "Soy",
-                "_synced_name": "",
-                "help_text": "This contains soy",
-                "sort_order": 3,
-                "_enabled": true,
-                "food_icon_group": 6783
               }
             ],
             "myplate_icons": []
@@ -6575,6 +6607,209 @@
         "station_food_tags": [],
         "menu_id": 208161,
         "food_variation_id": 752637
+      },
+      {
+        "id": 417558137,
+        "date": null,
+        "position": 0,
+        "is_section_title": true,
+        "bold": false,
+        "featured": false,
+        "text": "Hot Sandwich",
+        "no_line_break": false,
+        "blank_line": false,
+        "food": null,
+        "is_holiday": false,
+        "food_list": null,
+        "station_id": 40543,
+        "is_station_header": true,
+        "station_is_collapsible": false,
+        "station_image_display_mode": "standard",
+        "station_logo": null,
+        "station_logo_alt": null,
+        "station_mobile_image": null,
+        "station_mobile_image_alt": null,
+        "image": "",
+        "image_description": null,
+        "image_alt": "Station: Hot Sandwich",
+        "image_thumbnail": "",
+        "category": "",
+        "price": null,
+        "serving_size": null,
+        "serving_size_amount": null,
+        "serving_size_unit": null,
+        "smart_recipe_id": null,
+        "station_food_tags": [],
+        "menu_id": 208169,
+        "food_variation_id": null
+      },
+      {
+        "id": 417558138,
+        "date": null,
+        "position": 1,
+        "is_section_title": false,
+        "bold": false,
+        "featured": false,
+        "text": "",
+        "no_line_break": false,
+        "blank_line": false,
+        "food": {
+          "id": 2765212,
+          "name": "Chef's Choice",
+          "description": "Toasted pan au lavain with roasted turkey, bacon, lettuce and tomato",
+          "image_url": null,
+          "image_alt_text": null,
+          "hoverpic_url": null,
+          "price": null,
+          "ingredients": "Turkey Breast^, French Bread^, Tomatoes, Red Lettuce Leaf, Light Mayonnaise^, Bacon^",
+          "food_category": "",
+          "food_highlight_message": null,
+          "file_url": "",
+          "download_label": "View Manufacturer's Label",
+          "rounded_nutrition_info": {
+            "calories": 350,
+            "g_fat": 8,
+            "g_saturated_fat": 2.5,
+            "g_trans_fat": 0,
+            "mg_cholesterol": 73,
+            "g_carbs": 35,
+            "g_added_sugar": null,
+            "g_sugar": 3,
+            "mg_potassium": 530,
+            "mg_sodium": 1240,
+            "g_fiber": 2,
+            "g_protein": 32,
+            "mg_iron": 3.6,
+            "mg_calcium": 30,
+            "mg_vitamin_c": null,
+            "iu_vitamin_a": null,
+            "re_vitamin_a": null,
+            "mcg_vitamin_a": null,
+            "mg_vitamin_d": 1.3,
+            "mcg_vitamin_d": null
+          },
+          "serving_size_info": {
+            "serving_size_amount": "1",
+            "serving_size_unit": "sandwich"
+          },
+          "has_nutrition_info": true,
+          "icons": {
+            "food_icons": [
+              {
+                "id": 32918,
+                "synced_name": "Egg",
+                "enabled": true,
+                "spotlight_enabled": false,
+                "sprite": {
+                  "slug": "default.egg",
+                  "name": "Egg",
+                  "help_text": "This contains egg",
+                  "class_name": "egg-icon"
+                },
+                "custom_icon_url": null,
+                "custom_icon": null,
+                "custom_spotlight_icon_url": null,
+                "custom_spotlight_icon": null,
+                "type": 1,
+                "behavior": 1,
+                "is_filter": true,
+                "is_highlight": false,
+                "is_digital_signage_only": false,
+                "slug": "egg",
+                "icon_slug": "default.egg",
+                "spotlight_icon_slug": null,
+                "name": "Egg",
+                "_synced_name": "",
+                "help_text": "This contains egg",
+                "sort_order": 1,
+                "_enabled": true,
+                "food_icon_group": 6783
+              },
+              {
+                "id": 32919,
+                "synced_name": "Wheat",
+                "enabled": true,
+                "spotlight_enabled": false,
+                "sprite": {
+                  "slug": "default.wheat",
+                  "name": "Wheat",
+                  "help_text": "This contains wheat",
+                  "class_name": "wheat-icon"
+                },
+                "custom_icon_url": null,
+                "custom_icon": null,
+                "custom_spotlight_icon_url": null,
+                "custom_spotlight_icon": null,
+                "type": 1,
+                "behavior": 1,
+                "is_filter": true,
+                "is_highlight": false,
+                "is_digital_signage_only": false,
+                "slug": "wheat",
+                "icon_slug": "default.wheat",
+                "spotlight_icon_slug": null,
+                "name": "Wheat",
+                "_synced_name": "",
+                "help_text": "This contains wheat",
+                "sort_order": 2,
+                "_enabled": true,
+                "food_icon_group": 6783
+              }
+            ],
+            "myplate_icons": []
+          },
+          "icons_approved": true,
+          "aggregated_data": {
+            "price_adjustment": 0,
+            "icons_approved": true,
+            "food_icons": [],
+            "calories": 0
+          },
+          "food_sizes": [],
+          "ds_calories_override": "",
+          "synced_id": "24805.1",
+          "sync_placeholder": null,
+          "has_options_or_sides": false,
+          "digest": "77jk+JxZAQbLISoy5NkioEL6r2TJPYmSGkFmF9L0xS4xbJby18y0HxbkA7Y/TlFZCpjNzgXdkUhoN6R+SSdViQ==",
+          "pos_item_id": "",
+          "smart_recipe_id": null,
+          "has_subfoods": false,
+          "meal_plan_price": null,
+          "use_custom_sizes": true,
+          "tags": [],
+          "synced_subtext": "",
+          "synced_nested_foods": [],
+          "synced_ordering_enabled": true,
+          "subtext": "",
+          "subtext_unlocked": false,
+          "nested_foods": [],
+          "nested_foods_unlocked": true,
+          "ordering_enabled": true,
+          "ordering_enabled_unlocked": false
+        },
+        "is_holiday": false,
+        "food_list": null,
+        "station_id": 40543,
+        "is_station_header": false,
+        "station_is_collapsible": false,
+        "station_image_display_mode": "standard",
+        "station_logo": null,
+        "station_logo_alt": null,
+        "station_mobile_image": null,
+        "station_mobile_image_alt": null,
+        "image": "",
+        "image_description": null,
+        "image_alt": null,
+        "image_thumbnail": "",
+        "category": "",
+        "price": null,
+        "serving_size": null,
+        "serving_size_amount": 1,
+        "serving_size_unit": "sandwich",
+        "smart_recipe_id": null,
+        "station_food_tags": [],
+        "menu_id": 208169,
+        "food_variation_id": 1433421
       },
       {
         "id": 412588638,
@@ -7223,7 +7458,7 @@
         "food_variation_id": 599054
       },
       {
-        "id": 412588643,
+        "id": 417558132,
         "date": null,
         "position": 5,
         "is_section_title": false,
@@ -7233,38 +7468,38 @@
         "no_line_break": false,
         "blank_line": false,
         "food": {
-          "id": 1923757,
-          "name": "Fajita Vegetables",
+          "id": 2363635,
+          "name": "Roasted Rainbow Carrots",
           "description": "",
           "image_url": null,
           "image_alt_text": null,
           "hoverpic_url": null,
           "price": null,
-          "ingredients": "Zucchini, Chili Peppers, Mushrooms, Red Bell Peppers, Red Onions, Lime Juice, Extra Virgin Olive Oil, Garlic, Black Pepper",
+          "ingredients": "Carrots, Canola Oil, Kosher Salt^, Black Pepper",
           "food_category": "",
           "food_highlight_message": null,
           "file_url": "",
           "download_label": "View Manufacturer's Label",
           "rounded_nutrition_info": {
-            "calories": 40,
+            "calories": 50,
             "g_fat": 2.5,
             "g_saturated_fat": 0,
-            "g_trans_fat": null,
+            "g_trans_fat": 0,
             "mg_cholesterol": 0,
-            "g_carbs": 4,
+            "g_carbs": 7,
             "g_added_sugar": null,
-            "g_sugar": 2,
-            "mg_potassium": 180,
-            "mg_sodium": 0,
-            "g_fiber": 1,
+            "g_sugar": 3,
+            "mg_potassium": 240,
+            "mg_sodium": 125,
+            "g_fiber": 2,
             "g_protein": 1,
-            "mg_iron": 0.4,
-            "mg_calcium": 10,
-            "mg_vitamin_c": 53,
+            "mg_iron": 0.2,
+            "mg_calcium": 30,
+            "mg_vitamin_c": 4,
             "iu_vitamin_a": null,
             "re_vitamin_a": null,
             "mcg_vitamin_a": null,
-            "mg_vitamin_d": 1.3,
+            "mg_vitamin_d": 0,
             "mcg_vitamin_d": null
           },
           "serving_size_info": {
@@ -7274,38 +7509,7 @@
           "has_nutrition_info": true,
           "icons": {
             "food_icons": [],
-            "myplate_icons": [
-              {
-                "id": 32930,
-                "synced_name": "Vegetable",
-                "enabled": true,
-                "spotlight_enabled": false,
-                "sprite": {
-                  "slug": "myplate.vegetable",
-                  "name": "Vegetable",
-                  "help_text": "This contains vegetables",
-                  "class_name": "vegetable-group"
-                },
-                "custom_icon_url": null,
-                "custom_icon": null,
-                "custom_spotlight_icon_url": null,
-                "custom_spotlight_icon": null,
-                "type": 4,
-                "behavior": 1,
-                "is_filter": true,
-                "is_highlight": false,
-                "is_digital_signage_only": false,
-                "slug": "vegetable",
-                "icon_slug": "myplate.vegetable",
-                "spotlight_icon_slug": null,
-                "name": "Vegetable",
-                "_synced_name": "",
-                "help_text": "This contains vegetables",
-                "sort_order": 4,
-                "_enabled": true,
-                "food_icon_group": 6784
-              }
-            ]
+            "myplate_icons": []
           },
           "icons_approved": true,
           "aggregated_data": {
@@ -7316,10 +7520,10 @@
           },
           "food_sizes": [],
           "ds_calories_override": "",
-          "synced_id": "36164.1",
+          "synced_id": "31142.8",
           "sync_placeholder": null,
           "has_options_or_sides": false,
-          "digest": "w0vDkEkbNHo82K37xNZw0QkZqZFgK41PW8AQtHRsBaiYTT8kpwdEMOc8uAqTzn12/kU00ywyQ3Q+0pllGQHpJg==",
+          "digest": "r3TqkvcCKypY6cEqfxbDpbgR2v+99r3uyz49pSUqFMxcb4zM6jpj4jwQ3FxxXjFWpy8f8zlYX3U9+Rk28Vd72g==",
           "pos_item_id": "",
           "smart_recipe_id": null,
           "has_subfoods": false,
@@ -7332,7 +7536,7 @@
           "subtext": "",
           "subtext_unlocked": false,
           "nested_foods": [],
-          "nested_foods_unlocked": true,
+          "nested_foods_unlocked": false,
           "ordering_enabled": true,
           "ordering_enabled_unlocked": false
         },
@@ -7358,7 +7562,7 @@
         "smart_recipe_id": null,
         "station_food_tags": [],
         "menu_id": 208173,
-        "food_variation_id": 53922
+        "food_variation_id": 752642
       },
       {
         "id": 412588644,
@@ -8803,7 +9007,7 @@
         "food_variation_id": null
       },
       {
-        "id": 412588976,
+        "id": 417558135,
         "date": null,
         "position": 1,
         "is_section_title": false,
@@ -8813,38 +9017,38 @@
         "no_line_break": false,
         "blank_line": false,
         "food": {
-          "id": 1923757,
-          "name": "Fajita Vegetables",
+          "id": 2363635,
+          "name": "Roasted Rainbow Carrots",
           "description": "",
           "image_url": null,
           "image_alt_text": null,
           "hoverpic_url": null,
           "price": null,
-          "ingredients": "Zucchini, Chili Peppers, Mushrooms, Red Bell Peppers, Red Onions, Lime Juice, Extra Virgin Olive Oil, Garlic, Black Pepper",
+          "ingredients": "Carrots, Canola Oil, Kosher Salt^, Black Pepper",
           "food_category": "",
           "food_highlight_message": null,
           "file_url": "",
           "download_label": "View Manufacturer's Label",
           "rounded_nutrition_info": {
-            "calories": 40,
+            "calories": 50,
             "g_fat": 2.5,
             "g_saturated_fat": 0,
-            "g_trans_fat": null,
+            "g_trans_fat": 0,
             "mg_cholesterol": 0,
-            "g_carbs": 4,
+            "g_carbs": 7,
             "g_added_sugar": null,
-            "g_sugar": 2,
-            "mg_potassium": 180,
-            "mg_sodium": 0,
-            "g_fiber": 1,
+            "g_sugar": 3,
+            "mg_potassium": 240,
+            "mg_sodium": 125,
+            "g_fiber": 2,
             "g_protein": 1,
-            "mg_iron": 0.4,
-            "mg_calcium": 10,
-            "mg_vitamin_c": 53,
+            "mg_iron": 0.2,
+            "mg_calcium": 30,
+            "mg_vitamin_c": 4,
             "iu_vitamin_a": null,
             "re_vitamin_a": null,
             "mcg_vitamin_a": null,
-            "mg_vitamin_d": 1.3,
+            "mg_vitamin_d": 0,
             "mcg_vitamin_d": null
           },
           "serving_size_info": {
@@ -8854,38 +9058,7 @@
           "has_nutrition_info": true,
           "icons": {
             "food_icons": [],
-            "myplate_icons": [
-              {
-                "id": 32930,
-                "synced_name": "Vegetable",
-                "enabled": true,
-                "spotlight_enabled": false,
-                "sprite": {
-                  "slug": "myplate.vegetable",
-                  "name": "Vegetable",
-                  "help_text": "This contains vegetables",
-                  "class_name": "vegetable-group"
-                },
-                "custom_icon_url": null,
-                "custom_icon": null,
-                "custom_spotlight_icon_url": null,
-                "custom_spotlight_icon": null,
-                "type": 4,
-                "behavior": 1,
-                "is_filter": true,
-                "is_highlight": false,
-                "is_digital_signage_only": false,
-                "slug": "vegetable",
-                "icon_slug": "myplate.vegetable",
-                "spotlight_icon_slug": null,
-                "name": "Vegetable",
-                "_synced_name": "",
-                "help_text": "This contains vegetables",
-                "sort_order": 4,
-                "_enabled": true,
-                "food_icon_group": 6784
-              }
-            ]
+            "myplate_icons": []
           },
           "icons_approved": true,
           "aggregated_data": {
@@ -8896,10 +9069,10 @@
           },
           "food_sizes": [],
           "ds_calories_override": "",
-          "synced_id": "36164.1",
+          "synced_id": "31142.8",
           "sync_placeholder": null,
           "has_options_or_sides": false,
-          "digest": "w0vDkEkbNHo82K37xNZw0QkZqZFgK41PW8AQtHRsBaiYTT8kpwdEMOc8uAqTzn12/kU00ywyQ3Q+0pllGQHpJg==",
+          "digest": "r3TqkvcCKypY6cEqfxbDpbgR2v+99r3uyz49pSUqFMxcb4zM6jpj4jwQ3FxxXjFWpy8f8zlYX3U9+Rk28Vd72g==",
           "pos_item_id": "",
           "smart_recipe_id": null,
           "has_subfoods": false,
@@ -8912,7 +9085,7 @@
           "subtext": "",
           "subtext_unlocked": false,
           "nested_foods": [],
-          "nested_foods_unlocked": true,
+          "nested_foods_unlocked": false,
           "ordering_enabled": true,
           "ordering_enabled_unlocked": false
         },
@@ -8938,7 +9111,7 @@
         "smart_recipe_id": null,
         "station_food_tags": [],
         "menu_id": 208172,
-        "food_variation_id": 53922
+        "food_variation_id": 752642
       }
     ]
   },
@@ -12820,7 +12993,7 @@
           "image_alt_text": null,
           "hoverpic_url": null,
           "price": null,
-          "ingredients": "Whole Milk, Elbow Macaroni^, Cheddar Cheese^, Whipping Cream, Unsalted Butter, AmericanCheese^, Panko Bread Crumbs^, All Purpose Flour^, Parsley, Kosher Salt^, Pan Coating^, Black Pepper, Dijon Mustard^",
+          "ingredients": "Whole Milk, Elbow Macaroni^, Cheddar Cheese^, Whipping Cream, Unsalted Butter, AmericanCheese^, Panko Bread Crumbs^, All Purpose Flour^, Parsley, Kosher Salt^, Cooking Spray^, Black Pepper, Dijon Mustard^",
           "food_category": "",
           "food_highlight_message": null,
           "file_url": "",
@@ -12837,7 +13010,7 @@
             "mg_potassium": 110,
             "mg_sodium": 310,
             "g_fiber": 1,
-            "g_protein": 8,
+            "g_protein": 9,
             "mg_iron": 0.7,
             "mg_calcium": 200,
             "mg_vitamin_c": null,
@@ -12911,36 +13084,6 @@
                 "_synced_name": "",
                 "help_text": "This contains wheat",
                 "sort_order": 2,
-                "_enabled": true,
-                "food_icon_group": 6783
-              },
-              {
-                "id": 32920,
-                "synced_name": "Soy",
-                "enabled": true,
-                "spotlight_enabled": false,
-                "sprite": {
-                  "slug": "default.soy",
-                  "name": "Soy",
-                  "help_text": "This contains soy",
-                  "class_name": "soy-icon"
-                },
-                "custom_icon_url": null,
-                "custom_icon": null,
-                "custom_spotlight_icon_url": null,
-                "custom_spotlight_icon": null,
-                "type": 1,
-                "behavior": 1,
-                "is_filter": true,
-                "is_highlight": false,
-                "is_digital_signage_only": false,
-                "slug": "soy",
-                "icon_slug": "default.soy",
-                "spotlight_icon_slug": null,
-                "name": "Soy",
-                "_synced_name": "",
-                "help_text": "This contains soy",
-                "sort_order": 3,
                 "_enabled": true,
                 "food_icon_group": 6783
               }
@@ -13139,7 +13282,7 @@
         "food_variation_id": 1373778
       },
       {
-        "id": 412588636,
+        "id": 417558134,
         "date": null,
         "position": 4,
         "is_section_title": false,
@@ -13149,38 +13292,38 @@
         "no_line_break": false,
         "blank_line": false,
         "food": {
-          "id": 1939951,
-          "name": "Roasted Broccoli",
+          "id": 2708484,
+          "name": "Curried Roasted Cauliflower",
           "description": "",
           "image_url": null,
           "image_alt_text": null,
           "hoverpic_url": null,
           "price": null,
-          "ingredients": "Broccoli, Canola Oil, Kosher Salt^, Black Pepper",
+          "ingredients": "Cauliflower, Canola Oil, Lemon Juice, Coriander, Ginger Root, Cilantro, Kosher Salt^, Garam Masala^, Turmeric, Cumin, Cayenne Pepper",
           "food_category": "",
           "food_highlight_message": null,
           "file_url": "",
           "download_label": "View Manufacturer's Label",
           "rounded_nutrition_info": {
-            "calories": 30,
-            "g_fat": 1,
+            "calories": 60,
+            "g_fat": 3.5,
             "g_saturated_fat": 0,
-            "g_trans_fat": 0,
+            "g_trans_fat": null,
             "mg_cholesterol": 0,
-            "g_carbs": 4,
+            "g_carbs": 6,
             "g_added_sugar": null,
-            "g_sugar": 1,
-            "mg_potassium": 200,
-            "mg_sodium": 55,
+            "g_sugar": 2,
+            "mg_potassium": null,
+            "mg_sodium": 150,
             "g_fiber": 2,
             "g_protein": 2,
-            "mg_iron": 0.5,
-            "mg_calcium": 30,
-            "mg_vitamin_c": 56,
+            "mg_iron": null,
+            "mg_calcium": null,
+            "mg_vitamin_c": null,
             "iu_vitamin_a": null,
             "re_vitamin_a": null,
             "mcg_vitamin_a": null,
-            "mg_vitamin_d": 0,
+            "mg_vitamin_d": null,
             "mcg_vitamin_d": null
           },
           "serving_size_info": {
@@ -13190,38 +13333,7 @@
           "has_nutrition_info": true,
           "icons": {
             "food_icons": [],
-            "myplate_icons": [
-              {
-                "id": 32930,
-                "synced_name": "Vegetable",
-                "enabled": true,
-                "spotlight_enabled": false,
-                "sprite": {
-                  "slug": "myplate.vegetable",
-                  "name": "Vegetable",
-                  "help_text": "This contains vegetables",
-                  "class_name": "vegetable-group"
-                },
-                "custom_icon_url": null,
-                "custom_icon": null,
-                "custom_spotlight_icon_url": null,
-                "custom_spotlight_icon": null,
-                "type": 4,
-                "behavior": 1,
-                "is_filter": true,
-                "is_highlight": false,
-                "is_digital_signage_only": false,
-                "slug": "vegetable",
-                "icon_slug": "myplate.vegetable",
-                "spotlight_icon_slug": null,
-                "name": "Vegetable",
-                "_synced_name": "",
-                "help_text": "This contains vegetables",
-                "sort_order": 4,
-                "_enabled": true,
-                "food_icon_group": 6784
-              }
-            ]
+            "myplate_icons": []
           },
           "icons_approved": true,
           "aggregated_data": {
@@ -13232,10 +13344,10 @@
           },
           "food_sizes": [],
           "ds_calories_override": "",
-          "synced_id": "31546.1",
+          "synced_id": "44551.3",
           "sync_placeholder": null,
           "has_options_or_sides": false,
-          "digest": "Vqx32lQN139RZYbmkpDg0lzMQTXWUFPBqexsnEI5m1twnajlqhWvGzkWEQE/VmyXRZIuLt0MlFH0KBmBNVWWMg==",
+          "digest": "sdQH4zHZ8w4pQOUH74hhIMPoZ2AJ5Xp1h/mtuUoT2b8fuAC+nCS1QvMKQDa20eUjBpxank6c3ePl8dUQDX/lnQ==",
           "pos_item_id": "",
           "smart_recipe_id": null,
           "has_subfoods": false,
@@ -13248,7 +13360,7 @@
           "subtext": "",
           "subtext_unlocked": false,
           "nested_foods": [],
-          "nested_foods_unlocked": true,
+          "nested_foods_unlocked": false,
           "ordering_enabled": true,
           "ordering_enabled_unlocked": false
         },
@@ -13274,7 +13386,7 @@
         "smart_recipe_id": null,
         "station_food_tags": [],
         "menu_id": 208173,
-        "food_variation_id": 54535
+        "food_variation_id": 1378669
       },
       {
         "id": 412588637,
@@ -14242,7 +14354,7 @@
           "image_alt_text": null,
           "hoverpic_url": null,
           "price": null,
-          "ingredients": "Whole Milk, Elbow Macaroni^, Cheddar Cheese^, Whipping Cream, Unsalted Butter, AmericanCheese^, Panko Bread Crumbs^, All Purpose Flour^, Parsley, Kosher Salt^, Pan Coating^, Black Pepper, Dijon Mustard^",
+          "ingredients": "Whole Milk, Elbow Macaroni^, Cheddar Cheese^, Whipping Cream, Unsalted Butter, AmericanCheese^, Panko Bread Crumbs^, All Purpose Flour^, Parsley, Kosher Salt^, Cooking Spray^, Black Pepper, Dijon Mustard^",
           "food_category": "",
           "food_highlight_message": null,
           "file_url": "",
@@ -14259,7 +14371,7 @@
             "mg_potassium": 110,
             "mg_sodium": 310,
             "g_fiber": 1,
-            "g_protein": 8,
+            "g_protein": 9,
             "mg_iron": 0.7,
             "mg_calcium": 200,
             "mg_vitamin_c": null,
@@ -14333,36 +14445,6 @@
                 "_synced_name": "",
                 "help_text": "This contains wheat",
                 "sort_order": 2,
-                "_enabled": true,
-                "food_icon_group": 6783
-              },
-              {
-                "id": 32920,
-                "synced_name": "Soy",
-                "enabled": true,
-                "spotlight_enabled": false,
-                "sprite": {
-                  "slug": "default.soy",
-                  "name": "Soy",
-                  "help_text": "This contains soy",
-                  "class_name": "soy-icon"
-                },
-                "custom_icon_url": null,
-                "custom_icon": null,
-                "custom_spotlight_icon_url": null,
-                "custom_spotlight_icon": null,
-                "type": 1,
-                "behavior": 1,
-                "is_filter": true,
-                "is_highlight": false,
-                "is_digital_signage_only": false,
-                "slug": "soy",
-                "icon_slug": "default.soy",
-                "spotlight_icon_slug": null,
-                "name": "Soy",
-                "_synced_name": "",
-                "help_text": "This contains soy",
-                "sort_order": 3,
                 "_enabled": true,
                 "food_icon_group": 6783
               }
@@ -14458,7 +14540,7 @@
         "food_variation_id": null
       },
       {
-        "id": 412589009,
+        "id": 417558136,
         "date": null,
         "position": 1,
         "is_section_title": false,
@@ -14468,38 +14550,38 @@
         "no_line_break": false,
         "blank_line": false,
         "food": {
-          "id": 1939951,
-          "name": "Roasted Broccoli",
+          "id": 2708484,
+          "name": "Curried Roasted Cauliflower",
           "description": "",
           "image_url": null,
           "image_alt_text": null,
           "hoverpic_url": null,
           "price": null,
-          "ingredients": "Broccoli, Canola Oil, Kosher Salt^, Black Pepper",
+          "ingredients": "Cauliflower, Canola Oil, Lemon Juice, Coriander, Ginger Root, Cilantro, Kosher Salt^, Garam Masala^, Turmeric, Cumin, Cayenne Pepper",
           "food_category": "",
           "food_highlight_message": null,
           "file_url": "",
           "download_label": "View Manufacturer's Label",
           "rounded_nutrition_info": {
-            "calories": 30,
-            "g_fat": 1,
+            "calories": 60,
+            "g_fat": 3.5,
             "g_saturated_fat": 0,
-            "g_trans_fat": 0,
+            "g_trans_fat": null,
             "mg_cholesterol": 0,
-            "g_carbs": 4,
+            "g_carbs": 6,
             "g_added_sugar": null,
-            "g_sugar": 1,
-            "mg_potassium": 200,
-            "mg_sodium": 55,
+            "g_sugar": 2,
+            "mg_potassium": null,
+            "mg_sodium": 150,
             "g_fiber": 2,
             "g_protein": 2,
-            "mg_iron": 0.5,
-            "mg_calcium": 30,
-            "mg_vitamin_c": 56,
+            "mg_iron": null,
+            "mg_calcium": null,
+            "mg_vitamin_c": null,
             "iu_vitamin_a": null,
             "re_vitamin_a": null,
             "mcg_vitamin_a": null,
-            "mg_vitamin_d": 0,
+            "mg_vitamin_d": null,
             "mcg_vitamin_d": null
           },
           "serving_size_info": {
@@ -14509,38 +14591,7 @@
           "has_nutrition_info": true,
           "icons": {
             "food_icons": [],
-            "myplate_icons": [
-              {
-                "id": 32930,
-                "synced_name": "Vegetable",
-                "enabled": true,
-                "spotlight_enabled": false,
-                "sprite": {
-                  "slug": "myplate.vegetable",
-                  "name": "Vegetable",
-                  "help_text": "This contains vegetables",
-                  "class_name": "vegetable-group"
-                },
-                "custom_icon_url": null,
-                "custom_icon": null,
-                "custom_spotlight_icon_url": null,
-                "custom_spotlight_icon": null,
-                "type": 4,
-                "behavior": 1,
-                "is_filter": true,
-                "is_highlight": false,
-                "is_digital_signage_only": false,
-                "slug": "vegetable",
-                "icon_slug": "myplate.vegetable",
-                "spotlight_icon_slug": null,
-                "name": "Vegetable",
-                "_synced_name": "",
-                "help_text": "This contains vegetables",
-                "sort_order": 4,
-                "_enabled": true,
-                "food_icon_group": 6784
-              }
-            ]
+            "myplate_icons": []
           },
           "icons_approved": true,
           "aggregated_data": {
@@ -14551,10 +14602,10 @@
           },
           "food_sizes": [],
           "ds_calories_override": "",
-          "synced_id": "31546.1",
+          "synced_id": "44551.3",
           "sync_placeholder": null,
           "has_options_or_sides": false,
-          "digest": "Vqx32lQN139RZYbmkpDg0lzMQTXWUFPBqexsnEI5m1twnajlqhWvGzkWEQE/VmyXRZIuLt0MlFH0KBmBNVWWMg==",
+          "digest": "sdQH4zHZ8w4pQOUH74hhIMPoZ2AJ5Xp1h/mtuUoT2b8fuAC+nCS1QvMKQDa20eUjBpxank6c3ePl8dUQDX/lnQ==",
           "pos_item_id": "",
           "smart_recipe_id": null,
           "has_subfoods": false,
@@ -14567,7 +14618,7 @@
           "subtext": "",
           "subtext_unlocked": false,
           "nested_foods": [],
-          "nested_foods_unlocked": true,
+          "nested_foods_unlocked": false,
           "ordering_enabled": true,
           "ordering_enabled_unlocked": false
         },
@@ -14593,7 +14644,7 @@
         "smart_recipe_id": null,
         "station_food_tags": [],
         "menu_id": 208172,
-        "food_variation_id": 54535
+        "food_variation_id": 1378669
       }
     ]
   },
@@ -18861,7 +18912,7 @@
         "food_variation_id": 449327
       },
       {
-        "id": 412588651,
+        "id": 417715852,
         "date": null,
         "position": 5,
         "is_section_title": false,
@@ -18871,34 +18922,34 @@
         "no_line_break": false,
         "blank_line": false,
         "food": {
-          "id": 2120105,
-          "name": "Brown Basmati Rice & Chickpea Pilaf",
+          "id": 2515457,
+          "name": "Roasted Sweet Potatoes",
           "description": "",
           "image_url": null,
           "image_alt_text": null,
           "hoverpic_url": null,
           "price": null,
-          "ingredients": "Water, Basmati Rice, Low Sodium Chick Peas^, Red Onions, Currants, Low Sodium Chicken Base^, Canola Oil",
+          "ingredients": "Sweet Potatoes, Canola Oil, Kosher Salt^, Black Pepper, Thyme",
           "food_category": "",
           "food_highlight_message": null,
           "file_url": "",
           "download_label": "View Manufacturer's Label",
           "rounded_nutrition_info": {
-            "calories": 290,
-            "g_fat": 4,
-            "g_saturated_fat": 0.5,
-            "g_trans_fat": null,
+            "calories": 100,
+            "g_fat": 2.5,
+            "g_saturated_fat": 0,
+            "g_trans_fat": 0,
             "mg_cholesterol": 0,
-            "g_carbs": 57,
+            "g_carbs": 19,
             "g_added_sugar": null,
-            "g_sugar": 12,
-            "mg_potassium": 270,
-            "mg_sodium": 170,
-            "g_fiber": 4,
-            "g_protein": 7,
-            "mg_iron": 2.9,
-            "mg_calcium": 50,
-            "mg_vitamin_c": 2,
+            "g_sugar": null,
+            "mg_potassium": 240,
+            "mg_sodium": 80,
+            "g_fiber": 3,
+            "g_protein": 1,
+            "mg_iron": 0.8,
+            "mg_calcium": 30,
+            "mg_vitamin_c": 13,
             "iu_vitamin_a": null,
             "re_vitamin_a": null,
             "mcg_vitamin_a": null,
@@ -18906,73 +18957,12 @@
             "mcg_vitamin_d": null
           },
           "serving_size_info": {
-            "serving_size_amount": "4",
-            "serving_size_unit": "oz"
+            "serving_size_amount": "0.5",
+            "serving_size_unit": "cups"
           },
           "has_nutrition_info": true,
           "icons": {
-            "food_icons": [
-              {
-                "id": 32917,
-                "synced_name": "Milk",
-                "enabled": true,
-                "spotlight_enabled": false,
-                "sprite": {
-                  "slug": "default.milk",
-                  "name": "Milk",
-                  "help_text": "This contains milk",
-                  "class_name": "milk-icon"
-                },
-                "custom_icon_url": null,
-                "custom_icon": null,
-                "custom_spotlight_icon_url": null,
-                "custom_spotlight_icon": null,
-                "type": 1,
-                "behavior": 1,
-                "is_filter": true,
-                "is_highlight": false,
-                "is_digital_signage_only": false,
-                "slug": "milk",
-                "icon_slug": "default.milk",
-                "spotlight_icon_slug": null,
-                "name": "Milk",
-                "_synced_name": "",
-                "help_text": "This contains milk",
-                "sort_order": 0,
-                "_enabled": true,
-                "food_icon_group": 6783
-              },
-              {
-                "id": 32920,
-                "synced_name": "Soy",
-                "enabled": true,
-                "spotlight_enabled": false,
-                "sprite": {
-                  "slug": "default.soy",
-                  "name": "Soy",
-                  "help_text": "This contains soy",
-                  "class_name": "soy-icon"
-                },
-                "custom_icon_url": null,
-                "custom_icon": null,
-                "custom_spotlight_icon_url": null,
-                "custom_spotlight_icon": null,
-                "type": 1,
-                "behavior": 1,
-                "is_filter": true,
-                "is_highlight": false,
-                "is_digital_signage_only": false,
-                "slug": "soy",
-                "icon_slug": "default.soy",
-                "spotlight_icon_slug": null,
-                "name": "Soy",
-                "_synced_name": "",
-                "help_text": "This contains soy",
-                "sort_order": 3,
-                "_enabled": true,
-                "food_icon_group": 6783
-              }
-            ],
+            "food_icons": [],
             "myplate_icons": []
           },
           "icons_approved": true,
@@ -18984,10 +18974,10 @@
           },
           "food_sizes": [],
           "ds_calories_override": "",
-          "synced_id": "11281",
+          "synced_id": "31765",
           "sync_placeholder": null,
           "has_options_or_sides": false,
-          "digest": "NVLxmqMK9hSh5MyxUWFC7QlVQpi7GvvSvvIxS/T4eqArr8tIGrqCJjXElMOku/Cgw/5xIAMU2juvgZT9BJtZ2Q==",
+          "digest": "nHR20AUKBANME5QbD7o43WlVd0xDDNfTjoEwHdhZbHU42ai//C68pRK9RrRV2p7jpnHA6aRWgszsCiI3NGH+AA==",
           "pos_item_id": "",
           "smart_recipe_id": null,
           "has_subfoods": false,
@@ -19000,7 +18990,7 @@
           "subtext": "",
           "subtext_unlocked": false,
           "nested_foods": [],
-          "nested_foods_unlocked": true,
+          "nested_foods_unlocked": false,
           "ordering_enabled": true,
           "ordering_enabled_unlocked": false
         },
@@ -19021,12 +19011,12 @@
         "category": "",
         "price": null,
         "serving_size": null,
-        "serving_size_amount": 4,
-        "serving_size_unit": "oz",
+        "serving_size_amount": 0.5,
+        "serving_size_unit": "cups",
         "smart_recipe_id": null,
         "station_food_tags": [],
         "menu_id": 208173,
-        "food_variation_id": 449336
+        "food_variation_id": 1001060
       },
       {
         "id": 412588788,
@@ -19758,7 +19748,7 @@
         "food_variation_id": null
       },
       {
-        "id": 412589038,
+        "id": 417715853,
         "date": null,
         "position": 1,
         "is_section_title": false,
@@ -19768,34 +19758,34 @@
         "no_line_break": false,
         "blank_line": false,
         "food": {
-          "id": 2120105,
-          "name": "Brown Basmati Rice & Chickpea Pilaf",
+          "id": 2515457,
+          "name": "Roasted Sweet Potatoes",
           "description": "",
           "image_url": null,
           "image_alt_text": null,
           "hoverpic_url": null,
           "price": null,
-          "ingredients": "Water, Basmati Rice, Low Sodium Chick Peas^, Red Onions, Currants, Low Sodium Chicken Base^, Canola Oil",
+          "ingredients": "Sweet Potatoes, Canola Oil, Kosher Salt^, Black Pepper, Thyme",
           "food_category": "",
           "food_highlight_message": null,
           "file_url": "",
           "download_label": "View Manufacturer's Label",
           "rounded_nutrition_info": {
-            "calories": 290,
-            "g_fat": 4,
-            "g_saturated_fat": 0.5,
-            "g_trans_fat": null,
+            "calories": 100,
+            "g_fat": 2.5,
+            "g_saturated_fat": 0,
+            "g_trans_fat": 0,
             "mg_cholesterol": 0,
-            "g_carbs": 57,
+            "g_carbs": 19,
             "g_added_sugar": null,
-            "g_sugar": 12,
-            "mg_potassium": 270,
-            "mg_sodium": 170,
-            "g_fiber": 4,
-            "g_protein": 7,
-            "mg_iron": 2.9,
-            "mg_calcium": 50,
-            "mg_vitamin_c": 2,
+            "g_sugar": null,
+            "mg_potassium": 240,
+            "mg_sodium": 80,
+            "g_fiber": 3,
+            "g_protein": 1,
+            "mg_iron": 0.8,
+            "mg_calcium": 30,
+            "mg_vitamin_c": 13,
             "iu_vitamin_a": null,
             "re_vitamin_a": null,
             "mcg_vitamin_a": null,
@@ -19803,73 +19793,12 @@
             "mcg_vitamin_d": null
           },
           "serving_size_info": {
-            "serving_size_amount": "4",
-            "serving_size_unit": "oz"
+            "serving_size_amount": "0.5",
+            "serving_size_unit": "cups"
           },
           "has_nutrition_info": true,
           "icons": {
-            "food_icons": [
-              {
-                "id": 32917,
-                "synced_name": "Milk",
-                "enabled": true,
-                "spotlight_enabled": false,
-                "sprite": {
-                  "slug": "default.milk",
-                  "name": "Milk",
-                  "help_text": "This contains milk",
-                  "class_name": "milk-icon"
-                },
-                "custom_icon_url": null,
-                "custom_icon": null,
-                "custom_spotlight_icon_url": null,
-                "custom_spotlight_icon": null,
-                "type": 1,
-                "behavior": 1,
-                "is_filter": true,
-                "is_highlight": false,
-                "is_digital_signage_only": false,
-                "slug": "milk",
-                "icon_slug": "default.milk",
-                "spotlight_icon_slug": null,
-                "name": "Milk",
-                "_synced_name": "",
-                "help_text": "This contains milk",
-                "sort_order": 0,
-                "_enabled": true,
-                "food_icon_group": 6783
-              },
-              {
-                "id": 32920,
-                "synced_name": "Soy",
-                "enabled": true,
-                "spotlight_enabled": false,
-                "sprite": {
-                  "slug": "default.soy",
-                  "name": "Soy",
-                  "help_text": "This contains soy",
-                  "class_name": "soy-icon"
-                },
-                "custom_icon_url": null,
-                "custom_icon": null,
-                "custom_spotlight_icon_url": null,
-                "custom_spotlight_icon": null,
-                "type": 1,
-                "behavior": 1,
-                "is_filter": true,
-                "is_highlight": false,
-                "is_digital_signage_only": false,
-                "slug": "soy",
-                "icon_slug": "default.soy",
-                "spotlight_icon_slug": null,
-                "name": "Soy",
-                "_synced_name": "",
-                "help_text": "This contains soy",
-                "sort_order": 3,
-                "_enabled": true,
-                "food_icon_group": 6783
-              }
-            ],
+            "food_icons": [],
             "myplate_icons": []
           },
           "icons_approved": true,
@@ -19881,10 +19810,10 @@
           },
           "food_sizes": [],
           "ds_calories_override": "",
-          "synced_id": "11281",
+          "synced_id": "31765",
           "sync_placeholder": null,
           "has_options_or_sides": false,
-          "digest": "NVLxmqMK9hSh5MyxUWFC7QlVQpi7GvvSvvIxS/T4eqArr8tIGrqCJjXElMOku/Cgw/5xIAMU2juvgZT9BJtZ2Q==",
+          "digest": "nHR20AUKBANME5QbD7o43WlVd0xDDNfTjoEwHdhZbHU42ai//C68pRK9RrRV2p7jpnHA6aRWgszsCiI3NGH+AA==",
           "pos_item_id": "",
           "smart_recipe_id": null,
           "has_subfoods": false,
@@ -19897,7 +19826,7 @@
           "subtext": "",
           "subtext_unlocked": false,
           "nested_foods": [],
-          "nested_foods_unlocked": true,
+          "nested_foods_unlocked": false,
           "ordering_enabled": true,
           "ordering_enabled_unlocked": false
         },
@@ -19918,12 +19847,12 @@
         "category": "",
         "price": null,
         "serving_size": null,
-        "serving_size_amount": 4,
-        "serving_size_unit": "oz",
+        "serving_size_amount": 0.5,
+        "serving_size_unit": "cups",
         "smart_recipe_id": null,
         "station_food_tags": [],
         "menu_id": 208170,
-        "food_variation_id": 449336
+        "food_variation_id": 1001060
       },
       {
         "id": 412588861,
@@ -21283,7 +21212,7 @@
         "food_variation_id": 53520
       },
       {
-        "id": 412588654,
+        "id": 417715850,
         "date": null,
         "position": 2,
         "is_section_title": false,
@@ -21293,42 +21222,42 @@
         "no_line_break": false,
         "blank_line": false,
         "food": {
-          "id": 2923384,
-          "name": "Lemon Herb Chicken Breast",
+          "id": 2605207,
+          "name": "Cuban Roast Pork",
           "description": "",
           "image_url": null,
           "image_alt_text": null,
           "hoverpic_url": null,
           "price": null,
-          "ingredients": "Chicken Breast, Garlic, Lemon Juice^, Canola Oil, Cilantro, Basil, Parsley, Black Pepper",
+          "ingredients": "Pork, Water, Lime, White Vinegar, Lime, Garlic, Kosher Salt^, Cumin, Oregano",
           "food_category": "",
           "food_highlight_message": null,
           "file_url": "",
           "download_label": "View Manufacturer's Label",
           "rounded_nutrition_info": {
-            "calories": 190,
+            "calories": 200,
             "g_fat": 5,
-            "g_saturated_fat": 1,
+            "g_saturated_fat": 1.5,
             "g_trans_fat": null,
             "mg_cholesterol": 90,
-            "g_carbs": 1,
+            "g_carbs": 3,
             "g_added_sugar": null,
             "g_sugar": 0,
-            "mg_potassium": 290,
-            "mg_sodium": 80,
+            "mg_potassium": 470,
+            "mg_sodium": 1160,
             "g_fiber": 0,
             "g_protein": 33,
-            "mg_iron": 1.2,
-            "mg_calcium": 20,
-            "mg_vitamin_c": 2,
+            "mg_iron": 1.5,
+            "mg_calcium": 30,
+            "mg_vitamin_c": 6,
             "iu_vitamin_a": null,
             "re_vitamin_a": null,
             "mcg_vitamin_a": null,
-            "mg_vitamin_d": 5.3,
+            "mg_vitamin_d": null,
             "mcg_vitamin_d": null
           },
           "serving_size_info": {
-            "serving_size_amount": "3",
+            "serving_size_amount": "4",
             "serving_size_unit": "oz"
           },
           "has_nutrition_info": true,
@@ -21345,10 +21274,10 @@
           },
           "food_sizes": [],
           "ds_calories_override": "",
-          "synced_id": "38510",
+          "synced_id": "68145",
           "sync_placeholder": null,
           "has_options_or_sides": false,
-          "digest": "lBkY/jAdKH0zvXUO1DyzmEWSZ9OEPdcuRO3o2NdvvkJ81m8ZdZPRpEsPd2+USnvKbmcXLhkCHY5XDluhADrPhw==",
+          "digest": "Ucq3uuoyO3W1n4UUGWVOoldGmtsmW8XwpEHwNi7PDiP6Ay0WIZyk6RwH7bihTxAlieJUeMtKw4eG0jHCRNsD4A==",
           "pos_item_id": "",
           "smart_recipe_id": null,
           "has_subfoods": false,
@@ -21382,12 +21311,12 @@
         "category": "",
         "price": null,
         "serving_size": null,
-        "serving_size_amount": 3,
+        "serving_size_amount": 4,
         "serving_size_unit": "oz",
         "smart_recipe_id": null,
         "station_food_tags": [],
         "menu_id": 208173,
-        "food_variation_id": 1608203
+        "food_variation_id": 1283431
       },
       {
         "id": 412588655,
@@ -21666,7 +21595,7 @@
         "food_variation_id": 620961
       },
       {
-        "id": 412588657,
+        "id": 417715851,
         "date": null,
         "position": 5,
         "is_section_title": false,
@@ -21676,34 +21605,34 @@
         "no_line_break": false,
         "blank_line": false,
         "food": {
-          "id": 1923775,
-          "name": "Herb Roasted Potatoes, Onions",
+          "id": 2949192,
+          "name": "Cuban Black Beans, Rice",
           "description": "",
           "image_url": null,
           "image_alt_text": null,
           "hoverpic_url": null,
           "price": null,
-          "ingredients": "Yukon Gold Potatoes, Spanish Onions, Olive Oil, Kosher Salt^, Parsley, Sage, Thyme, Black Pepper, Rosemary",
+          "ingredients": "Black Beans, Water, Long Grain White Rice^, Water, No Added Salt Tomatoes^, Red Onions, Yellow Onions, Celery, Cilantro, Canola Oil, Lime Juice, Ground Paprika^, Cumin, Low Sodium Vegetable Base^, Kosher Salt^",
           "food_category": "",
           "food_highlight_message": null,
           "file_url": "",
           "download_label": "View Manufacturer's Label",
           "rounded_nutrition_info": {
             "calories": 110,
-            "g_fat": 2,
+            "g_fat": 1.5,
             "g_saturated_fat": 0,
-            "g_trans_fat": null,
+            "g_trans_fat": 0,
             "mg_cholesterol": 0,
-            "g_carbs": 22,
+            "g_carbs": 20,
             "g_added_sugar": null,
-            "g_sugar": null,
-            "mg_potassium": 390,
+            "g_sugar": 1,
+            "mg_potassium": 210,
             "mg_sodium": 100,
-            "g_fiber": 2,
-            "g_protein": 2,
-            "mg_iron": 0.4,
-            "mg_calcium": 10,
-            "mg_vitamin_c": 13,
+            "g_fiber": 4,
+            "g_protein": 4,
+            "mg_iron": 1.5,
+            "mg_calcium": 30,
+            "mg_vitamin_c": 2,
             "iu_vitamin_a": null,
             "re_vitamin_a": null,
             "mcg_vitamin_a": null,
@@ -21728,10 +21657,10 @@
           },
           "food_sizes": [],
           "ds_calories_override": "",
-          "synced_id": "5468.9",
+          "synced_id": "68150",
           "sync_placeholder": null,
           "has_options_or_sides": false,
-          "digest": "yP91engucSTcvq97bSwMKfZ19Gp8jE22H8iTn8Sws5PSHIyLEqx538bZ4KHpA0n0xGW04/7udovbZdxXcCg1uQ==",
+          "digest": "QPQHk8ocD+6q+LE01AXyk1URODAR0hhg6e+gEXVH/Pr1A00DVAVUT+LRxklh7LV9gXKwKc5799/djN3c5r0ivA==",
           "pos_item_id": "",
           "smart_recipe_id": null,
           "has_subfoods": false,
@@ -21770,7 +21699,7 @@
         "smart_recipe_id": null,
         "station_food_tags": [],
         "menu_id": 208173,
-        "food_variation_id": 1608205
+        "food_variation_id": 1654126
       },
       {
         "id": 412588799,
@@ -21808,7 +21737,7 @@
         "food_variation_id": null
       },
       {
-        "id": 412588800,
+        "id": 417715849,
         "date": null,
         "position": 1,
         "is_section_title": false,
@@ -21818,78 +21747,47 @@
         "no_line_break": false,
         "blank_line": false,
         "food": {
-          "id": 2433909,
-          "name": "Lemon Herb Salmon",
+          "id": 2605207,
+          "name": "Cuban Roast Pork",
           "description": "",
           "image_url": null,
           "image_alt_text": null,
           "hoverpic_url": null,
           "price": null,
-          "ingredients": "Salmon, Lemon Juice, Olive Oil, Parsley, Canola Oil, Lemon, Kosher Salt^",
+          "ingredients": "Pork, Water, Lime, White Vinegar, Lime, Garlic, Kosher Salt^, Cumin, Oregano",
           "food_category": "",
           "food_highlight_message": null,
           "file_url": "",
           "download_label": "View Manufacturer's Label",
           "rounded_nutrition_info": {
-            "calories": 290,
-            "g_fat": 20,
-            "g_saturated_fat": 3.5,
+            "calories": 200,
+            "g_fat": 5,
+            "g_saturated_fat": 1.5,
             "g_trans_fat": null,
-            "mg_cholesterol": 70,
-            "g_carbs": 1,
+            "mg_cholesterol": 90,
+            "g_carbs": 3,
             "g_added_sugar": null,
             "g_sugar": 0,
-            "mg_potassium": 460,
-            "mg_sodium": 380,
+            "mg_potassium": 470,
+            "mg_sodium": 1160,
             "g_fiber": 0,
-            "g_protein": 25,
-            "mg_iron": 0.7,
-            "mg_calcium": 20,
-            "mg_vitamin_c": 13,
+            "g_protein": 33,
+            "mg_iron": 1.5,
+            "mg_calcium": 30,
+            "mg_vitamin_c": 6,
             "iu_vitamin_a": null,
             "re_vitamin_a": null,
             "mcg_vitamin_a": null,
-            "mg_vitamin_d": 586,
+            "mg_vitamin_d": null,
             "mcg_vitamin_d": null
           },
           "serving_size_info": {
-            "serving_size_amount": "1",
-            "serving_size_unit": "serving"
+            "serving_size_amount": "4",
+            "serving_size_unit": "oz"
           },
           "has_nutrition_info": true,
           "icons": {
-            "food_icons": [
-              {
-                "id": 32923,
-                "synced_name": "Fish",
-                "enabled": true,
-                "spotlight_enabled": false,
-                "sprite": {
-                  "slug": "default.fish",
-                  "name": "Fish",
-                  "help_text": "This contains fish",
-                  "class_name": "fish-icon"
-                },
-                "custom_icon_url": null,
-                "custom_icon": null,
-                "custom_spotlight_icon_url": null,
-                "custom_spotlight_icon": null,
-                "type": 1,
-                "behavior": 1,
-                "is_filter": true,
-                "is_highlight": false,
-                "is_digital_signage_only": false,
-                "slug": "fish",
-                "icon_slug": "default.fish",
-                "spotlight_icon_slug": null,
-                "name": "Fish",
-                "_synced_name": "",
-                "help_text": "This contains fish",
-                "sort_order": 6,
-                "_enabled": true,
-                "food_icon_group": 6783
-              }
-            ],
+            "food_icons": [],
             "myplate_icons": []
           },
           "icons_approved": true,
@@ -21901,10 +21799,10 @@
           },
           "food_sizes": [],
           "ds_calories_override": "",
-          "synced_id": "19775.6",
+          "synced_id": "68145",
           "sync_placeholder": null,
           "has_options_or_sides": false,
-          "digest": "s+L2ydJnQz5VzhdgJR6nZ/lsJD6KrDf/XyiLw4GfEQeVaxiHgaGfPyx+hvBUoniZnaeleZ6lqSaHYZnjEGqJfA==",
+          "digest": "Ucq3uuoyO3W1n4UUGWVOoldGmtsmW8XwpEHwNi7PDiP6Ay0WIZyk6RwH7bihTxAlieJUeMtKw4eG0jHCRNsD4A==",
           "pos_item_id": "",
           "smart_recipe_id": null,
           "has_subfoods": false,
@@ -21938,12 +21836,12 @@
         "category": "",
         "price": null,
         "serving_size": null,
-        "serving_size_amount": 1,
-        "serving_size_unit": "serving",
+        "serving_size_amount": 4,
+        "serving_size_unit": "oz",
         "smart_recipe_id": null,
         "station_food_tags": [],
         "menu_id": 208174,
-        "food_variation_id": 896566
+        "food_variation_id": 1283431
       },
       {
         "id": 412588928,
@@ -22472,7 +22370,7 @@
         "food_variation_id": null
       },
       {
-        "id": 412589048,
+        "id": 417715854,
         "date": null,
         "position": 1,
         "is_section_title": false,
@@ -22482,34 +22380,34 @@
         "no_line_break": false,
         "blank_line": false,
         "food": {
-          "id": 1923775,
-          "name": "Herb Roasted Potatoes, Onions",
+          "id": 2949192,
+          "name": "Cuban Black Beans, Rice",
           "description": "",
           "image_url": null,
           "image_alt_text": null,
           "hoverpic_url": null,
           "price": null,
-          "ingredients": "Yukon Gold Potatoes, Spanish Onions, Olive Oil, Kosher Salt^, Parsley, Sage, Thyme, Black Pepper, Rosemary",
+          "ingredients": "Black Beans, Water, Long Grain White Rice^, Water, No Added Salt Tomatoes^, Red Onions, Yellow Onions, Celery, Cilantro, Canola Oil, Lime Juice, Ground Paprika^, Cumin, Low Sodium Vegetable Base^, Kosher Salt^",
           "food_category": "",
           "food_highlight_message": null,
           "file_url": "",
           "download_label": "View Manufacturer's Label",
           "rounded_nutrition_info": {
             "calories": 110,
-            "g_fat": 2,
+            "g_fat": 1.5,
             "g_saturated_fat": 0,
-            "g_trans_fat": null,
+            "g_trans_fat": 0,
             "mg_cholesterol": 0,
-            "g_carbs": 22,
+            "g_carbs": 20,
             "g_added_sugar": null,
-            "g_sugar": null,
-            "mg_potassium": 390,
+            "g_sugar": 1,
+            "mg_potassium": 210,
             "mg_sodium": 100,
-            "g_fiber": 2,
-            "g_protein": 2,
-            "mg_iron": 0.4,
-            "mg_calcium": 10,
-            "mg_vitamin_c": 13,
+            "g_fiber": 4,
+            "g_protein": 4,
+            "mg_iron": 1.5,
+            "mg_calcium": 30,
+            "mg_vitamin_c": 2,
             "iu_vitamin_a": null,
             "re_vitamin_a": null,
             "mcg_vitamin_a": null,
@@ -22534,10 +22432,10 @@
           },
           "food_sizes": [],
           "ds_calories_override": "",
-          "synced_id": "5468.9",
+          "synced_id": "68150",
           "sync_placeholder": null,
           "has_options_or_sides": false,
-          "digest": "yP91engucSTcvq97bSwMKfZ19Gp8jE22H8iTn8Sws5PSHIyLEqx538bZ4KHpA0n0xGW04/7udovbZdxXcCg1uQ==",
+          "digest": "QPQHk8ocD+6q+LE01AXyk1URODAR0hhg6e+gEXVH/Pr1A00DVAVUT+LRxklh7LV9gXKwKc5799/djN3c5r0ivA==",
           "pos_item_id": "",
           "smart_recipe_id": null,
           "has_subfoods": false,
@@ -22576,7 +22474,114 @@
         "smart_recipe_id": null,
         "station_food_tags": [],
         "menu_id": 208170,
-        "food_variation_id": 1608205
+        "food_variation_id": 1654126
+      },
+      {
+        "id": 417830522,
+        "date": null,
+        "position": 2,
+        "is_section_title": false,
+        "bold": false,
+        "featured": false,
+        "text": "",
+        "no_line_break": false,
+        "blank_line": false,
+        "food": {
+          "id": 2950374,
+          "name": "Tostones",
+          "description": "",
+          "image_url": null,
+          "image_alt_text": null,
+          "hoverpic_url": null,
+          "price": null,
+          "ingredients": "Plantain, Kosher Salt^, Black Pepper",
+          "food_category": "",
+          "food_highlight_message": null,
+          "file_url": "",
+          "download_label": "View Manufacturer's Label",
+          "rounded_nutrition_info": {
+            "calories": 360,
+            "g_fat": 22,
+            "g_saturated_fat": 1.5,
+            "g_trans_fat": 0,
+            "mg_cholesterol": 0,
+            "g_carbs": 45,
+            "g_added_sugar": null,
+            "g_sugar": 25,
+            "mg_potassium": 690,
+            "mg_sodium": 540,
+            "g_fiber": 2,
+            "g_protein": 2,
+            "mg_iron": 0.8,
+            "mg_calcium": 10,
+            "mg_vitamin_c": 26,
+            "iu_vitamin_a": null,
+            "re_vitamin_a": null,
+            "mcg_vitamin_a": null,
+            "mg_vitamin_d": 0,
+            "mcg_vitamin_d": null
+          },
+          "serving_size_info": {
+            "serving_size_amount": "4",
+            "serving_size_unit": "each"
+          },
+          "has_nutrition_info": true,
+          "icons": {
+            "food_icons": [],
+            "myplate_icons": []
+          },
+          "icons_approved": true,
+          "aggregated_data": {
+            "price_adjustment": 0,
+            "icons_approved": true,
+            "food_icons": [],
+            "calories": 0
+          },
+          "food_sizes": [],
+          "ds_calories_override": "",
+          "synced_id": "63223",
+          "sync_placeholder": null,
+          "has_options_or_sides": false,
+          "digest": "zh8oOKUeWSblGwBfdIZieUAQW8sxAavS+/VpScSHCZy4XS9YMUwnwTwgGxJ3xEkfCNO02zHDaCTs67urIFAS9A==",
+          "pos_item_id": "",
+          "smart_recipe_id": null,
+          "has_subfoods": false,
+          "meal_plan_price": null,
+          "use_custom_sizes": true,
+          "tags": [],
+          "synced_subtext": "",
+          "synced_nested_foods": [],
+          "synced_ordering_enabled": true,
+          "subtext": "",
+          "subtext_unlocked": false,
+          "nested_foods": [],
+          "nested_foods_unlocked": false,
+          "ordering_enabled": true,
+          "ordering_enabled_unlocked": false
+        },
+        "is_holiday": false,
+        "food_list": null,
+        "station_id": 46812,
+        "is_station_header": false,
+        "station_is_collapsible": false,
+        "station_image_display_mode": "standard",
+        "station_logo": null,
+        "station_logo_alt": null,
+        "station_mobile_image": null,
+        "station_mobile_image_alt": null,
+        "image": "",
+        "image_description": null,
+        "image_alt": null,
+        "image_thumbnail": "",
+        "category": "",
+        "price": null,
+        "serving_size": null,
+        "serving_size_amount": 4,
+        "serving_size_unit": "each",
+        "smart_recipe_id": null,
+        "station_food_tags": [],
+        "menu_id": 208170,
+        "food_variation_id": 1656203
       },
       {
         "id": 412588851,
@@ -23775,7 +23780,7 @@
         "blank_line": false,
         "food": {
           "id": 2337440,
-          "name": "Char Siu Bao",
+          "name": "Char Siu Pork",
           "description": "",
           "image_url": null,
           "image_alt_text": null,
@@ -23920,7 +23925,7 @@
           "synced_id": "102653",
           "sync_placeholder": null,
           "has_options_or_sides": false,
-          "digest": "Xnh9HABmQHML6CB46DwSRqDnlQ/mYlu8ZVlDqKZt2OZs3ZyskYkwYF49yvUEp8ln7D5fYrVAL60ZkWx3yGpUPQ==",
+          "digest": "QfbFSaOoUyIEfoI7Z44gNGwV89ktZCLVp2rMy4W/zCP0CROrPiq+fszBQ4VH5zwlxtLoEKMNMazjOMy1woOFvg==",
           "pos_item_id": "",
           "smart_recipe_id": null,
           "has_subfoods": false,
@@ -23933,7 +23938,7 @@
           "subtext": "",
           "subtext_unlocked": false,
           "nested_foods": [],
-          "nested_foods_unlocked": false,
+          "nested_foods_unlocked": true,
           "ordering_enabled": true,
           "ordering_enabled_unlocked": false
         },
@@ -29081,6 +29086,14 @@
     "has_unpublished_menus": false,
     "menu_info": {
       "208165": {
+        "position": 1,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208167": {
         "position": 0,
         "section_options": {
           "display_name": null,
@@ -29089,30 +29102,6 @@
         }
       },
       "208169": {
-        "position": 1,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208170": {
-        "position": 5,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208172": {
-        "position": 7,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208173": {
         "position": 2,
         "section_options": {
           "display_name": null,
@@ -29120,15 +29109,7 @@
           "section_title_can_expand_collapse": true
         }
       },
-      "208174": {
-        "position": 3,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208175": {
+      "208170": {
         "position": 6,
         "section_options": {
           "display_name": null,
@@ -29136,8 +29117,40 @@
           "section_title_can_expand_collapse": true
         }
       },
-      "208176": {
+      "208172": {
+        "position": 8,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208173": {
+        "position": 3,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208174": {
         "position": 4,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208175": {
+        "position": 7,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208176": {
+        "position": 5,
         "section_options": {
           "display_name": null,
           "use_section_title": false,
@@ -33581,38 +33594,7 @@
           },
           "has_nutrition_info": true,
           "icons": {
-            "food_icons": [
-              {
-                "id": 32920,
-                "synced_name": "Soy",
-                "enabled": true,
-                "spotlight_enabled": false,
-                "sprite": {
-                  "slug": "default.soy",
-                  "name": "Soy",
-                  "help_text": "This contains soy",
-                  "class_name": "soy-icon"
-                },
-                "custom_icon_url": null,
-                "custom_icon": null,
-                "custom_spotlight_icon_url": null,
-                "custom_spotlight_icon": null,
-                "type": 1,
-                "behavior": 1,
-                "is_filter": true,
-                "is_highlight": false,
-                "is_digital_signage_only": false,
-                "slug": "soy",
-                "icon_slug": "default.soy",
-                "spotlight_icon_slug": null,
-                "name": "Soy",
-                "_synced_name": "",
-                "help_text": "This contains soy",
-                "sort_order": 3,
-                "_enabled": true,
-                "food_icon_group": 6783
-              }
-            ],
+            "food_icons": [],
             "myplate_icons": []
           },
           "icons_approved": true,
@@ -34168,38 +34150,7 @@
           },
           "has_nutrition_info": true,
           "icons": {
-            "food_icons": [
-              {
-                "id": 32920,
-                "synced_name": "Soy",
-                "enabled": true,
-                "spotlight_enabled": false,
-                "sprite": {
-                  "slug": "default.soy",
-                  "name": "Soy",
-                  "help_text": "This contains soy",
-                  "class_name": "soy-icon"
-                },
-                "custom_icon_url": null,
-                "custom_icon": null,
-                "custom_spotlight_icon_url": null,
-                "custom_spotlight_icon": null,
-                "type": 1,
-                "behavior": 1,
-                "is_filter": true,
-                "is_highlight": false,
-                "is_digital_signage_only": false,
-                "slug": "soy",
-                "icon_slug": "default.soy",
-                "spotlight_icon_slug": null,
-                "name": "Soy",
-                "_synced_name": "",
-                "help_text": "This contains soy",
-                "sort_order": 3,
-                "_enabled": true,
-                "food_icon_group": 6783
-              }
-            ],
+            "food_icons": [],
             "myplate_icons": []
           },
           "icons_approved": true,
@@ -38214,7 +38165,7 @@
     "date": "2026-05-20",
     "has_unpublished_menus": false,
     "menu_info": {
-      "208161": {
+      "208172": {
         "position": 0,
         "section_options": {
           "display_name": null,
@@ -38229,14 +38180,6 @@
     "date": "2026-05-21",
     "has_unpublished_menus": false,
     "menu_info": {
-      "208161": {
-        "position": 2,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
       "208165": {
         "position": 1,
         "section_options": {
@@ -38254,7 +38197,7 @@
         }
       },
       "208169": {
-        "position": 3,
+        "position": 2,
         "section_options": {
           "display_name": null,
           "use_section_title": false,
@@ -38262,30 +38205,14 @@
         }
       },
       "208170": {
-        "position": 7,
+        "position": 6,
         "section_options": {
           "display_name": null,
           "use_section_title": false,
           "section_title_can_expand_collapse": true
         }
       },
-      "208173": {
-        "position": 4,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208174": {
-        "position": 5,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208175": {
+      "208172": {
         "position": 8,
         "section_options": {
           "display_name": null,
@@ -38293,8 +38220,32 @@
           "section_title_can_expand_collapse": true
         }
       },
+      "208173": {
+        "position": 3,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208174": {
+        "position": 4,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208175": {
+        "position": 7,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
       "208176": {
-        "position": 6,
+        "position": 5,
         "section_options": {
           "display_name": null,
           "use_section_title": false,
@@ -41498,23 +41449,7 @@
     "date": "2026-05-22",
     "has_unpublished_menus": false,
     "menu_info": {
-      "208161": {
-        "position": 2,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
       "208165": {
-        "position": 1,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208167": {
         "position": 0,
         "section_options": {
           "display_name": null,
@@ -41523,7 +41458,7 @@
         }
       },
       "208169": {
-        "position": 3,
+        "position": 1,
         "section_options": {
           "display_name": null,
           "use_section_title": false,
@@ -41531,30 +41466,6 @@
         }
       },
       "208170": {
-        "position": 7,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208172": {
-        "position": 9,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208173": {
-        "position": 4,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208174": {
         "position": 5,
         "section_options": {
           "display_name": null,
@@ -41562,8 +41473,32 @@
           "section_title_can_expand_collapse": true
         }
       },
+      "208172": {
+        "position": 7,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208173": {
+        "position": 2,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208174": {
+        "position": 3,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
       "208175": {
-        "position": 8,
+        "position": 6,
         "section_options": {
           "display_name": null,
           "use_section_title": false,
@@ -41571,7 +41506,7 @@
         }
       },
       "208176": {
-        "position": 6,
+        "position": 4,
         "section_options": {
           "display_name": null,
           "use_section_title": false,
@@ -42784,36 +42719,6 @@
                 "_synced_name": "",
                 "help_text": "This contains wheat",
                 "sort_order": 2,
-                "_enabled": true,
-                "food_icon_group": 6783
-              },
-              {
-                "id": 32920,
-                "synced_name": "Soy",
-                "enabled": true,
-                "spotlight_enabled": false,
-                "sprite": {
-                  "slug": "default.soy",
-                  "name": "Soy",
-                  "help_text": "This contains soy",
-                  "class_name": "soy-icon"
-                },
-                "custom_icon_url": null,
-                "custom_icon": null,
-                "custom_spotlight_icon_url": null,
-                "custom_spotlight_icon": null,
-                "type": 1,
-                "behavior": 1,
-                "is_filter": true,
-                "is_highlight": false,
-                "is_digital_signage_only": false,
-                "slug": "soy",
-                "icon_slug": "default.soy",
-                "spotlight_icon_slug": null,
-                "name": "Soy",
-                "_synced_name": "",
-                "help_text": "This contains soy",
-                "sort_order": 3,
                 "_enabled": true,
                 "food_icon_group": 6783
               }
@@ -44237,36 +44142,6 @@
                 "sort_order": 2,
                 "_enabled": true,
                 "food_icon_group": 6783
-              },
-              {
-                "id": 32920,
-                "synced_name": "Soy",
-                "enabled": true,
-                "spotlight_enabled": false,
-                "sprite": {
-                  "slug": "default.soy",
-                  "name": "Soy",
-                  "help_text": "This contains soy",
-                  "class_name": "soy-icon"
-                },
-                "custom_icon_url": null,
-                "custom_icon": null,
-                "custom_spotlight_icon_url": null,
-                "custom_spotlight_icon": null,
-                "type": 1,
-                "behavior": 1,
-                "is_filter": true,
-                "is_highlight": false,
-                "is_digital_signage_only": false,
-                "slug": "soy",
-                "icon_slug": "default.soy",
-                "spotlight_icon_slug": null,
-                "name": "Soy",
-                "_synced_name": "",
-                "help_text": "This contains soy",
-                "sort_order": 3,
-                "_enabled": true,
-                "food_icon_group": 6783
               }
             ],
             "myplate_icons": []
@@ -44472,80 +44347,8 @@
     "date": "2026-05-25",
     "has_unpublished_menus": false,
     "menu_info": {
-      "208161": {
-        "position": 2,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208165": {
-        "position": 1,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208167": {
-        "position": 0,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208169": {
-        "position": 3,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208170": {
-        "position": 7,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208172": {
-        "position": 9,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
       "208173": {
-        "position": 4,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208174": {
-        "position": 5,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208175": {
-        "position": 8,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208176": {
-        "position": 6,
+        "position": 0,
         "section_options": {
           "display_name": null,
           "use_section_title": false,
@@ -44583,16 +44386,8 @@
           "section_title_can_expand_collapse": true
         }
       },
-      "208169": {
-        "position": 3,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
       "208170": {
-        "position": 7,
+        "position": 6,
         "section_options": {
           "display_name": null,
           "use_section_title": false,
@@ -44600,30 +44395,6 @@
         }
       },
       "208172": {
-        "position": 9,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208173": {
-        "position": 4,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208174": {
-        "position": 5,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208175": {
         "position": 8,
         "section_options": {
           "display_name": null,
@@ -44631,8 +44402,32 @@
           "section_title_can_expand_collapse": true
         }
       },
+      "208173": {
+        "position": 3,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208174": {
+        "position": 4,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208175": {
+        "position": 7,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
       "208176": {
-        "position": 6,
+        "position": 5,
         "section_options": {
           "display_name": null,
           "use_section_title": false,
@@ -45117,25 +44912,25 @@
           "file_url": "",
           "download_label": "View Manufacturer's Label",
           "rounded_nutrition_info": {
-            "calories": 30,
-            "g_fat": 2.5,
-            "g_saturated_fat": 1.5,
+            "calories": 90,
+            "g_fat": 7,
+            "g_saturated_fat": 4,
             "g_trans_fat": null,
-            "mg_cholesterol": 7,
-            "g_carbs": 0,
+            "mg_cholesterol": 22,
+            "g_carbs": 1,
             "g_added_sugar": null,
             "g_sugar": 0,
-            "mg_potassium": 5,
-            "mg_sodium": 50,
+            "mg_potassium": 15,
+            "mg_sodium": 150,
             "g_fiber": 0,
-            "g_protein": 2,
+            "g_protein": 5,
             "mg_iron": 0,
-            "mg_calcium": 50,
+            "mg_calcium": 160,
             "mg_vitamin_c": 0,
             "iu_vitamin_a": null,
             "re_vitamin_a": null,
             "mcg_vitamin_a": null,
-            "mg_vitamin_d": 1.8,
+            "mg_vitamin_d": 5.4,
             "mcg_vitamin_d": null
           },
           "serving_size_info": {
@@ -47970,14 +47765,6 @@
     "date": "2026-05-27",
     "has_unpublished_menus": false,
     "menu_info": {
-      "208161": {
-        "position": 2,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
       "208165": {
         "position": 1,
         "section_options": {
@@ -47994,39 +47781,7 @@
           "section_title_can_expand_collapse": true
         }
       },
-      "208169": {
-        "position": 3,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
       "208170": {
-        "position": 7,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208172": {
-        "position": 9,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208173": {
-        "position": 4,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208174": {
         "position": 5,
         "section_options": {
           "display_name": null,
@@ -48034,8 +47789,32 @@
           "section_title_can_expand_collapse": true
         }
       },
+      "208172": {
+        "position": 7,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208173": {
+        "position": 2,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208174": {
+        "position": 3,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
       "208175": {
-        "position": 8,
+        "position": 6,
         "section_options": {
           "display_name": null,
           "use_section_title": false,
@@ -48043,7 +47822,7 @@
         }
       },
       "208176": {
-        "position": 6,
+        "position": 4,
         "section_options": {
           "display_name": null,
           "use_section_title": false,
@@ -50634,16 +50413,8 @@
           "section_title_can_expand_collapse": true
         }
       },
-      "208169": {
-        "position": 3,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
       "208170": {
-        "position": 7,
+        "position": 6,
         "section_options": {
           "display_name": null,
           "use_section_title": false,
@@ -50651,30 +50422,6 @@
         }
       },
       "208172": {
-        "position": 9,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208173": {
-        "position": 4,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208174": {
-        "position": 5,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208175": {
         "position": 8,
         "section_options": {
           "display_name": null,
@@ -50682,8 +50429,32 @@
           "section_title_can_expand_collapse": true
         }
       },
+      "208173": {
+        "position": 3,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208174": {
+        "position": 4,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208175": {
+        "position": 7,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
       "208176": {
-        "position": 6,
+        "position": 5,
         "section_options": {
           "display_name": null,
           "use_section_title": false,
@@ -53697,7 +53468,23 @@
     "date": "2026-05-29",
     "has_unpublished_menus": false,
     "menu_info": {
+      "208161": {
+        "position": 2,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
       "208165": {
+        "position": 1,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208167": {
         "position": 0,
         "section_options": {
           "display_name": null,
@@ -53706,38 +53493,6 @@
         }
       },
       "208169": {
-        "position": 1,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208170": {
-        "position": 5,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208172": {
-        "position": 7,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208173": {
-        "position": 2,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208174": {
         "position": 3,
         "section_options": {
           "display_name": null,
@@ -53745,8 +53500,40 @@
           "section_title_can_expand_collapse": true
         }
       },
+      "208170": {
+        "position": 7,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208172": {
+        "position": 9,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208173": {
+        "position": 4,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208174": {
+        "position": 5,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
       "208175": {
-        "position": 6,
+        "position": 8,
         "section_options": {
           "display_name": null,
           "use_section_title": false,
@@ -53754,7 +53541,7 @@
         }
       },
       "208176": {
-        "position": 4,
+        "position": 6,
         "section_options": {
           "display_name": null,
           "use_section_title": false,
@@ -56443,6 +56230,14 @@
     "date": "2026-06-01",
     "has_unpublished_menus": false,
     "menu_info": {
+      "208161": {
+        "position": 2,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
       "208165": {
         "position": 1,
         "section_options": {
@@ -56460,30 +56255,6 @@
         }
       },
       "208169": {
-        "position": 2,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208170": {
-        "position": 6,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208172": {
-        "position": 8,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208173": {
         "position": 3,
         "section_options": {
           "display_name": null,
@@ -56491,15 +56262,7 @@
           "section_title_can_expand_collapse": true
         }
       },
-      "208174": {
-        "position": 4,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208175": {
+      "208170": {
         "position": 7,
         "section_options": {
           "display_name": null,
@@ -56507,8 +56270,40 @@
           "section_title_can_expand_collapse": true
         }
       },
-      "208176": {
+      "208172": {
+        "position": 9,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208173": {
+        "position": 4,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208174": {
         "position": 5,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208175": {
+        "position": 8,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208176": {
+        "position": 6,
         "section_options": {
           "display_name": null,
           "use_section_title": false,
@@ -63146,22 +62941,22 @@
           "image_alt_text": null,
           "hoverpic_url": null,
           "price": null,
-          "ingredients": "Spanish Onions, Corn Tortilla^, Tomatoes, Whole Milk, Avocado, Water, Lime, Pan Coating^, Corn, Ground Tomatoes^, Navy Beans, Canola Oil, Cheddar Cheese^, Kidney Beans, Green Bell Peppers, Red Bell Peppers, Cilantro, Yellow Onions, Zucchini, Tomatoes, Eggplant, All Purpose Flour^, Swiss Cheese^, Unsalted Butter, Mushrooms, Low Sodium Vegetable Base^, Garlic, Chipotle Peppers^, Kosher Salt^, Chili Powder^, Black Pepper, Cumin, Nutmeg, White Pepper, Bay Leaf",
+          "ingredients": "Spanish Onions, Corn Tortilla^, Tomatoes, Whole Milk, Avocado, Water, Lime, Cooking Spray^, Corn, Ground Tomatoes^, Navy Beans, Canola Oil, Cheddar Cheese^, Kidney Beans, Green Bell Peppers, Red Bell Peppers, Cilantro, Yellow Onions, Zucchini, Tomatoes, Eggplant, All Purpose Flour^, Swiss Cheese^, Unsalted Butter, Mushrooms, Low Sodium Vegetable Base^, Garlic, Chipotle Peppers^, Kosher Salt^, Chili Powder^, Black Pepper, Cumin, Nutmeg, White Pepper, Bay Leaf",
           "food_category": "",
           "food_highlight_message": null,
           "file_url": "",
           "download_label": "View Manufacturer's Label",
           "rounded_nutrition_info": {
-            "calories": 310,
-            "g_fat": 14,
+            "calories": 300,
+            "g_fat": 12,
             "g_saturated_fat": 3,
             "g_trans_fat": 0,
-            "mg_cholesterol": 9,
-            "g_carbs": 41,
+            "mg_cholesterol": 10,
+            "g_carbs": 42,
             "g_added_sugar": null,
             "g_sugar": 7,
-            "mg_potassium": 640,
-            "mg_sodium": 180,
+            "mg_potassium": 650,
+            "mg_sodium": 190,
             "g_fiber": 9,
             "g_protein": 9,
             "mg_iron": 2.1,
@@ -63170,7 +62965,7 @@
             "iu_vitamin_a": null,
             "re_vitamin_a": null,
             "mcg_vitamin_a": null,
-            "mg_vitamin_d": 11.7,
+            "mg_vitamin_d": 11.9,
             "mcg_vitamin_d": null
           },
           "serving_size_info": {
@@ -63237,36 +63032,6 @@
                 "_synced_name": "",
                 "help_text": "This contains wheat",
                 "sort_order": 2,
-                "_enabled": true,
-                "food_icon_group": 6783
-              },
-              {
-                "id": 32920,
-                "synced_name": "Soy",
-                "enabled": true,
-                "spotlight_enabled": false,
-                "sprite": {
-                  "slug": "default.soy",
-                  "name": "Soy",
-                  "help_text": "This contains soy",
-                  "class_name": "soy-icon"
-                },
-                "custom_icon_url": null,
-                "custom_icon": null,
-                "custom_spotlight_icon_url": null,
-                "custom_spotlight_icon": null,
-                "type": 1,
-                "behavior": 1,
-                "is_filter": true,
-                "is_highlight": false,
-                "is_digital_signage_only": false,
-                "slug": "soy",
-                "icon_slug": "default.soy",
-                "spotlight_icon_slug": null,
-                "name": "Soy",
-                "_synced_name": "",
-                "help_text": "This contains soy",
-                "sort_order": 3,
                 "_enabled": true,
                 "food_icon_group": 6783
               }
@@ -63505,6 +63270,14 @@
     "date": "2026-06-03",
     "has_unpublished_menus": false,
     "menu_info": {
+      "208161": {
+        "position": 2,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
       "208165": {
         "position": 1,
         "section_options": {
@@ -63521,31 +63294,7 @@
           "section_title_can_expand_collapse": true
         }
       },
-      "208170": {
-        "position": 5,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208172": {
-        "position": 7,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208173": {
-        "position": 2,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208174": {
+      "208169": {
         "position": 3,
         "section_options": {
           "display_name": null,
@@ -63553,8 +63302,40 @@
           "section_title_can_expand_collapse": true
         }
       },
+      "208170": {
+        "position": 7,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208172": {
+        "position": 9,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208173": {
+        "position": 4,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208174": {
+        "position": 5,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
       "208175": {
-        "position": 6,
+        "position": 8,
         "section_options": {
           "display_name": null,
           "use_section_title": false,
@@ -63562,7 +63343,7 @@
         }
       },
       "208176": {
-        "position": 4,
+        "position": 6,
         "section_options": {
           "display_name": null,
           "use_section_title": false,
@@ -66429,23 +66210,7 @@
           "section_title_can_expand_collapse": true
         }
       },
-      "208170": {
-        "position": 6,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208172": {
-        "position": 8,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208173": {
+      "208169": {
         "position": 3,
         "section_options": {
           "display_name": null,
@@ -66453,15 +66218,7 @@
           "section_title_can_expand_collapse": true
         }
       },
-      "208174": {
-        "position": 4,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208175": {
+      "208170": {
         "position": 7,
         "section_options": {
           "display_name": null,
@@ -66469,8 +66226,40 @@
           "section_title_can_expand_collapse": true
         }
       },
-      "208176": {
+      "208172": {
+        "position": 9,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208173": {
+        "position": 4,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208174": {
         "position": 5,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208175": {
+        "position": 8,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208176": {
+        "position": 6,
         "section_options": {
           "display_name": null,
           "use_section_title": false,
@@ -68163,36 +67952,6 @@
                 "sort_order": 2,
                 "_enabled": true,
                 "food_icon_group": 6783
-              },
-              {
-                "id": 32920,
-                "synced_name": "Soy",
-                "enabled": true,
-                "spotlight_enabled": false,
-                "sprite": {
-                  "slug": "default.soy",
-                  "name": "Soy",
-                  "help_text": "This contains soy",
-                  "class_name": "soy-icon"
-                },
-                "custom_icon_url": null,
-                "custom_icon": null,
-                "custom_spotlight_icon_url": null,
-                "custom_spotlight_icon": null,
-                "type": 1,
-                "behavior": 1,
-                "is_filter": true,
-                "is_highlight": false,
-                "is_digital_signage_only": false,
-                "slug": "soy",
-                "icon_slug": "default.soy",
-                "spotlight_icon_slug": null,
-                "name": "Soy",
-                "_synced_name": "",
-                "help_text": "This contains soy",
-                "sort_order": 3,
-                "_enabled": true,
-                "food_icon_group": 6783
               }
             ],
             "myplate_icons": []
@@ -68969,36 +68728,6 @@
                 "sort_order": 2,
                 "_enabled": true,
                 "food_icon_group": 6783
-              },
-              {
-                "id": 32920,
-                "synced_name": "Soy",
-                "enabled": true,
-                "spotlight_enabled": false,
-                "sprite": {
-                  "slug": "default.soy",
-                  "name": "Soy",
-                  "help_text": "This contains soy",
-                  "class_name": "soy-icon"
-                },
-                "custom_icon_url": null,
-                "custom_icon": null,
-                "custom_spotlight_icon_url": null,
-                "custom_spotlight_icon": null,
-                "type": 1,
-                "behavior": 1,
-                "is_filter": true,
-                "is_highlight": false,
-                "is_digital_signage_only": false,
-                "slug": "soy",
-                "icon_slug": "default.soy",
-                "spotlight_icon_slug": null,
-                "name": "Soy",
-                "_synced_name": "",
-                "help_text": "This contains soy",
-                "sort_order": 3,
-                "_enabled": true,
-                "food_icon_group": 6783
               }
             ],
             "myplate_icons": []
@@ -69515,23 +69244,7 @@
     "date": "2026-06-05",
     "has_unpublished_menus": false,
     "menu_info": {
-      "208161": {
-        "position": 2,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
       "208165": {
-        "position": 1,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208167": {
         "position": 0,
         "section_options": {
           "display_name": null,
@@ -69540,7 +69253,7 @@
         }
       },
       "208169": {
-        "position": 3,
+        "position": 1,
         "section_options": {
           "display_name": null,
           "use_section_title": false,
@@ -69548,30 +69261,6 @@
         }
       },
       "208170": {
-        "position": 7,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208172": {
-        "position": 9,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208173": {
-        "position": 4,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208174": {
         "position": 5,
         "section_options": {
           "display_name": null,
@@ -69579,8 +69268,32 @@
           "section_title_can_expand_collapse": true
         }
       },
+      "208172": {
+        "position": 7,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208173": {
+        "position": 2,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208174": {
+        "position": 3,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
       "208175": {
-        "position": 8,
+        "position": 6,
         "section_options": {
           "display_name": null,
           "use_section_title": false,
@@ -69588,7 +69301,7 @@
         }
       },
       "208176": {
-        "position": 6,
+        "position": 4,
         "section_options": {
           "display_name": null,
           "use_section_title": false,
@@ -72463,14 +72176,6 @@
     "date": "2026-06-08",
     "has_unpublished_menus": false,
     "menu_info": {
-      "208161": {
-        "position": 2,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
       "208165": {
         "position": 1,
         "section_options": {
@@ -72488,7 +72193,7 @@
         }
       },
       "208169": {
-        "position": 3,
+        "position": 2,
         "section_options": {
           "display_name": null,
           "use_section_title": false,
@@ -72496,7 +72201,7 @@
         }
       },
       "208170": {
-        "position": 7,
+        "position": 6,
         "section_options": {
           "display_name": null,
           "use_section_title": false,
@@ -72504,30 +72209,6 @@
         }
       },
       "208172": {
-        "position": 9,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208173": {
-        "position": 4,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208174": {
-        "position": 5,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208175": {
         "position": 8,
         "section_options": {
           "display_name": null,
@@ -72535,8 +72216,32 @@
           "section_title_can_expand_collapse": true
         }
       },
+      "208173": {
+        "position": 3,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208174": {
+        "position": 4,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208175": {
+        "position": 7,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
       "208176": {
-        "position": 6,
+        "position": 5,
         "section_options": {
           "display_name": null,
           "use_section_title": false,
@@ -75038,7 +74743,7 @@
           "image_alt_text": null,
           "hoverpic_url": null,
           "price": null,
-          "ingredients": "Tofu^, Pan Coating^, Orange Juice, White Wine Vinegar^, Dijon Mustard^, Chili Peppers, Black Pepper, Parsley, Kosher Salt^, Rosemary, Ground Allspice, Thyme, Basil, Cinnamon",
+          "ingredients": "Tofu^, Cooking Spray^, Orange Juice, White Wine Vinegar^, Dijon Mustard^, Chili Peppers, Black Pepper, Parsley, Kosher Salt^, Rosemary, Ground Allspice, Thyme, Basil, Cinnamon",
           "food_category": "",
           "food_highlight_message": null,
           "file_url": "",
@@ -75056,8 +74761,8 @@
             "mg_sodium": 40,
             "g_fiber": 3,
             "g_protein": 11,
-            "mg_iron": 1.9,
-            "mg_calcium": 170,
+            "mg_iron": 2,
+            "mg_calcium": 180,
             "mg_vitamin_c": null,
             "iu_vitamin_a": null,
             "re_vitamin_a": null,

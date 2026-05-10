@@ -3,6 +3,14 @@
     "date": "2026-06-01",
     "has_unpublished_menus": false,
     "menu_info": {
+      "208161": {
+        "position": 2,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
       "208165": {
         "position": 1,
         "section_options": {
@@ -20,30 +28,6 @@
         }
       },
       "208169": {
-        "position": 2,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208170": {
-        "position": 6,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208172": {
-        "position": 8,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208173": {
         "position": 3,
         "section_options": {
           "display_name": null,
@@ -51,15 +35,7 @@
           "section_title_can_expand_collapse": true
         }
       },
-      "208174": {
-        "position": 4,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208175": {
+      "208170": {
         "position": 7,
         "section_options": {
           "display_name": null,
@@ -67,8 +43,40 @@
           "section_title_can_expand_collapse": true
         }
       },
-      "208176": {
+      "208172": {
+        "position": 9,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208173": {
+        "position": 4,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208174": {
         "position": 5,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208175": {
+        "position": 8,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208176": {
+        "position": 6,
         "section_options": {
           "display_name": null,
           "use_section_title": false,
@@ -6706,22 +6714,22 @@
           "image_alt_text": null,
           "hoverpic_url": null,
           "price": null,
-          "ingredients": "Spanish Onions, Corn Tortilla^, Tomatoes, Whole Milk, Avocado, Water, Lime, Pan Coating^, Corn, Ground Tomatoes^, Navy Beans, Canola Oil, Cheddar Cheese^, Kidney Beans, Green Bell Peppers, Red Bell Peppers, Cilantro, Yellow Onions, Zucchini, Tomatoes, Eggplant, All Purpose Flour^, Swiss Cheese^, Unsalted Butter, Mushrooms, Low Sodium Vegetable Base^, Garlic, Chipotle Peppers^, Kosher Salt^, Chili Powder^, Black Pepper, Cumin, Nutmeg, White Pepper, Bay Leaf",
+          "ingredients": "Spanish Onions, Corn Tortilla^, Tomatoes, Whole Milk, Avocado, Water, Lime, Cooking Spray^, Corn, Ground Tomatoes^, Navy Beans, Canola Oil, Cheddar Cheese^, Kidney Beans, Green Bell Peppers, Red Bell Peppers, Cilantro, Yellow Onions, Zucchini, Tomatoes, Eggplant, All Purpose Flour^, Swiss Cheese^, Unsalted Butter, Mushrooms, Low Sodium Vegetable Base^, Garlic, Chipotle Peppers^, Kosher Salt^, Chili Powder^, Black Pepper, Cumin, Nutmeg, White Pepper, Bay Leaf",
           "food_category": "",
           "food_highlight_message": null,
           "file_url": "",
           "download_label": "View Manufacturer's Label",
           "rounded_nutrition_info": {
-            "calories": 310,
-            "g_fat": 14,
+            "calories": 300,
+            "g_fat": 12,
             "g_saturated_fat": 3,
             "g_trans_fat": 0,
-            "mg_cholesterol": 9,
-            "g_carbs": 41,
+            "mg_cholesterol": 10,
+            "g_carbs": 42,
             "g_added_sugar": null,
             "g_sugar": 7,
-            "mg_potassium": 640,
-            "mg_sodium": 180,
+            "mg_potassium": 650,
+            "mg_sodium": 190,
             "g_fiber": 9,
             "g_protein": 9,
             "mg_iron": 2.1,
@@ -6730,7 +6738,7 @@
             "iu_vitamin_a": null,
             "re_vitamin_a": null,
             "mcg_vitamin_a": null,
-            "mg_vitamin_d": 11.7,
+            "mg_vitamin_d": 11.9,
             "mcg_vitamin_d": null
           },
           "serving_size_info": {
@@ -6797,36 +6805,6 @@
                 "_synced_name": "",
                 "help_text": "This contains wheat",
                 "sort_order": 2,
-                "_enabled": true,
-                "food_icon_group": 6783
-              },
-              {
-                "id": 32920,
-                "synced_name": "Soy",
-                "enabled": true,
-                "spotlight_enabled": false,
-                "sprite": {
-                  "slug": "default.soy",
-                  "name": "Soy",
-                  "help_text": "This contains soy",
-                  "class_name": "soy-icon"
-                },
-                "custom_icon_url": null,
-                "custom_icon": null,
-                "custom_spotlight_icon_url": null,
-                "custom_spotlight_icon": null,
-                "type": 1,
-                "behavior": 1,
-                "is_filter": true,
-                "is_highlight": false,
-                "is_digital_signage_only": false,
-                "slug": "soy",
-                "icon_slug": "default.soy",
-                "spotlight_icon_slug": null,
-                "name": "Soy",
-                "_synced_name": "",
-                "help_text": "This contains soy",
-                "sort_order": 3,
                 "_enabled": true,
                 "food_icon_group": 6783
               }
@@ -7065,6 +7043,14 @@
     "date": "2026-06-03",
     "has_unpublished_menus": false,
     "menu_info": {
+      "208161": {
+        "position": 2,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
       "208165": {
         "position": 1,
         "section_options": {
@@ -7081,31 +7067,7 @@
           "section_title_can_expand_collapse": true
         }
       },
-      "208170": {
-        "position": 5,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208172": {
-        "position": 7,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208173": {
-        "position": 2,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208174": {
+      "208169": {
         "position": 3,
         "section_options": {
           "display_name": null,
@@ -7113,8 +7075,40 @@
           "section_title_can_expand_collapse": true
         }
       },
+      "208170": {
+        "position": 7,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208172": {
+        "position": 9,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208173": {
+        "position": 4,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208174": {
+        "position": 5,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
       "208175": {
-        "position": 6,
+        "position": 8,
         "section_options": {
           "display_name": null,
           "use_section_title": false,
@@ -7122,7 +7116,7 @@
         }
       },
       "208176": {
-        "position": 4,
+        "position": 6,
         "section_options": {
           "display_name": null,
           "use_section_title": false,
@@ -9989,23 +9983,7 @@
           "section_title_can_expand_collapse": true
         }
       },
-      "208170": {
-        "position": 6,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208172": {
-        "position": 8,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208173": {
+      "208169": {
         "position": 3,
         "section_options": {
           "display_name": null,
@@ -10013,15 +9991,7 @@
           "section_title_can_expand_collapse": true
         }
       },
-      "208174": {
-        "position": 4,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208175": {
+      "208170": {
         "position": 7,
         "section_options": {
           "display_name": null,
@@ -10029,8 +9999,40 @@
           "section_title_can_expand_collapse": true
         }
       },
-      "208176": {
+      "208172": {
+        "position": 9,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208173": {
+        "position": 4,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208174": {
         "position": 5,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208175": {
+        "position": 8,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208176": {
+        "position": 6,
         "section_options": {
           "display_name": null,
           "use_section_title": false,
@@ -11723,36 +11725,6 @@
                 "sort_order": 2,
                 "_enabled": true,
                 "food_icon_group": 6783
-              },
-              {
-                "id": 32920,
-                "synced_name": "Soy",
-                "enabled": true,
-                "spotlight_enabled": false,
-                "sprite": {
-                  "slug": "default.soy",
-                  "name": "Soy",
-                  "help_text": "This contains soy",
-                  "class_name": "soy-icon"
-                },
-                "custom_icon_url": null,
-                "custom_icon": null,
-                "custom_spotlight_icon_url": null,
-                "custom_spotlight_icon": null,
-                "type": 1,
-                "behavior": 1,
-                "is_filter": true,
-                "is_highlight": false,
-                "is_digital_signage_only": false,
-                "slug": "soy",
-                "icon_slug": "default.soy",
-                "spotlight_icon_slug": null,
-                "name": "Soy",
-                "_synced_name": "",
-                "help_text": "This contains soy",
-                "sort_order": 3,
-                "_enabled": true,
-                "food_icon_group": 6783
               }
             ],
             "myplate_icons": []
@@ -12529,36 +12501,6 @@
                 "sort_order": 2,
                 "_enabled": true,
                 "food_icon_group": 6783
-              },
-              {
-                "id": 32920,
-                "synced_name": "Soy",
-                "enabled": true,
-                "spotlight_enabled": false,
-                "sprite": {
-                  "slug": "default.soy",
-                  "name": "Soy",
-                  "help_text": "This contains soy",
-                  "class_name": "soy-icon"
-                },
-                "custom_icon_url": null,
-                "custom_icon": null,
-                "custom_spotlight_icon_url": null,
-                "custom_spotlight_icon": null,
-                "type": 1,
-                "behavior": 1,
-                "is_filter": true,
-                "is_highlight": false,
-                "is_digital_signage_only": false,
-                "slug": "soy",
-                "icon_slug": "default.soy",
-                "spotlight_icon_slug": null,
-                "name": "Soy",
-                "_synced_name": "",
-                "help_text": "This contains soy",
-                "sort_order": 3,
-                "_enabled": true,
-                "food_icon_group": 6783
               }
             ],
             "myplate_icons": []
@@ -13075,23 +13017,7 @@
     "date": "2026-06-05",
     "has_unpublished_menus": false,
     "menu_info": {
-      "208161": {
-        "position": 2,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
       "208165": {
-        "position": 1,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208167": {
         "position": 0,
         "section_options": {
           "display_name": null,
@@ -13100,7 +13026,7 @@
         }
       },
       "208169": {
-        "position": 3,
+        "position": 1,
         "section_options": {
           "display_name": null,
           "use_section_title": false,
@@ -13108,30 +13034,6 @@
         }
       },
       "208170": {
-        "position": 7,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208172": {
-        "position": 9,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208173": {
-        "position": 4,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208174": {
         "position": 5,
         "section_options": {
           "display_name": null,
@@ -13139,8 +13041,32 @@
           "section_title_can_expand_collapse": true
         }
       },
+      "208172": {
+        "position": 7,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208173": {
+        "position": 2,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208174": {
+        "position": 3,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
       "208175": {
-        "position": 8,
+        "position": 6,
         "section_options": {
           "display_name": null,
           "use_section_title": false,
@@ -13148,7 +13074,7 @@
         }
       },
       "208176": {
-        "position": 6,
+        "position": 4,
         "section_options": {
           "display_name": null,
           "use_section_title": false,
@@ -16023,14 +15949,6 @@
     "date": "2026-06-08",
     "has_unpublished_menus": false,
     "menu_info": {
-      "208161": {
-        "position": 2,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
       "208165": {
         "position": 1,
         "section_options": {
@@ -16048,7 +15966,7 @@
         }
       },
       "208169": {
-        "position": 3,
+        "position": 2,
         "section_options": {
           "display_name": null,
           "use_section_title": false,
@@ -16056,7 +15974,7 @@
         }
       },
       "208170": {
-        "position": 7,
+        "position": 6,
         "section_options": {
           "display_name": null,
           "use_section_title": false,
@@ -16064,30 +15982,6 @@
         }
       },
       "208172": {
-        "position": 9,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208173": {
-        "position": 4,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208174": {
-        "position": 5,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "208175": {
         "position": 8,
         "section_options": {
           "display_name": null,
@@ -16095,8 +15989,32 @@
           "section_title_can_expand_collapse": true
         }
       },
+      "208173": {
+        "position": 3,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208174": {
+        "position": 4,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "208175": {
+        "position": 7,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
       "208176": {
-        "position": 6,
+        "position": 5,
         "section_options": {
           "display_name": null,
           "use_section_title": false,
@@ -18598,7 +18516,7 @@
           "image_alt_text": null,
           "hoverpic_url": null,
           "price": null,
-          "ingredients": "Tofu^, Pan Coating^, Orange Juice, White Wine Vinegar^, Dijon Mustard^, Chili Peppers, Black Pepper, Parsley, Kosher Salt^, Rosemary, Ground Allspice, Thyme, Basil, Cinnamon",
+          "ingredients": "Tofu^, Cooking Spray^, Orange Juice, White Wine Vinegar^, Dijon Mustard^, Chili Peppers, Black Pepper, Parsley, Kosher Salt^, Rosemary, Ground Allspice, Thyme, Basil, Cinnamon",
           "food_category": "",
           "food_highlight_message": null,
           "file_url": "",
@@ -18616,8 +18534,8 @@
             "mg_sodium": 40,
             "g_fiber": 3,
             "g_protein": 11,
-            "mg_iron": 1.9,
-            "mg_calcium": 170,
+            "mg_iron": 2,
+            "mg_calcium": 180,
             "mg_vitamin_c": null,
             "iu_vitamin_a": null,
             "re_vitamin_a": null,
