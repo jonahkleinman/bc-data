@@ -17260,7 +17260,7 @@
         "category": "entree",
         "price": null,
         "serving_size": null,
-        "serving_size_amount": 250,
+        "serving_size_amount": 50,
         "serving_size_unit": "serving",
         "smart_recipe_id": null,
         "station_food_tags": [],
