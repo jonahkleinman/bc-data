@@ -54406,7 +54406,7 @@
         "blank_line": false,
         "food": {
           "id": 2083214,
-          "name": "Baked Ziti",
+          "name": "Salmon",
           "description": "",
           "image_url": null,
           "image_alt_text": null,
@@ -54443,7 +54443,7 @@
             "serving_size_amount": "1",
             "serving_size_unit": "cups"
           },
-          "has_nutrition_info": true,
+          "has_nutrition_info": false,
           "icons": {
             "food_icons": [
               {
