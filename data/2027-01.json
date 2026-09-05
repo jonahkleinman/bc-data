@@ -1,0 +1,203 @@
+{
+  "2027-01-01": {
+    "date": "2027-01-01",
+    "has_unpublished_menus": false,
+    "menu_info": {
+      "97205": {
+        "position": 0,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      }
+    },
+    "menu_items": [
+      {
+        "id": 426555001,
+        "date": null,
+        "position": 0,
+        "is_section_title": false,
+        "bold": false,
+        "featured": false,
+        "text": "",
+        "no_line_break": false,
+        "blank_line": false,
+        "food": null,
+        "is_holiday": false,
+        "food_list": null,
+        "station_id": null,
+        "is_station_header": false,
+        "station_is_collapsible": false,
+        "station_image_display_mode": null,
+        "station_logo": null,
+        "station_logo_alt": null,
+        "station_mobile_image": null,
+        "station_mobile_image_alt": null,
+        "image": "https://api.nutrislice.com/content/asset/serve/image/jpg/33705",
+        "image_description": "graphic text that reads happy new year",
+        "image_alt": "graphic text that reads happy new year",
+        "image_thumbnail": "https://api.nutrislice.com/content/asset/serve/image/jpg/33705/thumbnail",
+        "category": "",
+        "price": null,
+        "serving_size": null,
+        "serving_size_amount": null,
+        "serving_size_unit": null,
+        "smart_recipe_id": null,
+        "station_food_tags": [],
+        "menu_id": 97205,
+        "food_variation_id": null
+      }
+    ]
+  },
+  "2027-01-04": {
+    "date": "2027-01-04",
+    "has_unpublished_menus": false,
+    "menu_info": {
+      "97205": {
+        "position": 0,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      }
+    },
+    "menu_items": [
+      {
+        "id": 426555006,
+        "date": null,
+        "position": 0,
+        "is_section_title": false,
+        "bold": false,
+        "featured": false,
+        "text": "",
+        "no_line_break": false,
+        "blank_line": false,
+        "food": null,
+        "is_holiday": false,
+        "food_list": null,
+        "station_id": null,
+        "is_station_header": false,
+        "station_is_collapsible": false,
+        "station_image_display_mode": null,
+        "station_logo": null,
+        "station_logo_alt": null,
+        "station_mobile_image": null,
+        "station_mobile_image_alt": null,
+        "image": "https://api.nutrislice.com/content/asset/serve/image/png/50657",
+        "image_description": "Graphic Text that reads \"welcome back to school\"",
+        "image_alt": "Graphic Text that reads \"welcome back to school\"",
+        "image_thumbnail": "https://api.nutrislice.com/content/asset/serve/image/png/50657/thumbnail",
+        "category": "",
+        "price": null,
+        "serving_size": null,
+        "serving_size_amount": null,
+        "serving_size_unit": null,
+        "smart_recipe_id": null,
+        "station_food_tags": [],
+        "menu_id": 97205,
+        "food_variation_id": null
+      }
+    ]
+  },
+  "2027-01-05": {
+    "date": "2027-01-05",
+    "has_unpublished_menus": false,
+    "menu_info": {},
+    "menu_items": []
+  },
+  "2027-01-06": {
+    "date": "2027-01-06",
+    "has_unpublished_menus": false,
+    "menu_info": {},
+    "menu_items": []
+  },
+  "2027-01-07": {
+    "date": "2027-01-07",
+    "has_unpublished_menus": false,
+    "menu_info": {},
+    "menu_items": []
+  },
+  "2027-01-08": {
+    "date": "2027-01-08",
+    "has_unpublished_menus": false,
+    "menu_info": {},
+    "menu_items": []
+  },
+  "2027-01-11": {
+    "date": "2027-01-11",
+    "has_unpublished_menus": false,
+    "menu_items": []
+  },
+  "2027-01-12": {
+    "date": "2027-01-12",
+    "has_unpublished_menus": false,
+    "menu_items": []
+  },
+  "2027-01-13": {
+    "date": "2027-01-13",
+    "has_unpublished_menus": false,
+    "menu_items": []
+  },
+  "2027-01-14": {
+    "date": "2027-01-14",
+    "has_unpublished_menus": false,
+    "menu_items": []
+  },
+  "2027-01-15": {
+    "date": "2027-01-15",
+    "has_unpublished_menus": false,
+    "menu_items": []
+  },
+  "2027-01-18": {
+    "date": "2027-01-18",
+    "has_unpublished_menus": false,
+    "menu_items": []
+  },
+  "2027-01-19": {
+    "date": "2027-01-19",
+    "has_unpublished_menus": false,
+    "menu_items": []
+  },
+  "2027-01-20": {
+    "date": "2027-01-20",
+    "has_unpublished_menus": false,
+    "menu_items": []
+  },
+  "2027-01-21": {
+    "date": "2027-01-21",
+    "has_unpublished_menus": false,
+    "menu_items": []
+  },
+  "2027-01-22": {
+    "date": "2027-01-22",
+    "has_unpublished_menus": false,
+    "menu_items": []
+  },
+  "2027-01-25": {
+    "date": "2027-01-25",
+    "has_unpublished_menus": false,
+    "menu_items": []
+  },
+  "2027-01-26": {
+    "date": "2027-01-26",
+    "has_unpublished_menus": false,
+    "menu_items": []
+  },
+  "2027-01-27": {
+    "date": "2027-01-27",
+    "has_unpublished_menus": false,
+    "menu_items": []
+  },
+  "2027-01-28": {
+    "date": "2027-01-28",
+    "has_unpublished_menus": false,
+    "menu_items": []
+  },
+  "2027-01-29": {
+    "date": "2027-01-29",
+    "has_unpublished_menus": false,
+    "menu_items": []
+  }
+}
