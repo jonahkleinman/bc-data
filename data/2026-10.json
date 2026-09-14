@@ -2,111 +2,1880 @@
   "2026-10-01": {
     "date": "2026-10-01",
     "has_unpublished_menus": false,
-    "menu_items": []
+    "menu_info": {
+      "name": "Grade School Dining Hall - Lunch - 2026-10-01"
+    },
+    "menu_items": [
+      {
+        "id": "adb419ec-caa8-40f3-be46-c64dd5c12887",
+        "date": "2026-10-01",
+        "position": 0,
+        "is_section_title": true,
+        "text": "Daily Feature Entree",
+        "food": null,
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "801309fe-06b9-46fd-b90a-5a3f690b763a",
+        "date": "2026-10-01",
+        "position": 1,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "801309fe-06b9-46fd-b90a-5a3f690b763a",
+          "name": "Steak Fajitas",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "f14996fc-365f-40fc-bcda-29d513593842",
+        "date": "2026-10-01",
+        "position": 2,
+        "is_section_title": true,
+        "text": "Daily Feature Vegetarian Entree",
+        "food": null,
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "4938e1da-9698-4f84-9506-2d0e44be9967",
+        "date": "2026-10-01",
+        "position": 3,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "4938e1da-9698-4f84-9506-2d0e44be9967",
+          "name": "Roasted Vegetable Fajita",
+          "description": "",
+          "icons": {
+            "food_icons": [
+              {
+                "name": "Vegetarian",
+                "synced_name": "Suitable for Vegetarians",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0022_Elior_AllergenIcons_color_Vegetarianpng.png"
+              },
+              {
+                "name": "Vegan",
+                "synced_name": "Suitable for Vegans",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0021_Elior_AllergenIcons_color_Veganpng.png"
+              },
+              {
+                "name": "BeWell",
+                "synced_name": "BeWell",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0002_Elior_AllergenIcons_color_BeWellpng.png"
+              }
+            ]
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "8caa2fad-dd61-455b-a544-2fb5e01375cc",
+        "date": "2026-10-01",
+        "position": 4,
+        "is_section_title": true,
+        "text": "Daily Accompaniment",
+        "food": null,
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "68d2158d-1353-4dea-abd1-1c1d53caba10",
+        "date": "2026-10-01",
+        "position": 5,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "68d2158d-1353-4dea-abd1-1c1d53caba10",
+          "name": "Fiesta Rice",
+          "description": "",
+          "icons": {
+            "food_icons": [
+              {
+                "name": "Vegetarian",
+                "synced_name": "Suitable for Vegetarians",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0022_Elior_AllergenIcons_color_Vegetarianpng.png"
+              },
+              {
+                "name": "Vegan",
+                "synced_name": "Suitable for Vegans",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0021_Elior_AllergenIcons_color_Veganpng.png"
+              }
+            ]
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "1d9fdec2-42f6-4ae8-a60a-96fde94b5f20",
+        "date": "2026-10-01",
+        "position": 6,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "1d9fdec2-42f6-4ae8-a60a-96fde94b5f20",
+          "name": "Black Beans",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "8822db8e-5df3-4408-af4b-715cdb3e9447",
+        "date": "2026-10-01",
+        "position": 7,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "8822db8e-5df3-4408-af4b-715cdb3e9447",
+          "name": "Corn On The Cob",
+          "description": "",
+          "icons": {
+            "food_icons": [
+              {
+                "name": "Vegetarian",
+                "synced_name": "Suitable for Vegetarians",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0022_Elior_AllergenIcons_color_Vegetarianpng.png"
+              },
+              {
+                "name": "Milk",
+                "synced_name": "Contains Milk or Milk Products",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0010_Elior_AllergenIcons_color_Milkpng.png"
+              }
+            ]
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "faf09519-7c4f-420e-b2bd-c8803f570108",
+        "date": "2026-10-01",
+        "position": 8,
+        "is_section_title": true,
+        "text": "Greens",
+        "food": null,
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "51858674-7d2a-4325-85e1-3d0a770a4020",
+        "date": "2026-10-01",
+        "position": 9,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "51858674-7d2a-4325-85e1-3d0a770a4020",
+          "name": "Arugula Salad with Lemon Vinaigrette",
+          "description": "",
+          "icons": {
+            "food_icons": [
+              {
+                "name": "Vegetarian",
+                "synced_name": "Suitable for Vegetarians",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0022_Elior_AllergenIcons_color_Vegetarianpng.png"
+              },
+              {
+                "name": "Milk",
+                "synced_name": "Contains Milk or Milk Products",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0010_Elior_AllergenIcons_color_Milkpng.png"
+              },
+              {
+                "name": "BeWell",
+                "synced_name": "BeWell",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0002_Elior_AllergenIcons_color_BeWellpng.png"
+              }
+            ]
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "e33cce87-c1d7-4243-8970-f8d31f1b1d77",
+        "date": "2026-10-01",
+        "position": 10,
+        "is_section_title": true,
+        "text": "Soupside",
+        "food": null,
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "881d907f-fc55-4742-b5bb-119a402c86f8",
+        "date": "2026-10-01",
+        "position": 11,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "881d907f-fc55-4742-b5bb-119a402c86f8",
+          "name": "Split Pea Soup",
+          "description": "",
+          "icons": {
+            "food_icons": [
+              {
+                "name": "Vegetarian",
+                "synced_name": "Suitable for Vegetarians",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0022_Elior_AllergenIcons_color_Vegetarianpng.png"
+              },
+              {
+                "name": "Vegan",
+                "synced_name": "Suitable for Vegans",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0021_Elior_AllergenIcons_color_Veganpng.png"
+              },
+              {
+                "name": "BeWell",
+                "synced_name": "BeWell",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0002_Elior_AllergenIcons_color_BeWellpng.png"
+              }
+            ]
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      }
+    ]
   },
   "2026-10-02": {
     "date": "2026-10-02",
     "has_unpublished_menus": false,
-    "menu_items": []
+    "menu_info": {
+      "name": "Grade School Dining Hall - Lunch - 2026-10-02"
+    },
+    "menu_items": [
+      {
+        "id": "97442d0e-4c96-4132-96eb-f9ce29120ea9",
+        "date": "2026-10-02",
+        "position": 0,
+        "is_section_title": true,
+        "text": "Daily Feature Entree",
+        "food": null,
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "ce82eb43-9d73-496d-a2e3-936fceb72e3c",
+        "date": "2026-10-02",
+        "position": 1,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "ce82eb43-9d73-496d-a2e3-936fceb72e3c",
+          "name": "Grilled Cheese",
+          "description": "",
+          "icons": {
+            "food_icons": [
+              {
+                "name": "Milk",
+                "synced_name": "Contains Milk or Milk Products",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0010_Elior_AllergenIcons_color_Milkpng.png"
+              },
+              {
+                "name": "Soy",
+                "synced_name": "Contains Soy",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0018_Elior_AllergenIcons_color_Soypng.png"
+              },
+              {
+                "name": "Wheat",
+                "synced_name": "Contains Wheat",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/filepng8300_0023_Elior_AllergenIcons_color_Wheat.png"
+              },
+              {
+                "name": "Sesame Seeds",
+                "synced_name": "Contains Sesame Seed",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0016_Elior_AllergenIcons_color_Sesamepng.png"
+              },
+              {
+                "name": "Gluten",
+                "synced_name": "Contains Gluten",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0008_Elior_AllergenIcons_color_Glutenpng.png"
+              }
+            ]
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "9856c612-bfa7-4a13-be9a-5fee5386a2f6",
+        "date": "2026-10-02",
+        "position": 2,
+        "is_section_title": true,
+        "text": "Daily Feature Vegetarian Entree",
+        "food": null,
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "326565f0-9a37-49f3-ab79-0621041868a0",
+        "date": "2026-10-02",
+        "position": 3,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "326565f0-9a37-49f3-ab79-0621041868a0",
+          "name": "Vegetable Flatbread Pizza",
+          "description": "",
+          "icons": {
+            "food_icons": [
+              {
+                "name": "Vegetarian",
+                "synced_name": "Suitable for Vegetarians",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0022_Elior_AllergenIcons_color_Vegetarianpng.png"
+              },
+              {
+                "name": "Milk",
+                "synced_name": "Contains Milk or Milk Products",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0010_Elior_AllergenIcons_color_Milkpng.png"
+              },
+              {
+                "name": "Soy",
+                "synced_name": "Contains Soy",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0018_Elior_AllergenIcons_color_Soypng.png"
+              },
+              {
+                "name": "Wheat",
+                "synced_name": "Contains Wheat",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/filepng8300_0023_Elior_AllergenIcons_color_Wheat.png"
+              },
+              {
+                "name": "Gluten",
+                "synced_name": "Contains Gluten",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0008_Elior_AllergenIcons_color_Glutenpng.png"
+              },
+              {
+                "name": "BeWell",
+                "synced_name": "BeWell",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0002_Elior_AllergenIcons_color_BeWellpng.png"
+              }
+            ]
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "7ed47c8d-a09d-46d9-bf08-8b51a15c702a",
+        "date": "2026-10-02",
+        "position": 4,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "7ed47c8d-a09d-46d9-bf08-8b51a15c702a",
+          "name": "Jerk Cauliflower",
+          "description": "",
+          "icons": {
+            "food_icons": [
+              {
+                "name": "Vegetarian",
+                "synced_name": "Suitable for Vegetarians",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0022_Elior_AllergenIcons_color_Vegetarianpng.png"
+              },
+              {
+                "name": "Vegan",
+                "synced_name": "Suitable for Vegans",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0021_Elior_AllergenIcons_color_Veganpng.png"
+              }
+            ]
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "a89da78e-7d56-42e4-aa10-6788d7a2074e",
+        "date": "2026-10-02",
+        "position": 5,
+        "is_section_title": true,
+        "text": "Daily Accompaniment",
+        "food": null,
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "e8ef3032-cccf-4efa-b3d5-dc36e311d01d",
+        "date": "2026-10-02",
+        "position": 6,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "e8ef3032-cccf-4efa-b3d5-dc36e311d01d",
+          "name": "Oven Fries",
+          "description": "",
+          "icons": {
+            "food_icons": [
+              {
+                "name": "Vegetarian",
+                "synced_name": "Suitable for Vegetarians",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0022_Elior_AllergenIcons_color_Vegetarianpng.png"
+              },
+              {
+                "name": "Vegan",
+                "synced_name": "Suitable for Vegans",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0021_Elior_AllergenIcons_color_Veganpng.png"
+              },
+              {
+                "name": "BeWell",
+                "synced_name": "BeWell",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0002_Elior_AllergenIcons_color_BeWellpng.png"
+              }
+            ]
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "eec2de27-5f45-4fc5-9bae-6a1b19f58a4d",
+        "date": "2026-10-02",
+        "position": 7,
+        "is_section_title": true,
+        "text": "Greens",
+        "food": null,
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "42bdbd9c-57bd-4ec0-918e-81ccfd8d0d87",
+        "date": "2026-10-02",
+        "position": 8,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "42bdbd9c-57bd-4ec0-918e-81ccfd8d0d87",
+          "name": "Balsamic Beet Salad",
+          "description": "",
+          "icons": {
+            "food_icons": [
+              {
+                "name": "Vegetarian",
+                "synced_name": "Suitable for Vegetarians",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0022_Elior_AllergenIcons_color_Vegetarianpng.png"
+              }
+            ]
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "471e42b5-9a33-4202-af5d-14befd9cc9e5",
+        "date": "2026-10-02",
+        "position": 9,
+        "is_section_title": true,
+        "text": "Soupside",
+        "food": null,
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "3eaaf99f-ae9d-4507-a3f6-1b56f57928b4",
+        "date": "2026-10-02",
+        "position": 10,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "3eaaf99f-ae9d-4507-a3f6-1b56f57928b4",
+          "name": "Tomato Basil Soup",
+          "description": "",
+          "icons": {
+            "food_icons": [
+              {
+                "name": "Vegetarian",
+                "synced_name": "Suitable for Vegetarians",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0022_Elior_AllergenIcons_color_Vegetarianpng.png"
+              },
+              {
+                "name": "Vegan",
+                "synced_name": "Suitable for Vegans",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0021_Elior_AllergenIcons_color_Veganpng.png"
+              }
+            ]
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      }
+    ]
   },
   "2026-10-05": {
     "date": "2026-10-05",
     "has_unpublished_menus": false,
-    "menu_items": []
+    "menu_info": {
+      "name": "Grade School Dining Hall - Lunch - 2026-10-05"
+    },
+    "menu_items": [
+      {
+        "id": "ffa05b29-70db-4770-81fd-3890a725159a",
+        "date": "2026-10-05",
+        "position": 0,
+        "is_section_title": true,
+        "text": "Daily Feature Entree",
+        "food": null,
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "c045c207-072b-4766-aece-81cded3532ad",
+        "date": "2026-10-05",
+        "position": 1,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "c045c207-072b-4766-aece-81cded3532ad",
+          "name": "Cheese Tortellini with Marinara Sauce",
+          "description": "",
+          "icons": {
+            "food_icons": [
+              {
+                "name": "Vegetarian",
+                "synced_name": "Suitable for Vegetarians",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0022_Elior_AllergenIcons_color_Vegetarianpng.png"
+              },
+              {
+                "name": "Eggs",
+                "synced_name": "Contains Eggs or Egg Derivatives",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0006_Elior_AllergenIcons_color_Eggpng.png"
+              },
+              {
+                "name": "Milk",
+                "synced_name": "Contains Milk or Milk Products",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0010_Elior_AllergenIcons_color_Milkpng.png"
+              },
+              {
+                "name": "Soy",
+                "synced_name": "Contains Soy",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0018_Elior_AllergenIcons_color_Soypng.png"
+              },
+              {
+                "name": "Wheat",
+                "synced_name": "Contains Wheat",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/filepng8300_0023_Elior_AllergenIcons_color_Wheat.png"
+              },
+              {
+                "name": "Gluten",
+                "synced_name": "Contains Gluten",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0008_Elior_AllergenIcons_color_Glutenpng.png"
+              }
+            ]
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "5f0355e4-104f-469c-9881-36fa948aeea3",
+        "date": "2026-10-05",
+        "position": 2,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "5f0355e4-104f-469c-9881-36fa948aeea3",
+          "name": "Plain Rotini Noodles",
+          "description": "",
+          "icons": {
+            "food_icons": [
+              {
+                "name": "Wheat",
+                "synced_name": "Contains Wheat",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/filepng8300_0023_Elior_AllergenIcons_color_Wheat.png"
+              },
+              {
+                "name": "Gluten",
+                "synced_name": "Contains Gluten",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0008_Elior_AllergenIcons_color_Glutenpng.png"
+              }
+            ]
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "b112b2e9-a438-4195-aa7c-5ead59c5a614",
+        "date": "2026-10-05",
+        "position": 3,
+        "is_section_title": true,
+        "text": "Daily Accompaniment",
+        "food": null,
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "efb075b0-871f-433d-a356-93f1d4954b5f",
+        "date": "2026-10-05",
+        "position": 4,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "efb075b0-871f-433d-a356-93f1d4954b5f",
+          "name": "Roasted Brussels Sprouts",
+          "description": "",
+          "icons": {
+            "food_icons": [
+              {
+                "name": "Vegetarian",
+                "synced_name": "Suitable for Vegetarians",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0022_Elior_AllergenIcons_color_Vegetarianpng.png"
+              },
+              {
+                "name": "Vegan",
+                "synced_name": "Suitable for Vegans",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0021_Elior_AllergenIcons_color_Veganpng.png"
+              },
+              {
+                "name": "BeWell",
+                "synced_name": "BeWell",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0002_Elior_AllergenIcons_color_BeWellpng.png"
+              }
+            ]
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "78090208-cb9e-4e67-b684-21650d9abe24",
+        "date": "2026-10-05",
+        "position": 5,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "78090208-cb9e-4e67-b684-21650d9abe24",
+          "name": "Roasted Autumn Root Vegetables",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "7717c330-612e-443c-90f2-1e9af24383da",
+        "date": "2026-10-05",
+        "position": 6,
+        "is_section_title": true,
+        "text": "Greens",
+        "food": null,
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "9f933864-842d-49a4-8d16-ddda4e6da480",
+        "date": "2026-10-05",
+        "position": 7,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "9f933864-842d-49a4-8d16-ddda4e6da480",
+          "name": "Spring Berry Salad",
+          "description": "",
+          "icons": {
+            "food_icons": [
+              {
+                "name": "Vegetarian",
+                "synced_name": "Suitable for Vegetarians",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0022_Elior_AllergenIcons_color_Vegetarianpng.png"
+              },
+              {
+                "name": "Vegan",
+                "synced_name": "Suitable for Vegans",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0021_Elior_AllergenIcons_color_Veganpng.png"
+              },
+              {
+                "name": "Tree Nuts",
+                "synced_name": "Contains Tree Nuts",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0020_Elior_AllergenIcons_color_Treenutpng.png"
+              },
+              {
+                "name": "Peanuts",
+                "synced_name": "Contains Peanuts",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0014_Elior_AllergenIcons_color_Peanutpng.png"
+              },
+              {
+                "name": "BeWell",
+                "synced_name": "BeWell",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0002_Elior_AllergenIcons_color_BeWellpng.png"
+              }
+            ]
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "0e7cf136-a5fa-4996-9a17-9f0f8f185af6",
+        "date": "2026-10-05",
+        "position": 8,
+        "is_section_title": true,
+        "text": "Soupside",
+        "food": null,
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "09e215e7-5007-4218-ac26-7542ccd39e18",
+        "date": "2026-10-05",
+        "position": 9,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "09e215e7-5007-4218-ac26-7542ccd39e18",
+          "name": "Homemade Chicken & Vegetable Soup",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      }
+    ]
   },
   "2026-10-06": {
     "date": "2026-10-06",
     "has_unpublished_menus": false,
-    "menu_items": []
+    "menu_info": {
+      "name": "Grade School Dining Hall - Lunch - 2026-10-06"
+    },
+    "menu_items": [
+      {
+        "id": "668761e6-c2c6-4ca4-b411-9f3639c4b048",
+        "date": "2026-10-06",
+        "position": 0,
+        "is_section_title": true,
+        "text": "Daily Feature Entree",
+        "food": null,
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "ace65b39-847e-47a4-868c-e77de8e8d182",
+        "date": "2026-10-06",
+        "position": 1,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "ace65b39-847e-47a4-868c-e77de8e8d182",
+          "name": "Mojo Pork",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "25768be2-137c-42f9-84e0-fe924e8f6302",
+        "date": "2026-10-06",
+        "position": 2,
+        "is_section_title": true,
+        "text": "Daily Feature Vegetarian Entree",
+        "food": null,
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "b65b6f1b-d748-4128-bf89-e97b06178699",
+        "date": "2026-10-06",
+        "position": 3,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "b65b6f1b-d748-4128-bf89-e97b06178699",
+          "name": "Mojo Portobello",
+          "description": "",
+          "icons": {
+            "food_icons": [
+              {
+                "name": "Vegetarian",
+                "synced_name": "Suitable for Vegetarians",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0022_Elior_AllergenIcons_color_Vegetarianpng.png"
+              },
+              {
+                "name": "Vegan",
+                "synced_name": "Suitable for Vegans",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0021_Elior_AllergenIcons_color_Veganpng.png"
+              },
+              {
+                "name": "BeWell",
+                "synced_name": "BeWell",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0002_Elior_AllergenIcons_color_BeWellpng.png"
+              }
+            ]
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "0ace738f-31f8-4824-96c4-05df89443e1f",
+        "date": "2026-10-06",
+        "position": 4,
+        "is_section_title": true,
+        "text": "Daily Accompaniment",
+        "food": null,
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "aedddd5d-95de-41af-8c43-b7745716629d",
+        "date": "2026-10-06",
+        "position": 5,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "aedddd5d-95de-41af-8c43-b7745716629d",
+          "name": "Black Beans",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "3eb1c5e3-d5f2-455c-9313-1fd7fcccdf17",
+        "date": "2026-10-06",
+        "position": 6,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "3eb1c5e3-d5f2-455c-9313-1fd7fcccdf17",
+          "name": "Platanos Maduros Fritos",
+          "description": "",
+          "icons": {
+            "food_icons": [
+              {
+                "name": "Vegan",
+                "synced_name": "Suitable for Vegans",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0021_Elior_AllergenIcons_color_Veganpng.png"
+              }
+            ]
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "5832e3f6-8c87-4533-b201-44fd8fdbbed3",
+        "date": "2026-10-06",
+        "position": 7,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "5832e3f6-8c87-4533-b201-44fd8fdbbed3",
+          "name": "Sauteed Spinach",
+          "description": "",
+          "icons": {
+            "food_icons": [
+              {
+                "name": "Vegetarian",
+                "synced_name": "Suitable for Vegetarians",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0022_Elior_AllergenIcons_color_Vegetarianpng.png"
+              },
+              {
+                "name": "Vegan",
+                "synced_name": "Suitable for Vegans",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0021_Elior_AllergenIcons_color_Veganpng.png"
+              },
+              {
+                "name": "BeWell",
+                "synced_name": "BeWell",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0002_Elior_AllergenIcons_color_BeWellpng.png"
+              }
+            ]
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "06c4d360-4c22-40e7-84a5-59a7260e86c6",
+        "date": "2026-10-06",
+        "position": 8,
+        "is_section_title": true,
+        "text": "Greens",
+        "food": null,
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "ae7de7d9-bae1-44dd-bad0-e31959881931",
+        "date": "2026-10-06",
+        "position": 9,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "ae7de7d9-bae1-44dd-bad0-e31959881931",
+          "name": "Black Bean & Cabbage Salad",
+          "description": "",
+          "icons": {
+            "food_icons": [
+              {
+                "name": "Vegetarian",
+                "synced_name": "Suitable for Vegetarians",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0022_Elior_AllergenIcons_color_Vegetarianpng.png"
+              },
+              {
+                "name": "Milk",
+                "synced_name": "Contains Milk or Milk Products",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0010_Elior_AllergenIcons_color_Milkpng.png"
+              },
+              {
+                "name": "BeWell",
+                "synced_name": "BeWell",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0002_Elior_AllergenIcons_color_BeWellpng.png"
+              }
+            ]
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "020a9261-b6ff-4a83-b227-47f7d44ddae4",
+        "date": "2026-10-06",
+        "position": 10,
+        "is_section_title": true,
+        "text": "Soupside",
+        "food": null,
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "fe23c889-62e7-4cc7-be67-2fa25115b960",
+        "date": "2026-10-06",
+        "position": 11,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "fe23c889-62e7-4cc7-be67-2fa25115b960",
+          "name": "Roasted Cauliflower Soup",
+          "description": "",
+          "icons": {
+            "food_icons": [
+              {
+                "name": "Vegetarian",
+                "synced_name": "Suitable for Vegetarians",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0022_Elior_AllergenIcons_color_Vegetarianpng.png"
+              },
+              {
+                "name": "Vegan",
+                "synced_name": "Suitable for Vegans",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0021_Elior_AllergenIcons_color_Veganpng.png"
+              },
+              {
+                "name": "BeWell",
+                "synced_name": "BeWell",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0002_Elior_AllergenIcons_color_BeWellpng.png"
+              }
+            ]
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      }
+    ]
   },
   "2026-10-07": {
     "date": "2026-10-07",
     "has_unpublished_menus": false,
-    "menu_items": []
+    "menu_info": {
+      "name": "Grade School Dining Hall - Lunch - 2026-10-07"
+    },
+    "menu_items": [
+      {
+        "id": "e6d9cae0-1e11-475d-9c2f-ef2b4eeb0636",
+        "date": "2026-10-07",
+        "position": 0,
+        "is_section_title": true,
+        "text": "Daily Feature Entree",
+        "food": null,
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "75cde225-1db6-4a10-9156-0d77b3cd1529",
+        "date": "2026-10-07",
+        "position": 1,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "75cde225-1db6-4a10-9156-0d77b3cd1529",
+          "name": "Beef Chili",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "f9aa951c-a9df-435e-aa0f-33f5a03963e9",
+        "date": "2026-10-07",
+        "position": 2,
+        "is_section_title": true,
+        "text": "Daily Feature Vegetarian Entree",
+        "food": null,
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "20981fde-b657-468f-8282-b5d4024926ff",
+        "date": "2026-10-07",
+        "position": 3,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "20981fde-b657-468f-8282-b5d4024926ff",
+          "name": "Lentil and Vegetable Chili",
+          "description": "",
+          "icons": {
+            "food_icons": [
+              {
+                "name": "Vegetarian",
+                "synced_name": "Suitable for Vegetarians",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0022_Elior_AllergenIcons_color_Vegetarianpng.png"
+              },
+              {
+                "name": "Vegan",
+                "synced_name": "Suitable for Vegans",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0021_Elior_AllergenIcons_color_Veganpng.png"
+              },
+              {
+                "name": "BeWell",
+                "synced_name": "BeWell",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0002_Elior_AllergenIcons_color_BeWellpng.png"
+              }
+            ]
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "48eea13c-c848-4e21-98d3-4bf84ef754a1",
+        "date": "2026-10-07",
+        "position": 4,
+        "is_section_title": true,
+        "text": "Daily Accompaniment",
+        "food": null,
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "55755dc9-5cf5-4c83-85e4-0023908b13e9",
+        "date": "2026-10-07",
+        "position": 5,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "55755dc9-5cf5-4c83-85e4-0023908b13e9",
+          "name": "Brown Rice Quinoa Blend",
+          "description": "",
+          "icons": {
+            "food_icons": [
+              {
+                "name": "Vegetarian",
+                "synced_name": "Suitable for Vegetarians",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0022_Elior_AllergenIcons_color_Vegetarianpng.png"
+              },
+              {
+                "name": "Vegan",
+                "synced_name": "Suitable for Vegans",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0021_Elior_AllergenIcons_color_Veganpng.png"
+              },
+              {
+                "name": "BeWell",
+                "synced_name": "BeWell",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0002_Elior_AllergenIcons_color_BeWellpng.png"
+              }
+            ]
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "d7321501-ced1-4d71-8c3e-d863207f9eb0",
+        "date": "2026-10-07",
+        "position": 6,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "d7321501-ced1-4d71-8c3e-d863207f9eb0",
+          "name": "Broccoli Cauliflower Mix",
+          "description": "",
+          "icons": {
+            "food_icons": [
+              {
+                "name": "Vegetarian",
+                "synced_name": "Suitable for Vegetarians",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0022_Elior_AllergenIcons_color_Vegetarianpng.png"
+              },
+              {
+                "name": "Vegan",
+                "synced_name": "Suitable for Vegans",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0021_Elior_AllergenIcons_color_Veganpng.png"
+              },
+              {
+                "name": "BeWell",
+                "synced_name": "BeWell",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0002_Elior_AllergenIcons_color_BeWellpng.png"
+              }
+            ]
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "16110734-2944-40df-b400-8ac585e8a60b",
+        "date": "2026-10-07",
+        "position": 7,
+        "is_section_title": true,
+        "text": "Greens",
+        "food": null,
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "d5e4115d-df29-422e-80b2-1374f2d0b2d3",
+        "date": "2026-10-07",
+        "position": 8,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "d5e4115d-df29-422e-80b2-1374f2d0b2d3",
+          "name": "Salad Carrot Moroccan",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "71fb7def-2d3d-4d2e-ae7e-e10f00cd9500",
+        "date": "2026-10-07",
+        "position": 9,
+        "is_section_title": true,
+        "text": "Soupside",
+        "food": null,
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "dbc9ff62-4981-4cc4-9de3-031609df5f7c",
+        "date": "2026-10-07",
+        "position": 10,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "dbc9ff62-4981-4cc4-9de3-031609df5f7c",
+          "name": "White Bean and Kale Soup",
+          "description": "",
+          "icons": {
+            "food_icons": [
+              {
+                "name": "Vegetarian",
+                "synced_name": "Suitable for Vegetarians",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0022_Elior_AllergenIcons_color_Vegetarianpng.png"
+              },
+              {
+                "name": "Vegan",
+                "synced_name": "Suitable for Vegans",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0021_Elior_AllergenIcons_color_Veganpng.png"
+              },
+              {
+                "name": "BeWell",
+                "synced_name": "BeWell",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0002_Elior_AllergenIcons_color_BeWellpng.png"
+              }
+            ]
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      }
+    ]
   },
   "2026-10-08": {
     "date": "2026-10-08",
     "has_unpublished_menus": false,
-    "menu_items": []
+    "menu_info": {
+      "name": "Grade School Dining Hall - Lunch - 2026-10-08"
+    },
+    "menu_items": [
+      {
+        "id": "c310d679-4faa-48dc-af55-ed6065a26f27",
+        "date": "2026-10-08",
+        "position": 0,
+        "is_section_title": true,
+        "text": "Daily Feature Entree",
+        "food": null,
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "2032bea4-dc54-4b12-a261-23ef0add5c55",
+        "date": "2026-10-08",
+        "position": 1,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "2032bea4-dc54-4b12-a261-23ef0add5c55",
+          "name": "Hard Shell Turkey Tacos",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "1ed791d6-5c51-48fc-97cd-0dbca2d0b251",
+        "date": "2026-10-08",
+        "position": 2,
+        "is_section_title": true,
+        "text": "Daily Feature Vegetarian Entree",
+        "food": null,
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "374a6a1b-1697-4d83-be79-0484fea7ee00",
+        "date": "2026-10-08",
+        "position": 3,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "374a6a1b-1697-4d83-be79-0484fea7ee00",
+          "name": "Tempeh Taco Meat",
+          "description": "",
+          "icons": {
+            "food_icons": [
+              {
+                "name": "Vegetarian",
+                "synced_name": "Suitable for Vegetarians",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0022_Elior_AllergenIcons_color_Vegetarianpng.png"
+              },
+              {
+                "name": "Vegan",
+                "synced_name": "Suitable for Vegans",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0021_Elior_AllergenIcons_color_Veganpng.png"
+              },
+              {
+                "name": "Soy",
+                "synced_name": "Contains Soy",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0018_Elior_AllergenIcons_color_Soypng.png"
+              },
+              {
+                "name": "BeWell",
+                "synced_name": "BeWell",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0002_Elior_AllergenIcons_color_BeWellpng.png"
+              }
+            ]
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "7ec7ed0f-b6f7-4f8b-b71d-5ab3576cdb44",
+        "date": "2026-10-08",
+        "position": 4,
+        "is_section_title": true,
+        "text": "Daily Accompaniment",
+        "food": null,
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "ac9cefec-7a79-4872-a79a-3a9441b9384d",
+        "date": "2026-10-08",
+        "position": 5,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "ac9cefec-7a79-4872-a79a-3a9441b9384d",
+          "name": "Chili Roasted Yellow Squash",
+          "description": "",
+          "icons": {
+            "food_icons": [
+              {
+                "name": "Vegetarian",
+                "synced_name": "Suitable for Vegetarians",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0022_Elior_AllergenIcons_color_Vegetarianpng.png"
+              },
+              {
+                "name": "Vegan",
+                "synced_name": "Suitable for Vegans",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0021_Elior_AllergenIcons_color_Veganpng.png"
+              },
+              {
+                "name": "BeWell",
+                "synced_name": "BeWell",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0002_Elior_AllergenIcons_color_BeWellpng.png"
+              }
+            ]
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "96a6228f-e542-448a-9a4f-0ad24a5bb7dc",
+        "date": "2026-10-08",
+        "position": 6,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "96a6228f-e542-448a-9a4f-0ad24a5bb7dc",
+          "name": "Mexican Yellow Rice",
+          "description": "",
+          "icons": {
+            "food_icons": [
+              {
+                "name": "Vegetarian",
+                "synced_name": "Suitable for Vegetarians",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0022_Elior_AllergenIcons_color_Vegetarianpng.png"
+              },
+              {
+                "name": "Soy",
+                "synced_name": "Contains Soy",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0018_Elior_AllergenIcons_color_Soypng.png"
+              }
+            ]
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "bd4cb45c-445f-4510-9f29-6b218473e356",
+        "date": "2026-10-08",
+        "position": 7,
+        "is_section_title": true,
+        "text": "Greens",
+        "food": null,
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "da321cd4-79c4-4517-a050-8fba4136a8cb",
+        "date": "2026-10-08",
+        "position": 8,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "da321cd4-79c4-4517-a050-8fba4136a8cb",
+          "name": "Greek Salad",
+          "description": "",
+          "icons": {
+            "food_icons": [
+              {
+                "name": "Milk",
+                "synced_name": "Contains Milk or Milk Products",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0010_Elior_AllergenIcons_color_Milkpng.png"
+              },
+              {
+                "name": "Wheat",
+                "synced_name": "Contains Wheat",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/filepng8300_0023_Elior_AllergenIcons_color_Wheat.png"
+              },
+              {
+                "name": "Gluten",
+                "synced_name": "Contains Gluten",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0008_Elior_AllergenIcons_color_Glutenpng.png"
+              }
+            ]
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "b21a3a92-a870-44c4-9c3b-3863143b9cb7",
+        "date": "2026-10-08",
+        "position": 9,
+        "is_section_title": true,
+        "text": "Soupside",
+        "food": null,
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "907dbd23-2c5b-4d4a-8184-5051b43a124e",
+        "date": "2026-10-08",
+        "position": 10,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "907dbd23-2c5b-4d4a-8184-5051b43a124e",
+          "name": "Vegetable Tortilla Soup",
+          "description": "",
+          "icons": {
+            "food_icons": [
+              {
+                "name": "Vegetarian",
+                "synced_name": "Suitable for Vegetarians",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0022_Elior_AllergenIcons_color_Vegetarianpng.png"
+              },
+              {
+                "name": "Vegan",
+                "synced_name": "Suitable for Vegans",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0021_Elior_AllergenIcons_color_Veganpng.png"
+              }
+            ]
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      }
+    ]
   },
   "2026-10-09": {
     "date": "2026-10-09",
     "has_unpublished_menus": false,
-    "menu_items": []
-  },
-  "2026-10-12": {
-    "date": "2026-10-12",
-    "has_unpublished_menus": false,
-    "menu_items": []
-  },
-  "2026-10-13": {
-    "date": "2026-10-13",
-    "has_unpublished_menus": false,
-    "menu_items": []
-  },
-  "2026-10-14": {
-    "date": "2026-10-14",
-    "has_unpublished_menus": false,
-    "menu_items": []
-  },
-  "2026-10-15": {
-    "date": "2026-10-15",
-    "has_unpublished_menus": false,
-    "menu_items": []
-  },
-  "2026-10-16": {
-    "date": "2026-10-16",
-    "has_unpublished_menus": false,
-    "menu_items": []
-  },
-  "2026-10-19": {
-    "date": "2026-10-19",
-    "has_unpublished_menus": false,
-    "menu_items": []
-  },
-  "2026-10-20": {
-    "date": "2026-10-20",
-    "has_unpublished_menus": false,
-    "menu_items": []
-  },
-  "2026-10-21": {
-    "date": "2026-10-21",
-    "has_unpublished_menus": false,
-    "menu_items": []
-  },
-  "2026-10-22": {
-    "date": "2026-10-22",
-    "has_unpublished_menus": false,
-    "menu_items": []
-  },
-  "2026-10-23": {
-    "date": "2026-10-23",
-    "has_unpublished_menus": false,
-    "menu_items": []
-  },
-  "2026-10-26": {
-    "date": "2026-10-26",
-    "has_unpublished_menus": false,
-    "menu_items": []
-  },
-  "2026-10-27": {
-    "date": "2026-10-27",
-    "has_unpublished_menus": false,
-    "menu_items": []
-  },
-  "2026-10-28": {
-    "date": "2026-10-28",
-    "has_unpublished_menus": false,
-    "menu_items": []
-  },
-  "2026-10-29": {
-    "date": "2026-10-29",
-    "has_unpublished_menus": false,
-    "menu_items": []
-  },
-  "2026-10-30": {
-    "date": "2026-10-30",
-    "has_unpublished_menus": false,
-    "menu_items": []
+    "menu_info": {
+      "name": "Grade School Dining Hall - Lunch - 2026-10-09"
+    },
+    "menu_items": [
+      {
+        "id": "f7db0534-7bba-4c2e-beec-3cebd2015786",
+        "date": "2026-10-09",
+        "position": 0,
+        "is_section_title": true,
+        "text": "Daily Feature Entree",
+        "food": null,
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "1f54d727-e974-482a-8336-8540cd8f23ff",
+        "date": "2026-10-09",
+        "position": 1,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "1f54d727-e974-482a-8336-8540cd8f23ff",
+          "name": "Chicken Tikka Masala",
+          "description": "",
+          "icons": {
+            "food_icons": [
+              {
+                "name": "Milk",
+                "synced_name": "Contains Milk or Milk Products",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0010_Elior_AllergenIcons_color_Milkpng.png"
+              }
+            ]
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "9aa24aa2-4330-4e4d-9df7-8b8cc5892914",
+        "date": "2026-10-09",
+        "position": 2,
+        "is_section_title": true,
+        "text": "Daily Feature Vegetarian Entree",
+        "food": null,
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "a9951855-8c7c-42bc-af2e-ab787212a25f",
+        "date": "2026-10-09",
+        "position": 3,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "a9951855-8c7c-42bc-af2e-ab787212a25f",
+          "name": "Indian Potato Curry",
+          "description": "",
+          "icons": {
+            "food_icons": [
+              {
+                "name": "Vegetarian",
+                "synced_name": "Suitable for Vegetarians",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0022_Elior_AllergenIcons_color_Vegetarianpng.png"
+              },
+              {
+                "name": "Vegan",
+                "synced_name": "Suitable for Vegans",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0021_Elior_AllergenIcons_color_Veganpng.png"
+              },
+              {
+                "name": "Tree Nuts",
+                "synced_name": "Contains Tree Nuts",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0020_Elior_AllergenIcons_color_Treenutpng.png"
+              },
+              {
+                "name": "BeWell",
+                "synced_name": "BeWell",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0002_Elior_AllergenIcons_color_BeWellpng.png"
+              }
+            ]
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "986554b7-4096-4152-a695-1213f7f5cfa4",
+        "date": "2026-10-09",
+        "position": 4,
+        "is_section_title": true,
+        "text": "Daily Accompaniment",
+        "food": null,
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "3bb3fa1b-071e-43b4-9e22-68e5079fe68b",
+        "date": "2026-10-09",
+        "position": 5,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "3bb3fa1b-071e-43b4-9e22-68e5079fe68b",
+          "name": "Basmati Rice",
+          "description": "",
+          "icons": {
+            "food_icons": [
+              {
+                "name": "Milk",
+                "synced_name": "Contains Milk or Milk Products",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0010_Elior_AllergenIcons_color_Milkpng.png"
+              }
+            ]
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "5832e3f6-8c87-4533-b201-44fd8fdbbed3",
+        "date": "2026-10-09",
+        "position": 6,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "5832e3f6-8c87-4533-b201-44fd8fdbbed3",
+          "name": "Sauteed Spinach",
+          "description": "",
+          "icons": {
+            "food_icons": [
+              {
+                "name": "Vegetarian",
+                "synced_name": "Suitable for Vegetarians",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0022_Elior_AllergenIcons_color_Vegetarianpng.png"
+              },
+              {
+                "name": "Vegan",
+                "synced_name": "Suitable for Vegans",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0021_Elior_AllergenIcons_color_Veganpng.png"
+              },
+              {
+                "name": "BeWell",
+                "synced_name": "BeWell",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0002_Elior_AllergenIcons_color_BeWellpng.png"
+              }
+            ]
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "a3ec7077-e0c6-41c7-9df2-e8d6403931fb",
+        "date": "2026-10-09",
+        "position": 7,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "a3ec7077-e0c6-41c7-9df2-e8d6403931fb",
+          "name": "Grilled Naan",
+          "description": "",
+          "icons": {
+            "food_icons": [
+              {
+                "name": "Vegetarian",
+                "synced_name": "Suitable for Vegetarians",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0022_Elior_AllergenIcons_color_Vegetarianpng.png"
+              },
+              {
+                "name": "Eggs",
+                "synced_name": "Contains Eggs or Egg Derivatives",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0006_Elior_AllergenIcons_color_Eggpng.png"
+              },
+              {
+                "name": "Milk",
+                "synced_name": "Contains Milk or Milk Products",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0010_Elior_AllergenIcons_color_Milkpng.png"
+              },
+              {
+                "name": "Soy",
+                "synced_name": "Contains Soy",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0018_Elior_AllergenIcons_color_Soypng.png"
+              },
+              {
+                "name": "Wheat",
+                "synced_name": "Contains Wheat",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/filepng8300_0023_Elior_AllergenIcons_color_Wheat.png"
+              },
+              {
+                "name": "Gluten",
+                "synced_name": "Contains Gluten",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0008_Elior_AllergenIcons_color_Glutenpng.png"
+              }
+            ]
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "80dd6573-d0f9-4b90-9951-e4afc0cdd306",
+        "date": "2026-10-09",
+        "position": 8,
+        "is_section_title": true,
+        "text": "Greens",
+        "food": null,
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "65d1a60d-9b5d-416e-8e5a-d08d18f0e6bb",
+        "date": "2026-10-09",
+        "position": 9,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "65d1a60d-9b5d-416e-8e5a-d08d18f0e6bb",
+          "name": "Marinated Vegetable Salad",
+          "description": "",
+          "icons": {
+            "food_icons": [
+              {
+                "name": "Vegetarian",
+                "synced_name": "Suitable for Vegetarians",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0022_Elior_AllergenIcons_color_Vegetarianpng.png"
+              },
+              {
+                "name": "Vegan",
+                "synced_name": "Suitable for Vegans",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0021_Elior_AllergenIcons_color_Veganpng.png"
+              },
+              {
+                "name": "BeWell",
+                "synced_name": "BeWell",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0002_Elior_AllergenIcons_color_BeWellpng.png"
+              }
+            ]
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "44c7b43b-5bf0-401a-8da9-878ac0425207",
+        "date": "2026-10-09",
+        "position": 10,
+        "is_section_title": true,
+        "text": "Soupside",
+        "food": null,
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "d5d0764c-860c-432b-a9cb-5ce5aa90b1b8",
+        "date": "2026-10-09",
+        "position": 11,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "d5d0764c-860c-432b-a9cb-5ce5aa90b1b8",
+          "name": "Curried Lentil Soup",
+          "description": "",
+          "icons": {
+            "food_icons": [
+              {
+                "name": "Vegetarian",
+                "synced_name": "Suitable for Vegetarians",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0022_Elior_AllergenIcons_color_Vegetarianpng.png"
+              },
+              {
+                "name": "Vegan",
+                "synced_name": "Suitable for Vegans",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0021_Elior_AllergenIcons_color_Veganpng.png"
+              },
+              {
+                "name": "BeWell",
+                "synced_name": "BeWell",
+                "image_url": "https://images.tenkites.com/eliorna/customlabel/300_0002_Elior_AllergenIcons_color_BeWellpng.png"
+              }
+            ]
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      }
+    ]
   }
 }
