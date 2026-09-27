@@ -3880,7 +3880,7 @@
         "blank_line": false,
         "food": {
           "id": 3044133,
-          "name": "Braised Beef Quesadilla",
+          "name": "Beef Quesadilla",
           "description": "Corn tortilla quesadilla with Mulato chili braised beef, arugula with melted cheese",
           "image_url": null,
           "image_alt_text": null,
@@ -3965,7 +3965,7 @@
           "synced_id": "46093",
           "sync_placeholder": null,
           "has_options_or_sides": false,
-          "digest": "TPU9rbuy/cW+kUkLsaMPtBIFs0ACGsEcMGnymnoPwKdxl+sgRI/nS69PGotLGWUvW8iGE82x8vxPCVSUK7sPHQ==",
+          "digest": "tUt+E8vGaXwoXXIbKkgeyde4y/T0pgBOFjEuWiEvHcMjP3JJXzyAe3lzGPq7O2WX0zeoVchb4XK3VoXGILRYTw==",
           "pos_item_id": "",
           "smart_recipe_id": null,
           "has_subfoods": false,
@@ -3978,7 +3978,7 @@
           "subtext": "",
           "subtext_unlocked": false,
           "nested_foods": [],
-          "nested_foods_unlocked": false,
+          "nested_foods_unlocked": true,
           "ordering_enabled": true,
           "ordering_enabled_unlocked": false
         },
@@ -4160,7 +4160,7 @@
         "blank_line": false,
         "food": {
           "id": 3044131,
-          "name": "Summer Squash Quesadilla",
+          "name": "Fall Squash Quesadilla",
           "description": "Quesadilla filled with sauteed squash, cheese and black bean puree",
           "image_url": null,
           "image_alt_text": null,
@@ -4275,7 +4275,7 @@
           "synced_id": "27161",
           "sync_placeholder": null,
           "has_options_or_sides": false,
-          "digest": "JDM5uMHCfODpsVPcmmGhleJ0VA4usD86/rrHsNagBjVZFqztR9ix91S2XaWLtULP1IMAFpCWKnx+/Ej4JIr5mA==",
+          "digest": "UMtBqw1yF2MxyrA1rlFij/iqXl73vNBC7VPBUG8PvjR2mT6YZeY1dW23JqXQSg0Se5H/f7i7/8tf2/+4eHMOOQ==",
           "pos_item_id": "",
           "smart_recipe_id": null,
           "has_subfoods": false,
@@ -4288,7 +4288,7 @@
           "subtext": "",
           "subtext_unlocked": false,
           "nested_foods": [],
-          "nested_foods_unlocked": false,
+          "nested_foods_unlocked": true,
           "ordering_enabled": true,
           "ordering_enabled_unlocked": false
         },
@@ -5574,7 +5574,7 @@
         "blank_line": false,
         "food": {
           "id": 3044133,
-          "name": "Braised Beef Quesadilla",
+          "name": "Beef Quesadilla",
           "description": "Corn tortilla quesadilla with Mulato chili braised beef, arugula with melted cheese",
           "image_url": null,
           "image_alt_text": null,
@@ -5659,7 +5659,7 @@
           "synced_id": "46093",
           "sync_placeholder": null,
           "has_options_or_sides": false,
-          "digest": "TPU9rbuy/cW+kUkLsaMPtBIFs0ACGsEcMGnymnoPwKdxl+sgRI/nS69PGotLGWUvW8iGE82x8vxPCVSUK7sPHQ==",
+          "digest": "tUt+E8vGaXwoXXIbKkgeyde4y/T0pgBOFjEuWiEvHcMjP3JJXzyAe3lzGPq7O2WX0zeoVchb4XK3VoXGILRYTw==",
           "pos_item_id": "",
           "smart_recipe_id": null,
           "has_subfoods": false,
@@ -5672,7 +5672,7 @@
           "subtext": "",
           "subtext_unlocked": false,
           "nested_foods": [],
-          "nested_foods_unlocked": false,
+          "nested_foods_unlocked": true,
           "ordering_enabled": true,
           "ordering_enabled_unlocked": false
         },
@@ -5712,7 +5712,7 @@
         "blank_line": false,
         "food": {
           "id": 3044131,
-          "name": "Summer Squash Quesadilla",
+          "name": "Fall Squash Quesadilla",
           "description": "Quesadilla filled with sauteed squash, cheese and black bean puree",
           "image_url": null,
           "image_alt_text": null,
@@ -5827,7 +5827,7 @@
           "synced_id": "27161",
           "sync_placeholder": null,
           "has_options_or_sides": false,
-          "digest": "JDM5uMHCfODpsVPcmmGhleJ0VA4usD86/rrHsNagBjVZFqztR9ix91S2XaWLtULP1IMAFpCWKnx+/Ej4JIr5mA==",
+          "digest": "UMtBqw1yF2MxyrA1rlFij/iqXl73vNBC7VPBUG8PvjR2mT6YZeY1dW23JqXQSg0Se5H/f7i7/8tf2/+4eHMOOQ==",
           "pos_item_id": "",
           "smart_recipe_id": null,
           "has_subfoods": false,
@@ -5840,7 +5840,7 @@
           "subtext": "",
           "subtext_unlocked": false,
           "nested_foods": [],
-          "nested_foods_unlocked": false,
+          "nested_foods_unlocked": true,
           "ordering_enabled": true,
           "ordering_enabled_unlocked": false
         },
@@ -8589,7 +8589,7 @@
         }
       },
       "309683": {
-        "position": 8,
+        "position": 7,
         "section_options": {
           "display_name": null,
           "use_section_title": false,
@@ -8606,14 +8606,6 @@
       },
       "309686": {
         "position": 3,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "309687": {
-        "position": 7,
         "section_options": {
           "display_name": null,
           "use_section_title": false,
@@ -8637,7 +8629,7 @@
         }
       },
       "309690": {
-        "position": 9,
+        "position": 8,
         "section_options": {
           "display_name": null,
           "use_section_title": false,
@@ -11355,7 +11347,7 @@
         }
       },
       "309683": {
-        "position": 8,
+        "position": 7,
         "section_options": {
           "display_name": null,
           "use_section_title": false,
@@ -11378,14 +11370,6 @@
           "section_title_can_expand_collapse": true
         }
       },
-      "309687": {
-        "position": 7,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
       "309688": {
         "position": 6,
         "section_options": {
@@ -11396,14 +11380,6 @@
       },
       "309689": {
         "position": 5,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "309690": {
-        "position": 9,
         "section_options": {
           "display_name": null,
           "use_section_title": false,
@@ -14496,7 +14472,7 @@
         }
       },
       "309683": {
-        "position": 8,
+        "position": 7,
         "section_options": {
           "display_name": null,
           "use_section_title": false,
@@ -14519,14 +14495,6 @@
           "section_title_can_expand_collapse": true
         }
       },
-      "309687": {
-        "position": 7,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
       "309688": {
         "position": 6,
         "section_options": {
@@ -14537,14 +14505,6 @@
       },
       "309689": {
         "position": 5,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "309690": {
-        "position": 9,
         "section_options": {
           "display_name": null,
           "use_section_title": false,
