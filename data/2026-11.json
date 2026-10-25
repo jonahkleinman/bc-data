@@ -74,14 +74,6 @@
           "use_section_title": false,
           "section_title_can_expand_collapse": true
         }
-      },
-      "309705": {
-        "position": 9,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
       }
     },
     "menu_items": [
@@ -2835,7 +2827,7 @@
         }
       },
       "309697": {
-        "position": 7,
+        "position": 8,
         "section_options": {
           "display_name": null,
           "use_section_title": false,
@@ -2858,6 +2850,14 @@
           "section_title_can_expand_collapse": true
         }
       },
+      "309700": {
+        "position": 7,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
       "309701": {
         "position": 5,
         "section_options": {
@@ -2868,14 +2868,6 @@
       },
       "309703": {
         "position": 6,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "309705": {
-        "position": 8,
         "section_options": {
           "display_name": null,
           "use_section_title": false,
@@ -5769,179 +5761,6 @@
         "station_food_tags": [],
         "menu_id": 309697,
         "food_variation_id": 54818
-      },
-      {
-        "id": 426556902,
-        "date": null,
-        "position": 0,
-        "is_section_title": true,
-        "bold": false,
-        "featured": false,
-        "text": "Dessert",
-        "no_line_break": false,
-        "blank_line": false,
-        "food": null,
-        "is_holiday": false,
-        "food_list": null,
-        "station_id": 40548,
-        "is_station_header": true,
-        "station_is_collapsible": false,
-        "station_image_display_mode": "standard",
-        "station_logo": null,
-        "station_logo_alt": null,
-        "station_mobile_image": null,
-        "station_mobile_image_alt": null,
-        "image": "",
-        "image_description": null,
-        "image_alt": "Station: Dessert",
-        "image_thumbnail": "",
-        "category": "",
-        "price": null,
-        "serving_size": null,
-        "serving_size_amount": null,
-        "serving_size_unit": null,
-        "smart_recipe_id": null,
-        "station_food_tags": [],
-        "menu_id": 309705,
-        "food_variation_id": null
-      },
-      {
-        "id": 426556903,
-        "date": null,
-        "position": 1,
-        "is_section_title": false,
-        "bold": false,
-        "featured": false,
-        "text": "",
-        "no_line_break": false,
-        "blank_line": false,
-        "food": {
-          "id": 2081946,
-          "name": "Mango Banana Smoothie",
-          "description": "Blended beverage with mangos, bananas, apple juice and yogurt",
-          "image_url": null,
-          "image_alt_text": null,
-          "hoverpic_url": null,
-          "price": null,
-          "ingredients": "Mangos, Apple Juice^, Ice, Banana, Vanilla Fat Free Frozen Yogurt^",
-          "food_category": "",
-          "food_highlight_message": null,
-          "file_url": "",
-          "download_label": "View Manufacturer's Label",
-          "rounded_nutrition_info": {
-            "calories": 190,
-            "g_fat": 1,
-            "g_saturated_fat": 0,
-            "g_trans_fat": 0,
-            "mg_cholesterol": 0,
-            "g_carbs": 46,
-            "g_added_sugar": null,
-            "g_sugar": 37,
-            "mg_potassium": 540,
-            "mg_sodium": 25,
-            "g_fiber": 4,
-            "g_protein": 3,
-            "mg_iron": 0.4,
-            "mg_calcium": 60,
-            "mg_vitamin_c": null,
-            "iu_vitamin_a": null,
-            "re_vitamin_a": null,
-            "mcg_vitamin_a": null,
-            "mg_vitamin_d": 0,
-            "mcg_vitamin_d": null
-          },
-          "serving_size_info": {
-            "serving_size_amount": "1.5",
-            "serving_size_unit": "cups"
-          },
-          "has_nutrition_info": true,
-          "icons": {
-            "food_icons": [
-              {
-                "id": 32917,
-                "synced_name": "Milk",
-                "enabled": true,
-                "spotlight_enabled": false,
-                "sprite": {
-                  "slug": "default.milk",
-                  "name": "Milk",
-                  "help_text": "This contains milk",
-                  "class_name": "milk-icon"
-                },
-                "custom_icon_url": null,
-                "custom_icon": null,
-                "custom_spotlight_icon_url": null,
-                "custom_spotlight_icon": null,
-                "type": 1,
-                "behavior": 1,
-                "is_filter": true,
-                "is_highlight": false,
-                "is_digital_signage_only": false,
-                "slug": "milk",
-                "icon_slug": "default.milk",
-                "spotlight_icon_slug": null,
-                "name": "Milk",
-                "_synced_name": "",
-                "help_text": "This contains milk",
-                "sort_order": 0,
-                "_enabled": true,
-                "food_icon_group": 6783
-              }
-            ],
-            "myplate_icons": []
-          },
-          "icons_approved": true,
-          "aggregated_data": {
-            "price_adjustment": 0,
-            "icons_approved": true,
-            "food_icons": [],
-            "calories": 0
-          },
-          "food_sizes": [],
-          "ds_calories_override": "",
-          "synced_id": "25303",
-          "sync_placeholder": null,
-          "has_options_or_sides": false,
-          "digest": "0xHZike4PCqPXfzTCgPYwxpXheDokzRWWZ9oIP2OUgmbVD4wm+DYnUcdFPnf8B1ajXbnrY0s7z5YM6Br8FtQ0w==",
-          "pos_item_id": "",
-          "smart_recipe_id": null,
-          "has_subfoods": false,
-          "meal_plan_price": null,
-          "use_custom_sizes": true,
-          "tags": [],
-          "synced_subtext": "",
-          "synced_nested_foods": [],
-          "synced_ordering_enabled": true,
-          "subtext": "",
-          "subtext_unlocked": false,
-          "nested_foods": [],
-          "nested_foods_unlocked": false,
-          "ordering_enabled": true,
-          "ordering_enabled_unlocked": false
-        },
-        "is_holiday": false,
-        "food_list": null,
-        "station_id": 40548,
-        "is_station_header": false,
-        "station_is_collapsible": false,
-        "station_image_display_mode": "standard",
-        "station_logo": null,
-        "station_logo_alt": null,
-        "station_mobile_image": null,
-        "station_mobile_image_alt": null,
-        "image": "",
-        "image_description": null,
-        "image_alt": null,
-        "image_thumbnail": "",
-        "category": "",
-        "price": null,
-        "serving_size": null,
-        "serving_size_amount": 1.5,
-        "serving_size_unit": "cups",
-        "smart_recipe_id": null,
-        "station_food_tags": [],
-        "menu_id": 309705,
-        "food_variation_id": 392701
       }
     ]
   },
@@ -5974,7 +5793,7 @@
         }
       },
       "309697": {
-        "position": 7,
+        "position": 8,
         "section_options": {
           "display_name": null,
           "use_section_title": false,
@@ -5991,6 +5810,14 @@
       },
       "309699": {
         "position": 4,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
+      "309700": {
+        "position": 7,
         "section_options": {
           "display_name": null,
           "use_section_title": false,
@@ -8645,7 +8472,7 @@
         }
       },
       "309697": {
-        "position": 7,
+        "position": 8,
         "section_options": {
           "display_name": null,
           "use_section_title": false,
@@ -8668,6 +8495,14 @@
           "section_title_can_expand_collapse": true
         }
       },
+      "309700": {
+        "position": 7,
+        "section_options": {
+          "display_name": null,
+          "use_section_title": false,
+          "section_title_can_expand_collapse": true
+        }
+      },
       "309701": {
         "position": 5,
         "section_options": {
@@ -8678,14 +8513,6 @@
       },
       "309703": {
         "position": 6,
-        "section_options": {
-          "display_name": null,
-          "use_section_title": false,
-          "section_title_can_expand_collapse": true
-        }
-      },
-      "309705": {
-        "position": 8,
         "section_options": {
           "display_name": null,
           "use_section_title": false,
@@ -11152,209 +10979,6 @@
         "station_food_tags": [],
         "menu_id": 309697,
         "food_variation_id": 700933
-      },
-      {
-        "id": 426556894,
-        "date": null,
-        "position": 0,
-        "is_section_title": true,
-        "bold": false,
-        "featured": false,
-        "text": "Dessert",
-        "no_line_break": false,
-        "blank_line": false,
-        "food": null,
-        "is_holiday": false,
-        "food_list": null,
-        "station_id": 40548,
-        "is_station_header": true,
-        "station_is_collapsible": false,
-        "station_image_display_mode": "standard",
-        "station_logo": null,
-        "station_logo_alt": null,
-        "station_mobile_image": null,
-        "station_mobile_image_alt": null,
-        "image": "",
-        "image_description": null,
-        "image_alt": "Station: Dessert",
-        "image_thumbnail": "",
-        "category": "",
-        "price": null,
-        "serving_size": null,
-        "serving_size_amount": null,
-        "serving_size_unit": null,
-        "smart_recipe_id": null,
-        "station_food_tags": [],
-        "menu_id": 309705,
-        "food_variation_id": null
-      },
-      {
-        "id": 426556895,
-        "date": null,
-        "position": 1,
-        "is_section_title": false,
-        "bold": false,
-        "featured": false,
-        "text": "",
-        "no_line_break": false,
-        "blank_line": false,
-        "food": {
-          "id": 1923864,
-          "name": "Gluten Free Chocolate Chip Cookie.",
-          "description": "",
-          "image_url": null,
-          "image_alt_text": null,
-          "hoverpic_url": null,
-          "price": null,
-          "ingredients": "Gluten Free Chocolate Chip Cookie Dough^",
-          "food_category": "",
-          "food_highlight_message": null,
-          "file_url": "",
-          "download_label": "View Manufacturer's Label",
-          "rounded_nutrition_info": {
-            "calories": 180,
-            "g_fat": 9,
-            "g_saturated_fat": 3.5,
-            "g_trans_fat": 0,
-            "mg_cholesterol": 14,
-            "g_carbs": 26,
-            "g_added_sugar": null,
-            "g_sugar": 15,
-            "mg_potassium": 15,
-            "mg_sodium": 100,
-            "g_fiber": 1,
-            "g_protein": 2,
-            "mg_iron": 1.6,
-            "mg_calcium": 10,
-            "mg_vitamin_c": 0,
-            "iu_vitamin_a": null,
-            "re_vitamin_a": null,
-            "mcg_vitamin_a": null,
-            "mg_vitamin_d": 0,
-            "mcg_vitamin_d": null
-          },
-          "serving_size_info": {
-            "serving_size_amount": "1",
-            "serving_size_unit": "each"
-          },
-          "has_nutrition_info": true,
-          "icons": {
-            "food_icons": [
-              {
-                "id": 32918,
-                "synced_name": "Egg",
-                "enabled": true,
-                "spotlight_enabled": false,
-                "sprite": {
-                  "slug": "default.egg",
-                  "name": "Egg",
-                  "help_text": "This contains egg",
-                  "class_name": "egg-icon"
-                },
-                "custom_icon_url": null,
-                "custom_icon": null,
-                "custom_spotlight_icon_url": null,
-                "custom_spotlight_icon": null,
-                "type": 1,
-                "behavior": 1,
-                "is_filter": true,
-                "is_highlight": false,
-                "is_digital_signage_only": false,
-                "slug": "egg",
-                "icon_slug": "default.egg",
-                "spotlight_icon_slug": null,
-                "name": "Egg",
-                "_synced_name": "",
-                "help_text": "This contains egg",
-                "sort_order": 1,
-                "_enabled": true,
-                "food_icon_group": 6783
-              },
-              {
-                "id": 32920,
-                "synced_name": "Soy",
-                "enabled": true,
-                "spotlight_enabled": false,
-                "sprite": {
-                  "slug": "default.soy",
-                  "name": "Soy",
-                  "help_text": "This contains soy",
-                  "class_name": "soy-icon"
-                },
-                "custom_icon_url": null,
-                "custom_icon": null,
-                "custom_spotlight_icon_url": null,
-                "custom_spotlight_icon": null,
-                "type": 1,
-                "behavior": 1,
-                "is_filter": true,
-                "is_highlight": false,
-                "is_digital_signage_only": false,
-                "slug": "soy",
-                "icon_slug": "default.soy",
-                "spotlight_icon_slug": null,
-                "name": "Soy",
-                "_synced_name": "",
-                "help_text": "This contains soy",
-                "sort_order": 3,
-                "_enabled": true,
-                "food_icon_group": 6783
-              }
-            ],
-            "myplate_icons": []
-          },
-          "icons_approved": true,
-          "aggregated_data": {
-            "price_adjustment": 0,
-            "icons_approved": true,
-            "food_icons": [],
-            "calories": 0
-          },
-          "food_sizes": [],
-          "ds_calories_override": "",
-          "synced_id": "101816",
-          "sync_placeholder": null,
-          "has_options_or_sides": false,
-          "digest": "/Eja66YVDPgueRAgEP0s9faOfy2wzRYzBQVNYJDg6pya1PMp5ooi4/G72GXosHY+DysG5mnUsGjxk8kQpq8gQQ==",
-          "pos_item_id": "",
-          "smart_recipe_id": null,
-          "has_subfoods": false,
-          "meal_plan_price": null,
-          "use_custom_sizes": true,
-          "tags": [],
-          "synced_subtext": "",
-          "synced_nested_foods": [],
-          "synced_ordering_enabled": true,
-          "subtext": "",
-          "subtext_unlocked": false,
-          "nested_foods": [],
-          "nested_foods_unlocked": true,
-          "ordering_enabled": true,
-          "ordering_enabled_unlocked": false
-        },
-        "is_holiday": false,
-        "food_list": null,
-        "station_id": 40548,
-        "is_station_header": false,
-        "station_is_collapsible": false,
-        "station_image_display_mode": "standard",
-        "station_logo": null,
-        "station_logo_alt": null,
-        "station_mobile_image": null,
-        "station_mobile_image_alt": null,
-        "image": "",
-        "image_description": null,
-        "image_alt": null,
-        "image_thumbnail": "",
-        "category": "",
-        "price": null,
-        "serving_size": null,
-        "serving_size_amount": 1,
-        "serving_size_unit": "each",
-        "smart_recipe_id": null,
-        "station_food_tags": [],
-        "menu_id": 309705,
-        "food_variation_id": 54701
       }
     ]
   },
