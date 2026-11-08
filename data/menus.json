@@ -5708,5 +5708,1918 @@
         "category": null
       }
     ]
+  },
+  "2026-11-02": {
+    "date": "2026-11-02",
+    "has_unpublished_menus": false,
+    "menu_info": {
+      "name": "Lunch - 2026-11-02"
+    },
+    "menu_items": [
+      {
+        "id": "manual-2026-11-02-0",
+        "date": "2026-11-02",
+        "position": 0,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-02-0",
+          "name": "Lentil Soup",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "manual-2026-11-02-1",
+        "date": "2026-11-02",
+        "position": 1,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-02-1",
+          "name": "Pasta with Pomodoro",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "manual-2026-11-02-2",
+        "date": "2026-11-02",
+        "position": 2,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-02-2",
+          "name": "\"Meatballs\" Quinoa Cauliflower",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "manual-2026-11-02-3",
+        "date": "2026-11-02",
+        "position": 3,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-02-3",
+          "name": "Garlic Bread",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "manual-2026-11-02-4",
+        "date": "2026-11-02",
+        "position": 4,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-02-4",
+          "name": "Garlic Swiss Chard",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      }
+    ]
+  },
+  "2026-11-04": {
+    "date": "2026-11-04",
+    "has_unpublished_menus": false,
+    "menu_info": {
+      "name": "Lunch - 2026-11-04"
+    },
+    "menu_items": [
+      {
+        "id": "manual-2026-11-04-0",
+        "date": "2026-11-04",
+        "position": 0,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-04-0",
+          "name": "Black Bean Soup",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "manual-2026-11-04-1",
+        "date": "2026-11-04",
+        "position": 1,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-04-1",
+          "name": "Ground Beef",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "manual-2026-11-04-2",
+        "date": "2026-11-04",
+        "position": 2,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-04-2",
+          "name": "Black Bean & Spinach Enchilada",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "manual-2026-11-04-3",
+        "date": "2026-11-04",
+        "position": 3,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-04-3",
+          "name": "Fresh Guacamole",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "manual-2026-11-04-4",
+        "date": "2026-11-04",
+        "position": 4,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-04-4",
+          "name": "Pico de Gallo",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "manual-2026-11-04-5",
+        "date": "2026-11-04",
+        "position": 5,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-04-5",
+          "name": "Fiesta Rice",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      }
+    ]
+  },
+  "2026-11-05": {
+    "date": "2026-11-05",
+    "has_unpublished_menus": false,
+    "menu_info": {
+      "name": "Lunch - 2026-11-05"
+    },
+    "menu_items": [
+      {
+        "id": "manual-2026-11-05-0",
+        "date": "2026-11-05",
+        "position": 0,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-05-0",
+          "name": "Miso Soup",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "manual-2026-11-05-1",
+        "date": "2026-11-05",
+        "position": 1,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-05-1",
+          "name": "Chicken Teriyaki",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "manual-2026-11-05-2",
+        "date": "2026-11-05",
+        "position": 2,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-05-2",
+          "name": "Sweet Chili Tofu",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "manual-2026-11-05-3",
+        "date": "2026-11-05",
+        "position": 3,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-05-3",
+          "name": "Bok Choy",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "manual-2026-11-05-4",
+        "date": "2026-11-05",
+        "position": 4,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-05-4",
+          "name": "Lo Mein Noodle",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      }
+    ]
+  },
+  "2026-11-06": {
+    "date": "2026-11-06",
+    "has_unpublished_menus": false,
+    "menu_info": {
+      "name": "Lunch - 2026-11-06"
+    },
+    "menu_items": [
+      {
+        "id": "manual-2026-11-06-0",
+        "date": "2026-11-06",
+        "position": 0,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-06-0",
+          "name": "Carrot Bisque Soup",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "manual-2026-11-06-1",
+        "date": "2026-11-06",
+        "position": 1,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-06-1",
+          "name": "Pepperoni Pizza",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "manual-2026-11-06-2",
+        "date": "2026-11-06",
+        "position": 2,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-06-2",
+          "name": "Cheese Pizza",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "manual-2026-11-06-3",
+        "date": "2026-11-06",
+        "position": 3,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-06-3",
+          "name": "Broccoli Fresh Sauteed",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      }
+    ]
+  },
+  "2026-11-09": {
+    "date": "2026-11-09",
+    "has_unpublished_menus": false,
+    "menu_info": {
+      "name": "Lunch - 2026-11-09"
+    },
+    "menu_items": [
+      {
+        "id": "manual-2026-11-09-0",
+        "date": "2026-11-09",
+        "position": 0,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-09-0",
+          "name": "Chicken & Vegetable Soup",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "manual-2026-11-09-1",
+        "date": "2026-11-09",
+        "position": 1,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-09-1",
+          "name": "Pasta with Pomodoro Sauce",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "manual-2026-11-09-2",
+        "date": "2026-11-09",
+        "position": 2,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-09-2",
+          "name": "Cheese Tortellini with Marinara Sauce",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "manual-2026-11-09-3",
+        "date": "2026-11-09",
+        "position": 3,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-09-3",
+          "name": "Focaccia Bread",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "manual-2026-11-09-4",
+        "date": "2026-11-09",
+        "position": 4,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-09-4",
+          "name": "Roasted Brussels Sprouts",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      }
+    ]
+  },
+  "2026-11-10": {
+    "date": "2026-11-10",
+    "has_unpublished_menus": false,
+    "menu_info": {
+      "name": "Lunch - 2026-11-10"
+    },
+    "menu_items": [
+      {
+        "id": "manual-2026-11-10-0",
+        "date": "2026-11-10",
+        "position": 0,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-10-0",
+          "name": "Cauliflower Roasted Soup",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "manual-2026-11-10-1",
+        "date": "2026-11-10",
+        "position": 1,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-10-1",
+          "name": "Mojo Pork",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "manual-2026-11-10-2",
+        "date": "2026-11-10",
+        "position": 2,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-10-2",
+          "name": "Mojo Portobello",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "manual-2026-11-10-3",
+        "date": "2026-11-10",
+        "position": 3,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-10-3",
+          "name": "Steamed Broccoli",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "manual-2026-11-10-4",
+        "date": "2026-11-10",
+        "position": 4,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-10-4",
+          "name": "Sweet Plantains",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "manual-2026-11-10-5",
+        "date": "2026-11-10",
+        "position": 5,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-10-5",
+          "name": "White Rice and Red Beans",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      }
+    ]
+  },
+  "2026-11-11": {
+    "date": "2026-11-11",
+    "has_unpublished_menus": false,
+    "menu_info": {
+      "name": "Lunch - 2026-11-11"
+    },
+    "menu_items": [
+      {
+        "id": "manual-2026-11-11-0",
+        "date": "2026-11-11",
+        "position": 0,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-11-0",
+          "name": "White Bean & Kale Soup",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "manual-2026-11-11-1",
+        "date": "2026-11-11",
+        "position": 1,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-11-1",
+          "name": "Lemon Thyme Chicken",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "manual-2026-11-11-2",
+        "date": "2026-11-11",
+        "position": 2,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-11-2",
+          "name": "Grilled Tofu",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "manual-2026-11-11-3",
+        "date": "2026-11-11",
+        "position": 3,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-11-3",
+          "name": "Cauliflower Steak",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "manual-2026-11-11-4",
+        "date": "2026-11-11",
+        "position": 4,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-11-4",
+          "name": "Roasted Potatoes",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      }
+    ]
+  },
+  "2026-11-12": {
+    "date": "2026-11-12",
+    "has_unpublished_menus": false,
+    "menu_info": {
+      "name": "Lunch - 2026-11-12"
+    },
+    "menu_items": [
+      {
+        "id": "manual-2026-11-12-0",
+        "date": "2026-11-12",
+        "position": 0,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-12-0",
+          "name": "Tortilla Soup",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "manual-2026-11-12-1",
+        "date": "2026-11-12",
+        "position": 1,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-12-1",
+          "name": "Turkey Ground Taco",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "manual-2026-11-12-2",
+        "date": "2026-11-12",
+        "position": 2,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-12-2",
+          "name": "Mushroom Taco",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "manual-2026-11-12-3",
+        "date": "2026-11-12",
+        "position": 3,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-12-3",
+          "name": "Mexican Rice",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "manual-2026-11-12-4",
+        "date": "2026-11-12",
+        "position": 4,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-12-4",
+          "name": "Chili Roasted Squash and Zucchini",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      }
+    ]
+  },
+  "2026-11-13": {
+    "date": "2026-11-13",
+    "has_unpublished_menus": false,
+    "menu_info": {
+      "name": "Lunch - 2026-11-13"
+    },
+    "menu_items": [
+      {
+        "id": "manual-2026-11-13-0",
+        "date": "2026-11-13",
+        "position": 0,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-13-0",
+          "name": "Tomato Soup",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "manual-2026-11-13-1",
+        "date": "2026-11-13",
+        "position": 1,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-13-1",
+          "name": "Grilled Cheese",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "manual-2026-11-13-2",
+        "date": "2026-11-13",
+        "position": 2,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-13-2",
+          "name": "Vegetables Panini",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "manual-2026-11-13-3",
+        "date": "2026-11-13",
+        "position": 3,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-13-3",
+          "name": "Baked Carrot Fries",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "manual-2026-11-13-4",
+        "date": "2026-11-13",
+        "position": 4,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-13-4",
+          "name": "Sauteed Spinach",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      }
+    ]
+  },
+  "2026-11-16": {
+    "date": "2026-11-16",
+    "has_unpublished_menus": false,
+    "menu_info": {
+      "name": "Lunch - 2026-11-16"
+    },
+    "menu_items": [
+      {
+        "id": "manual-2026-11-16-0",
+        "date": "2026-11-16",
+        "position": 0,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-16-0",
+          "name": "Split Pea Soup",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "manual-2026-11-16-1",
+        "date": "2026-11-16",
+        "position": 1,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-16-1",
+          "name": "Pasta Penne with Pomodoro",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "manual-2026-11-16-2",
+        "date": "2026-11-16",
+        "position": 2,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-16-2",
+          "name": "Pasta Penne with Arugula and Roasted Tomatoes",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "manual-2026-11-16-3",
+        "date": "2026-11-16",
+        "position": 3,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-16-3",
+          "name": "Garlic Bread",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "manual-2026-11-16-4",
+        "date": "2026-11-16",
+        "position": 4,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-16-4",
+          "name": "Sauteed Kale and Spinach",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      }
+    ]
+  },
+  "2026-11-17": {
+    "date": "2026-11-17",
+    "has_unpublished_menus": false,
+    "menu_info": {
+      "name": "Lunch - 2026-11-17"
+    },
+    "menu_items": [
+      {
+        "id": "manual-2026-11-17-0",
+        "date": "2026-11-17",
+        "position": 0,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-17-0",
+          "name": "Black Bean Soup",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "manual-2026-11-17-1",
+        "date": "2026-11-17",
+        "position": 1,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-17-1",
+          "name": "Chicken Tenders",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "manual-2026-11-17-2",
+        "date": "2026-11-17",
+        "position": 2,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-17-2",
+          "name": "Crispy Cauliflower",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "manual-2026-11-17-3",
+        "date": "2026-11-17",
+        "position": 3,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-17-3",
+          "name": "Roasted Green Beans",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "manual-2026-11-17-4",
+        "date": "2026-11-17",
+        "position": 4,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-17-4",
+          "name": "Lemon Orzo",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      }
+    ]
+  },
+  "2026-11-18": {
+    "date": "2026-11-18",
+    "has_unpublished_menus": false,
+    "menu_info": {
+      "name": "Lunch - 2026-11-18"
+    },
+    "menu_items": [
+      {
+        "id": "manual-2026-11-18-0",
+        "date": "2026-11-18",
+        "position": 0,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-18-0",
+          "name": "Mushroom Soup",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "manual-2026-11-18-1",
+        "date": "2026-11-18",
+        "position": 1,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-18-1",
+          "name": "Flank Steak",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "manual-2026-11-18-2",
+        "date": "2026-11-18",
+        "position": 2,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-18-2",
+          "name": "Stewed Chickpea",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "manual-2026-11-18-3",
+        "date": "2026-11-18",
+        "position": 3,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-18-3",
+          "name": "Garlic Swiss Chard",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "manual-2026-11-18-4",
+        "date": "2026-11-18",
+        "position": 4,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-18-4",
+          "name": "Smashed Yukon Potatoes",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      }
+    ]
+  },
+  "2026-11-19": {
+    "date": "2026-11-19",
+    "has_unpublished_menus": false,
+    "menu_info": {
+      "name": "Lunch - 2026-11-19"
+    },
+    "menu_items": [
+      {
+        "id": "manual-2026-11-19-0",
+        "date": "2026-11-19",
+        "position": 0,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-19-0",
+          "name": "Butternut Squash",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "manual-2026-11-19-1",
+        "date": "2026-11-19",
+        "position": 1,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-19-1",
+          "name": "Roasted Turkey Breast",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "manual-2026-11-19-2",
+        "date": "2026-11-19",
+        "position": 2,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-19-2",
+          "name": "Cornbread Stuffing",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "manual-2026-11-19-3",
+        "date": "2026-11-19",
+        "position": 3,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-19-3",
+          "name": "Brussels Sprouts",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "manual-2026-11-19-4",
+        "date": "2026-11-19",
+        "position": 4,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-19-4",
+          "name": "Butternut Squash Cranberry & Dijon Vinaigrette",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "manual-2026-11-19-5",
+        "date": "2026-11-19",
+        "position": 5,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-19-5",
+          "name": "Sweet Potato Mashed",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      }
+    ]
+  },
+  "2026-11-20": {
+    "date": "2026-11-20",
+    "has_unpublished_menus": false,
+    "menu_info": {
+      "name": "Lunch - 2026-11-20"
+    },
+    "menu_items": [
+      {
+        "id": "manual-2026-11-20-0",
+        "date": "2026-11-20",
+        "position": 0,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-20-0",
+          "name": "White Bean Tuscan Soup",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "manual-2026-11-20-1",
+        "date": "2026-11-20",
+        "position": 1,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-20-1",
+          "name": "Pepperoni Pizza",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "manual-2026-11-20-2",
+        "date": "2026-11-20",
+        "position": 2,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-20-2",
+          "name": "Cheese Pizza",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "manual-2026-11-20-3",
+        "date": "2026-11-20",
+        "position": 3,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-20-3",
+          "name": "Sauteed Fresh Broccoli",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      }
+    ]
+  },
+  "2026-11-23": {
+    "date": "2026-11-23",
+    "has_unpublished_menus": false,
+    "menu_info": {
+      "name": "Lunch - 2026-11-23"
+    },
+    "menu_items": [
+      {
+        "id": "manual-2026-11-23-0",
+        "date": "2026-11-23",
+        "position": 0,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-23-0",
+          "name": "Italian Wedding Soup",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "manual-2026-11-23-1",
+        "date": "2026-11-23",
+        "position": 1,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-23-1",
+          "name": "Bowtie Pasta with Beef Bolognese",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "manual-2026-11-23-2",
+        "date": "2026-11-23",
+        "position": 2,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-23-2",
+          "name": "Pasta with Mushroom Bolognese",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "manual-2026-11-23-3",
+        "date": "2026-11-23",
+        "position": 3,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-23-3",
+          "name": "Focaccia Bread",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "manual-2026-11-23-4",
+        "date": "2026-11-23",
+        "position": 4,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-23-4",
+          "name": "Lemon Charred Broccolini",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      }
+    ]
+  },
+  "2026-11-24": {
+    "date": "2026-11-24",
+    "has_unpublished_menus": false,
+    "menu_info": {
+      "name": "Lunch - 2026-11-24"
+    },
+    "menu_items": [
+      {
+        "id": "manual-2026-11-24-0",
+        "date": "2026-11-24",
+        "position": 0,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-24-0",
+          "name": "Split Pea Soup",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "manual-2026-11-24-1",
+        "date": "2026-11-24",
+        "position": 1,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-24-1",
+          "name": "Jerk Chicken",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "manual-2026-11-24-2",
+        "date": "2026-11-24",
+        "position": 2,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-24-2",
+          "name": "Jerk Tofu",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "manual-2026-11-24-3",
+        "date": "2026-11-24",
+        "position": 3,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-24-3",
+          "name": "Black Beans and Rice",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "manual-2026-11-24-4",
+        "date": "2026-11-24",
+        "position": 4,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-24-4",
+          "name": "Brussels Sprouts",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "manual-2026-11-24-5",
+        "date": "2026-11-24",
+        "position": 5,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-24-5",
+          "name": "Cabbage",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      }
+    ]
+  },
+  "2026-11-30": {
+    "date": "2026-11-30",
+    "has_unpublished_menus": false,
+    "menu_info": {
+      "name": "Lunch - 2026-11-30"
+    },
+    "menu_items": [
+      {
+        "id": "manual-2026-11-30-0",
+        "date": "2026-11-30",
+        "position": 0,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-30-0",
+          "name": "Butternut Squash Soup",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "manual-2026-11-30-1",
+        "date": "2026-11-30",
+        "position": 1,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-30-1",
+          "name": "Marinara Sauce",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "manual-2026-11-30-2",
+        "date": "2026-11-30",
+        "position": 2,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-30-2",
+          "name": "Creamy Alfredo Spaghetti",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "manual-2026-11-30-3",
+        "date": "2026-11-30",
+        "position": 3,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-30-3",
+          "name": "Squash Spaghetti",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "manual-2026-11-30-4",
+        "date": "2026-11-30",
+        "position": 4,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-30-4",
+          "name": "Focaccia Bread",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      },
+      {
+        "id": "manual-2026-11-30-5",
+        "date": "2026-11-30",
+        "position": 5,
+        "is_section_title": false,
+        "text": "",
+        "food": {
+          "id": "manual-2026-11-30-5",
+          "name": "Sauteed Spinach",
+          "description": "",
+          "icons": {
+            "food_icons": []
+          },
+          "rounded_nutrition_info": {
+            "calories": null
+          }
+        },
+        "price": null,
+        "category": null
+      }
+    ]
   }
 }
